@@ -1,0 +1,230 @@
+# Translation of Plugins - Templately &#8211; Templates Cloud for Elementor &amp; Gutenberg : 3000+ Free &amp; Premium Designs! - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Templately &#8211; Templates Cloud for Elementor &amp; Gutenberg : 3000+ Free &amp; Premium Designs! - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-11 14:20:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Templately &#8211; Templates Cloud for Elementor &amp; Gutenberg : 3000+ Free &amp; Premium Designs! - Stable (latest release)\n"
+
+#: includes/Core/Admin.php:127
+msgid "We hope you're enjoying %s! Could you please do us a favor and give us a review on %s to help us spread the word and boost our motivation?"
+msgstr "We hopen dat je geniet van %s! Kun je ons een plezier doen en ons een beoordeling geven op %s om ons te helpen het woord te verspreiden en onze motivatie te verhogen?"
+
+#: includes/Core/Platform/Elementor.php:84
+msgid "You have to install/activate %s to import %s Template."
+msgstr "Je moet %s installeren/activeren om %s template te importeren."
+
+#: includes/Plugin.php:82
+msgid "Unserializing instances of this class is forbidden."
+msgstr "Unserialiseren van instanties van deze klasse is verboden."
+
+#: includes/Plugin.php:73
+msgid "Cloning is forbidden."
+msgstr "Klonen is verboden."
+
+#: includes/Core/Platform/Gutenberg.php:84
+msgid "Save %s in Templately"
+msgstr "Opslaan %s in Templately"
+
+#: includes/Core/Platform/Elementor.php:191
+msgid "Something must went wrong."
+msgstr "Er moet iets mis zijn gegaan."
+
+#: includes/Core/Admin.php:166
+msgid "Never show again"
+msgstr "Nooit meer laten zien"
+
+#: includes/Core/Admin.php:162
+msgid "I need help"
+msgstr "Ik heb hulp nodig"
+
+#: includes/Core/Admin.php:150
+msgid "Maybe Later"
+msgstr "Misschien later"
+
+#: includes/Core/Admin.php:143
+msgid "I already did"
+msgstr "Heb ik al gedaan"
+
+#: includes/Core/Admin.php:139
+msgid "Sure, you deserve it!"
+msgstr "Tuurlijk, je verdient het!"
+
+#: includes/API/WorkSpaces.php:292
+msgid "Invalid item id for delete cloud item."
+msgstr "Ongeldig item id voor verwijderen cloud item."
+
+#: includes/API/WorkSpaces.php:264
+msgid "Invalid item id for get cloud item."
+msgstr "Ongeldig item id voor get cloud item."
+
+#: includes/API/WorkSpaces.php:244
+msgid "Invalid Files ID."
+msgstr "Ongeldige bestands ID."
+
+#: includes/API/WorkSpaces.php:240
+msgid "Invalid Workspace ID."
+msgstr "Ongeldige werkruimte ID."
+
+#: includes/API/WorkSpaces.php:212
+msgid "You should provide a valid WorkSpace ID."
+msgstr "Je moet een geldige werkruimte ID overleggen."
+
+#: includes/API/WorkSpaces.php:133
+msgid "Workspace name cannot be empty."
+msgstr "De naam van de werkruimte kan niet leeg zijn."
+
+#: includes/API/WorkSpaces.php:113
+msgid "The workspace you looking for is not exists anymore."
+msgstr "De werkruimte die je zoekt bestaat niet meer."
+
+#: includes/API/WorkSpaces.php:76
+msgid "Invalid workspace slug for get workspace."
+msgstr "Ongeldige workspace slug voor get workspace."
+
+#: includes/API/WorkSpaces.php:32
+msgid "Sorry, you need to login/re-login to get your workspace list."
+msgstr "Je moet inloggen/opnieuw inloggen om je werkruimte lijst te krijgen."
+
+#: includes/API/SignUp.php:50
+msgid "Password and confirm password should be matched."
+msgstr "Wachtwoord en wachtwoord moeten overeenkomen."
+
+#: includes/API/SignUp.php:46
+msgid "Confirm password cannot be empty."
+msgstr "Het wachtwoord kan niet leeg zijn."
+
+#: includes/API/SignUp.php:43 assets/js/templately.js:1
+msgid "Password cannot be empty."
+msgstr "Het wachtwoord kan niet leeg zijn."
+
+#: includes/API/SignUp.php:37
+msgid "Email cannot be empty."
+msgstr "E-mail kan niet leeg zijn."
+
+#: includes/API/MyClouds.php:233
+msgid "Invalid Item ID for delete cloud item."
+msgstr "Ongeldig item ID voor verwijderen cloud item."
+
+#: includes/API/MyClouds.php:175
+msgid "Invalid Item ID for download cloud item."
+msgstr "Ongeldig item ID voor download cloud item."
+
+#: includes/API/Items.php:269
+msgid "Unfavourite Action Failed: Something went wrong."
+msgstr "Ongunstige actie mislukt: er ging iets mis."
+
+#: includes/API/Items.php:174
+msgid "Search keyword cannot be empty."
+msgstr "Het zoeken keyword kan niet leeg zijn."
+
+#: includes/API/Items.php:157
+msgid "Item data not found"
+msgstr "Item gegevens niet gevonden"
+
+#: includes/API/Items.php:135
+msgid "Items slug cannot be empty."
+msgstr "Items slug kunnen niet leeg zijn."
+
+#: includes/API/Import.php:55
+msgid "Template data is invalid. Please kindly contact Templately Support."
+msgstr "Template gegevens zijn ongeldig. Neem contact op met Templately ondersteuning."
+
+#: includes/API/Import.php:26 includes/API/Import.php:149
+#: includes/API/Import.php:161
+msgid "Invalid ID is provided."
+msgstr "Er is een ongeldige ID opgegeven."
+
+#: includes/API/Dependencies.php:126
+msgid "You have supplied an invalid requirements. Please reload the page and try again."
+msgstr "Je hebt ongeldige vereisten ingevuld. Laad de pagina opnieuw en probeer het opnieuw."
+
+#: includes/API/Dependencies.php:24
+msgid "Sorry, you do not have permission to install a plugin."
+msgstr "Jij hebt geen toestemming om een plugin te installeren."
+
+#: includes/API/API.php:148
+msgid "Sorry, you need to login/re-login again."
+msgstr "Je moet inloggen/opnieuw inloggen."
+
+#. Description of the plugin
+msgid "The Best Templates Cloud for Elementor & Gutenberg. Get access to stunning templates, WorkSpace, Cloud Library & many more."
+msgstr "De beste templatescloud voor Elementor en Gutenberg. Krijg toegang tot verbluffende templates, WorkSpace, Cloud Library en nog veel meer."
+
+#: includes/Utils/Installer.php:93
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Kan geen verbinding maken met het bestandssysteem. Bevestig je inloggegevens."
+
+#: includes/API/Dependencies.php:109
+msgid "You have the plugin installed."
+msgstr "Je hebt de plugin geïnstalleerd."
+
+#: includes/Core/Admin.php:255
+msgid "plugin to be installed and activated. Please install Elementor to continue."
+msgstr "plugin die moet worden geïnstalleerd en geactiveerd. Installeer Elementor om door te gaan."
+
+#: includes/API/Dependencies.php:82 includes/Core/Admin.php:254
+#: assets/js/templately.js:1
+msgid "Elementor"
+msgstr "Elementor"
+
+#: includes/Core/Admin.php:253
+msgid "requires"
+msgstr "vereist"
+
+#: views/header.php:10
+msgid "Version"
+msgstr "Versie"
+
+#: includes/API/Login.php:135
+msgid "Logged out."
+msgstr "Uitgelogd."
+
+#: includes/Core/Platform/Elementor.php:185
+msgid "Successfully Deleted."
+msgstr "Succesvol verwijderd."
+
+#: includes/API/SignUp.php:34 assets/js/templately.js:1
+msgid "Last name cannot be empty."
+msgstr "Achternaam mag niet leeg zijn."
+
+#: includes/API/SignUp.php:31 assets/js/templately.js:1
+msgid "First name cannot be empty."
+msgstr "Voornaam mag niet leeg zijn."
+
+#: includes/API/Login.php:57
+msgid "Password field cannot be empty."
+msgstr "Wachtwoordveld mag niet leeg zijn."
+
+#: includes/API/Login.php:53 includes/API/SignUp.php:40
+msgid "Make sure you have given a valid email address."
+msgstr "Zorg ervoor dat je een geldig e-mailadres hebt opgegeven."
+
+#: includes/API/Login.php:46
+msgid "API Key field cannot be empty."
+msgstr "API sleutelveld mag niet leeg zijn."
+
+#: includes/Utils/Base.php:31 includes/Utils/Base.php:42
+#: assets/js/templately.js:1
+msgid "Something went wrong."
+msgstr "Er is iets fout gegaan."
+
+#. Author URI of the plugin
+msgid "https://templately.com/"
+msgstr "https://templately.com/"
+
+#. Plugin URI of the plugin
+msgid "https://templately.com"
+msgstr "https://templately.com"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/Core/Admin.php:252 includes/Core/Platform/Gutenberg.php:80
+#: views/header.php:7 assets/js/elementor.js:1
+msgid "Templately"
+msgstr "Templately"

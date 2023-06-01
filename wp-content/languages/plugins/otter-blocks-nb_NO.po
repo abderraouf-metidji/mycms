@@ -1,0 +1,119 @@
+# Translation of Plugins - Otter &#8211; Gutenberg Blocks – Page Builder for Gutenberg Editor &amp; FSE - Development (trunk) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Otter &#8211; Gutenberg Blocks – Page Builder for Gutenberg Editor &amp; FSE - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-08 13:35:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Otter &#8211; Gutenberg Blocks – Page Builder for Gutenberg Editor &amp; FSE - Development (trunk)\n"
+
+#: inc/render/class-posts-grid-block.php:217
+msgid "Posted on"
+msgstr "Publisert"
+
+#: inc/server/class-dynamic-content-server.php:118
+msgid "Meta key."
+msgstr "Metanøkkel."
+
+#: inc/class-pro.php:273
+msgid "Update"
+msgstr "Oppdater"
+
+#: inc/plugins/class-options-settings.php:152
+msgid "Anonymous data tracking object."
+msgstr "Objekt for anonym datasporing."
+
+#: inc/server/class-dashboard-server.php:137
+msgid "Styles deleted."
+msgstr "Stiler slettet."
+
+#: inc/server/class-dashboard-server.php:121
+msgid "Sorry, the directory doesn't exist."
+msgstr "Beklager, den katalogen finnes ikke."
+
+#: inc/server/class-dashboard-server.php:102
+msgid "Sorry, the filesystem isn't writeable."
+msgstr "Beklager, filsystemet er ikke skrivbart."
+
+#: inc/plugins/class-options-settings.php:142 build/dashboard/index.js:1
+msgid "Become a contributor by opting in to our anonymous data tracking. We guarantee no sensitive data is collected."
+msgstr "Bli en bidragsyter ved å bli med i vår anonyme datasporing. Vi garanterer at ingen sensitive data samles inn."
+
+#: inc/plugins/class-dashboard.php:55 inc/plugins/class-dashboard.php:56
+#: otter-blocks.php:69 build/blocks/blocks.js:1 build/blocks/blocks.js:5
+#: build/blocks/blocks.js:11 build/blocks/blocks.js:12
+#: build/blocks/blocks.js:16
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: inc/plugins/class-options-settings.php:76 build/dashboard/index.js:1
+msgid "Blocks Animation module allows to add CSS animations to each block in Block Editor."
+msgstr "Modulen for animering av blokker lar deg legge CSS-animeringer til hver blokk i blokkredigeringen."
+
+#: inc/plugins/class-options-settings.php:65 build/dashboard/index.js:1
+msgid "Custom CSS module allows to add custom CSS to each block in Block Editor."
+msgstr "Modulen for tilpasset CSS lar deg legge til tilpasset CSS for hver blokk i blokkredigeringen."
+
+#: inc/plugins/class-options-settings.php:43
+msgid "Redirect on new install."
+msgstr "Omdiriger på ny installasjon."
+
+#: inc/plugins/class-options-settings.php:248
+msgid "Make Section block your default block for Pages?"
+msgstr "Gjøre Seksjon til din standardblokk for sider?"
+
+#: inc/class-registration.php:113
+msgid "Otter"
+msgstr "Otter"
+
+#. Author URI of the plugin
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Plugin URI of the plugin
+msgid "https://themeisle.com/plugins/otter-blocks"
+msgstr "https://themeisle.com/plugins/otter-blocks"
+
+#: inc/class-registration.php:1029 inc/class-registration.php:1041
+#: inc/css/class-block-frontend.php:700 inc/css/class-block-frontend.php:712
+#: inc/css/class-css-handler.php:510 inc/css/class-css-handler.php:522
+#: inc/integrations/class-form-email.php:302
+#: inc/integrations/class-form-email.php:314
+#: inc/integrations/class-form-providers.php:141
+#: inc/integrations/class-form-providers.php:153
+#: inc/plugins/class-block-conditions.php:296
+#: inc/plugins/class-block-conditions.php:308
+#: inc/plugins/class-dashboard.php:301 inc/plugins/class-dashboard.php:313
+#: inc/plugins/class-dynamic-content.php:682
+#: inc/plugins/class-dynamic-content.php:694
+#: inc/plugins/class-options-settings.php:615
+#: inc/plugins/class-options-settings.php:627
+#: inc/render/amp/class-circle-counter-block.php:103
+#: inc/render/amp/class-circle-counter-block.php:115
+#: inc/render/amp/class-lottie.block.php:85
+#: inc/render/amp/class-lottie.block.php:97
+#: inc/render/amp/class-slider-block.php:87
+#: inc/render/amp/class-slider-block.php:99
+#: inc/render/class-masonry-variant.php:105
+#: inc/render/class-masonry-variant.php:117
+#: inc/server/class-dashboard-server.php:200
+#: inc/server/class-dashboard-server.php:212
+#: inc/server/class-dynamic-content-server.php:255
+#: inc/server/class-dynamic-content-server.php:267
+#: inc/server/class-form-server.php:940 inc/server/class-form-server.php:952
+#: inc/server/class-stripe-server.php:159
+#: inc/server/class-stripe-server.php:171
+msgid "Cheatin&#8217; huh?"
+msgstr "Jukser vi?"
+
+#. Description of the plugin
+msgid "Create beautiful and attracting posts, pages, and landing pages with Otter – Page Builder Blocks & Extensions for Gutenberg. Otter comes with dozens of Gutenberg blocks that are all you need to build beautiful pages."
+msgstr "Lag nydelige og attraktive innlegg, sider og landingsssider med Otter - Sidebyggerblokker og tillegg. Otter kommer med en rekke Gutenberg-blokker som er alt du trenger for å byge nydelige sider."

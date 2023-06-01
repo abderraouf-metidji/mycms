@@ -1,0 +1,266 @@
+# Translation of Plugins - Otter &#8211; Gutenberg Blocks – Page Builder for Gutenberg Editor &amp; FSE - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Otter &#8211; Gutenberg Blocks – Page Builder for Gutenberg Editor &amp; FSE - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-10 14:19:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Otter &#8211; Gutenberg Blocks – Page Builder for Gutenberg Editor &amp; FSE - Development (trunk)\n"
+
+#: inc/class-pro.php:273
+msgid "Update"
+msgstr "Update"
+
+#: inc/render/class-posts-grid-block.php:278
+msgid "Read More"
+msgstr "Lees meer"
+
+#: build/blocks/about-author/block.json
+msgctxt "block title"
+msgid "About Author"
+msgstr "Over auteur"
+
+#: build/blocks/accordion-item/block.json build/blocks/accordion/block.json
+msgctxt "block keyword"
+msgid "collapse"
+msgstr "samenvouwen"
+
+#: build/blocks/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "Knop"
+
+#: build/blocks/font-awesome-icons/block.json
+msgctxt "block title"
+msgid "Icon"
+msgstr "Pictogram"
+
+#: build/blocks/popup/block.json
+msgctxt "block title"
+msgid "Popup"
+msgstr "Pop-up"
+
+#: build/blocks/posts-grid/block.json
+msgctxt "block title"
+msgid "Posts"
+msgstr "Berichten"
+
+#: build/blocks/review/block.json
+msgctxt "block keyword"
+msgid "review"
+msgstr "beoordeling"
+
+#: build/blocks/service/block.json
+msgctxt "block title"
+msgid "Service"
+msgstr "Dienst"
+
+#: build/blocks/sharing-icons/block.json
+msgctxt "block style label"
+msgid "Regular"
+msgstr "Normaal"
+
+#: build/blocks/slider/block.json
+msgctxt "block title"
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/class-registration.php:445 build/blocks/blocks.js:1
+msgid "Minutes"
+msgstr "Minuten"
+
+#: inc/class-registration.php:448 build/blocks/blocks.js:1
+msgid "Day"
+msgstr "Dag"
+
+#: inc/class-patterns.php:40
+msgid "Team"
+msgstr "Team"
+
+#: inc/css/class-css-handler.php:127 inc/css/class-css-handler.php:214
+msgid "CSS updated."
+msgstr "CSS geüpdatet."
+
+#: inc/css/class-css-handler.php:56
+msgid "ID of the Post."
+msgstr "ID van het bericht."
+
+#: inc/plugins/class-options-settings.php:260
+msgid "Global defaults for Gutenberg Blocks."
+msgstr "Algemene standaardwaarden voor Gutenberg blokken."
+
+#: inc/render/amp/class-circle-counter-block.php:43
+#: inc/render/amp/class-circle-counter-block.php:60
+msgid "Skill"
+msgstr "Vaardigheid"
+
+#: inc/css/class-css-handler.php:80
+msgid "ID of the Reusable Block."
+msgstr "ID van het herbruikbare blok."
+
+#: inc/patterns/content-with-features.php:9
+msgid "Content with Features"
+msgstr "Inhoud met functies"
+
+#: inc/class-patterns.php:42 build/blocks/blocks.js:16
+msgid "Testimonials"
+msgstr "Aanbevelingen"
+
+#: inc/class-patterns.php:39 inc/patterns/call-to-action.php:9
+msgid "Call to Action"
+msgstr "Call to Action"
+
+#: inc/plugins/class-options-settings.php:152
+msgid "Anonymous data tracking object."
+msgstr "Anoniem gegevensvolgen object."
+
+#: inc/server/class-dashboard-server.php:137
+msgid "Styles deleted."
+msgstr "Stijlen verwijderd."
+
+#: inc/server/class-dashboard-server.php:121
+msgid "Sorry, the directory doesn't exist."
+msgstr "De folder bestaat niet."
+
+#: inc/server/class-dashboard-server.php:102
+msgid "Sorry, the filesystem isn't writeable."
+msgstr "Het bestandssysteem is niet beschrijfbaar."
+
+#: inc/plugins/class-options-settings.php:142 build/dashboard/index.js:1
+msgid "Become a contributor by opting in to our anonymous data tracking. We guarantee no sensitive data is collected."
+msgstr "Draag bij door te opteren voor onze anonieme gegevens vastlegging. Wij garanderen dat er geen gevoelige gegevens  verzameld worden."
+
+#: inc/plugins/class-dashboard.php:55 inc/plugins/class-dashboard.php:56
+#: otter-blocks.php:69 build/blocks/blocks.js:1 build/blocks/blocks.js:5
+#: build/blocks/blocks.js:11 build/blocks/blocks.js:12
+#: build/blocks/blocks.js:16
+msgid "Settings"
+msgstr "Instellingen"
+
+#: inc/plugins/class-options-settings.php:76 build/dashboard/index.js:1
+msgid "Blocks Animation module allows to add CSS animations to each block in Block Editor."
+msgstr "Blok animatie module maakt het mogelijk CSS animaties aan elk blok toe te voegen in blok-editor"
+
+#: inc/plugins/class-options-settings.php:43
+msgid "Redirect on new install."
+msgstr "Doorsturen bij nieuwe installatie"
+
+#: inc/plugins/class-options-settings.php:248
+msgid "Make Section block your default block for Pages?"
+msgstr "Maak sectie tot je standaard blok voor pagina's"
+
+#: inc/plugins/class-options-settings.php:65 build/dashboard/index.js:1
+msgid "Custom CSS module allows to add custom CSS to each block in Block Editor."
+msgstr "Aangepaste CSS module stelt je in staat aangepaste CSS aan elk blok in blok-editor toe te voegen."
+
+#: inc/class-registration.php:113
+msgid "Otter"
+msgstr "Otter"
+
+#. Author URI of the plugin
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin
+msgid "ThemeIsle"
+msgstr "Themelse"
+
+#. Plugin URI of the plugin
+msgid "https://themeisle.com/plugins/otter-blocks"
+msgstr "https://themeisle.com/plugins/otter-blocks"
+
+#: inc/render/class-plugin-card-block.php:69
+msgid "Plugin Stats"
+msgstr "Plugin statistieken"
+
+#: inc/render/class-sharing-icons-block.php:57 build/blocks/blocks.js:16
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/render/class-sharing-icons-block.php:63 build/blocks/blocks.js:16
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/render/class-sharing-icons-block.php:69 build/blocks/blocks.js:16
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/render/class-sharing-icons-block.php:39 build/blocks/blocks.js:16
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/render/class-posts-grid-block.php:227
+msgid "by"
+msgstr "door"
+
+#: inc/render/class-sharing-icons-block.php:45 build/blocks/blocks.js:16
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/render/class-plugin-card-block.php:77
+msgid "version"
+msgstr "versie"
+
+#: inc/render/class-plugin-card-block.php:81
+msgid "tested up to"
+msgstr "getest tot"
+
+#: inc/plugins/class-options-settings.php:200
+msgid "Google Map API key for the Google Maps Gutenberg Block."
+msgstr "Google Map API sleutel voor het Google Maps Gutenberg blok."
+
+#: inc/render/class-plugin-card-block.php:73
+msgid "active installs"
+msgstr "actieve installaties"
+
+#: inc/render/class-plugin-card-block.php:109
+msgid "Something went wrong"
+msgstr "Er is iets fout gegaan"
+
+#: inc/render/class-plugin-card-block.php:87
+msgid "Download"
+msgstr "Downloaden"
+
+#: inc/class-registration.php:1029 inc/class-registration.php:1041
+#: inc/css/class-block-frontend.php:700 inc/css/class-block-frontend.php:712
+#: inc/css/class-css-handler.php:510 inc/css/class-css-handler.php:522
+#: inc/integrations/class-form-email.php:302
+#: inc/integrations/class-form-email.php:314
+#: inc/integrations/class-form-providers.php:141
+#: inc/integrations/class-form-providers.php:153
+#: inc/plugins/class-block-conditions.php:296
+#: inc/plugins/class-block-conditions.php:308
+#: inc/plugins/class-dashboard.php:301 inc/plugins/class-dashboard.php:313
+#: inc/plugins/class-dynamic-content.php:682
+#: inc/plugins/class-dynamic-content.php:694
+#: inc/plugins/class-options-settings.php:615
+#: inc/plugins/class-options-settings.php:627
+#: inc/render/amp/class-circle-counter-block.php:103
+#: inc/render/amp/class-circle-counter-block.php:115
+#: inc/render/amp/class-lottie.block.php:85
+#: inc/render/amp/class-lottie.block.php:97
+#: inc/render/amp/class-slider-block.php:87
+#: inc/render/amp/class-slider-block.php:99
+#: inc/render/class-masonry-variant.php:105
+#: inc/render/class-masonry-variant.php:117
+#: inc/server/class-dashboard-server.php:200
+#: inc/server/class-dashboard-server.php:212
+#: inc/server/class-dynamic-content-server.php:255
+#: inc/server/class-dynamic-content-server.php:267
+#: inc/server/class-form-server.php:940 inc/server/class-form-server.php:952
+#: inc/server/class-stripe-server.php:159
+#: inc/server/class-stripe-server.php:171
+msgid "Cheatin&#8217; huh?"
+msgstr "Valsspelen hè?"
+
+#. Description of the plugin
+msgid "Create beautiful and attracting posts, pages, and landing pages with Otter – Page Builder Blocks & Extensions for Gutenberg. Otter comes with dozens of Gutenberg blocks that are all you need to build beautiful pages."
+msgstr "Maak mooie en aantrekkelijke berichten, pagina's en landingspagina's met Otter - Page Builder Blocks & Extensions for Gutenberg. Otter wordt geleverd met tientallen Gutenberg blokken die alles zijn wat je nodig hebt om prachtige pagina's te bouwen."
+
+#: inc/render/class-sharing-icons-block.php:51 build/blocks/blocks.js:16
+msgid "Linkedin"
+msgstr "LinkedIn"

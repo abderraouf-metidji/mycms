@@ -1,0 +1,504 @@
+# Translation of Plugins - Cloud Templates &amp; Patterns collection - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Cloud Templates &amp; Patterns collection - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-28 10:16:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Cloud Templates &amp; Patterns collection - Development (trunk)\n"
+
+#: includes/Admin.php:430
+msgid "Get Neve Business"
+msgstr "Verkrijg Neve Business"
+
+#: includes/Admin.php:429
+msgid "Purchase the Business plan or higher to get instant access to all Premium Starter Site Templates — including Expert Sites — and much more."
+msgstr "Koop het business abonnement of hoger om direct toegang te krijgen tot alle premium starter site templates - inclusief expert sites - en nog veel meer."
+
+#. translators: %s: Templates Cloud
+#: includes/Elementor.php:78
+msgid "Add Template from %s:"
+msgstr "Template toevoegen van %s:"
+
+#. translators: %s: Templates Cloud
+#: includes/Elementor.php:72
+msgid "Import from %s"
+msgstr "Importeren uit %s"
+
+#. translators: %s: Templates Cloud
+#: includes/Elementor.php:115 includes/TI_Beaver.php:431
+msgid "Save your page to %s"
+msgstr "Sla je pagina op in %s"
+
+#. translators: %s: Templates Cloud
+#: includes/Elementor.php:59 includes/Elementor.php:89
+#: includes/TI_Beaver.php:406
+msgid "Save to %s"
+msgstr "Opslaan in %s"
+
+#. translators: %s: Templates Cloud
+#: includes/Admin.php:529
+msgid "Open %s"
+msgstr "Open %s"
+
+#: includes/Admin.php:526
+msgid "Great news!  Now you can export your own custom designs to the cloud and then reuse them on other sites."
+msgstr "Geweldig nieuws! Nu kun je je eigen aangepaste ontwerpen naar de cloud exporteren en ze vervolgens hergebruiken op andere sites."
+
+#: includes/TI_Beaver.php:427 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/Filters.js:80 editor/build/index.js:1
+#: editor/src/components/filters.js:78
+msgid "Clear search query"
+msgstr "Zoekopdracht wissen"
+
+#: includes/TI_Beaver.php:399 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/ListItem.js:211 editor/build/index.js:1
+#: editor/src/components/list-item.js:236
+msgid "This template is synced to a page."
+msgstr "Deze template wordt gesynchroniseerd met een pagina."
+
+#: includes/TI_Beaver.php:393
+msgid "Export Failed"
+msgstr "Export mislukt"
+
+#: includes/TI_Beaver.php:392
+msgid "Import Failed"
+msgstr "Import mislukt"
+
+#: includes/TI_Beaver.php:36
+msgid "Templates Cloud by Neve."
+msgstr "Templates Cloud door Neve."
+
+#: includes/Elementor.php:101 includes/TI_Beaver.php:416 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/Filters.js:28 editor/build/index.js:1
+#: editor/src/components/filters.js:27
+msgid "Sort by"
+msgstr "Sorteren op"
+
+#: includes/Elementor.php:118
+msgid "Enter Template Name"
+msgstr "Voer de templatenaam in"
+
+#: includes/Elementor.php:109 includes/TI_Beaver.php:426
+msgid "Search Templates"
+msgstr "Zoek templates"
+
+#: includes/Elementor.php:106 includes/TI_Beaver.php:421
+msgid "Actions"
+msgstr "Acties"
+
+#: includes/Elementor.php:105 includes/TI_Beaver.php:420 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/Filters.js:10 editor/build/index.js:1
+#: editor/src/components/filters.js:10
+msgid "Last Modified"
+msgstr "Laatst aangepast"
+
+#: includes/Elementor.php:104 includes/TI_Beaver.php:419 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/Filters.js:8 editor/build/index.js:1
+#: editor/src/components/filters.js:8
+msgid "Date"
+msgstr "Datum"
+
+#: includes/Elementor.php:103 includes/TI_Beaver.php:418 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/Filters.js:9 editor/build/index.js:1
+#: editor/src/components/filters.js:9
+msgid "Name"
+msgstr "Naam"
+
+#: includes/Elementor.php:98
+msgid "Back to Library"
+msgstr "Terug naar bibliotheek"
+
+#: includes/Elementor.php:97
+msgid "Insert"
+msgstr "Invoegen"
+
+#: includes/Elementor.php:95
+msgid "Duplicate"
+msgstr "Dupliceer"
+
+#: includes/Elementor.php:86 includes/TI_Beaver.php:405
+msgid "Sync Library"
+msgstr "Synchroniseer bibliotheek"
+
+#: includes/Elementor.php:65
+msgid "Template Saved."
+msgstr "Template opgeslagen."
+
+#: includes/Elementor.php:60 includes/TI_Beaver.php:386
+msgid "Save Templates"
+msgstr "Sla templates op"
+
+#: includes/TI_Beaver.php:453 editor/build/index.js:1
+#: editor/src/extension.js:427
+msgid "Save to Templates Cloud"
+msgstr "Opslaan in templates cloud"
+
+#: includes/TI_Beaver.php:397 editor/build/index.js:1
+#: editor/src/components/templates-content.js:178
+msgid "No templates available. Add a new one?"
+msgstr "Geen templates beschikbaar. Een nieuwe toevoegen?"
+
+#: includes/Elementor.php:63 includes/Elementor.php:112
+#: includes/TI_Beaver.php:389 includes/TI_Beaver.php:430
+#: editor/build/index.js:1 editor/src/extension.js:525
+msgid "Save"
+msgstr "Opslaan"
+
+#: includes/Elementor.php:121 includes/TI_Beaver.php:434
+#: editor/build/index.js:1 editor/src/extension.js:393
+msgid "Publish"
+msgstr "Publiceren"
+
+#: includes/Elementor.php:122 includes/TI_Beaver.php:435
+#: editor/build/index.js:1 editor/src/extension.js:389
+msgid "Unpublish"
+msgstr "Publicatie ongedaan maken"
+
+#: includes/Elementor.php:66 editor/build/index.js:1
+#: editor/src/extension.js:361
+msgid "Template Published."
+msgstr "Template gepubliceerd."
+
+#: includes/Elementor.php:67 editor/build/index.js:1
+#: editor/src/extension.js:360
+msgid "Template Unpublished."
+msgstr "Template ongedaan gemaakt."
+
+#: includes/Elementor.php:120 includes/TI_Beaver.php:433
+#: editor/build/index.js:1 editor/src/extension.js:479
+msgid "Site Slug"
+msgstr "Siteslug"
+
+#: includes/Elementor.php:119 includes/TI_Beaver.php:432
+#: editor/build/index.js:1 editor/src/extension.js:469
+msgid "Screenshot URL"
+msgstr "Schermafbeelding-url"
+
+#: includes/Elementor.php:64 includes/TI_Beaver.php:390 editor/build/index.js:1
+#: editor/src/extension.js:459
+msgid "Automatically sync to the cloud"
+msgstr "Automatisch synchroniseren met de cloud"
+
+#: includes/Elementor.php:62 includes/Elementor.php:123
+#: includes/TI_Beaver.php:388 includes/TI_Beaver.php:482
+#: beaver/build/index.js:1 beaver/src/components/preview.js:22
+#: editor/build/index.js:1 editor/src/components/preview.js:65
+#: editor/src/extension.js:113
+msgid "Template"
+msgstr "Template"
+
+#: includes/TI_Beaver.php:35 includes/TI_Beaver.php:37 assets/build/app.js:11
+#: assets/src/Components/Header.js:164 editor/build/index.js:1
+#: editor/src/extension.js:436 editor/src/extension.js:441
+#: editor/src/index.js:13
+msgid "Templates Cloud"
+msgstr "Templates cloud"
+
+#: includes/Admin.php:301 includes/Elementor.php:83 includes/TI_Beaver.php:402
+#: assets/build/app.js:11 assets/src/Components/Header.js:28
+#: editor/build/index.js:1 editor/src/components/header.js:22
+msgid "My Library"
+msgstr "Mijn bibliotheek"
+
+#: includes/Elementor.php:82 includes/TI_Beaver.php:401 assets/build/app.js:11
+#: assets/src/Components/Header.js:24 editor/build/index.js:1
+#: editor/src/components/header.js:17
+msgid "Page Templates"
+msgstr "Pagina templates"
+
+#: includes/TI_Beaver.php:423 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/Filters.js:104 editor/build/index.js:1
+#: editor/src/components/filters.js:102
+msgid "Grid View"
+msgstr "Rasterweergave"
+
+#: includes/TI_Beaver.php:422 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/Filters.js:97 editor/build/index.js:1
+#: editor/src/components/filters.js:95
+msgid "List View"
+msgstr "Lijstweergave"
+
+#: includes/TI_Beaver.php:411 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/ListItem.js:260 editor/build/index.js:1
+#: editor/src/components/list-item.js:289
+msgid "Deleting"
+msgstr "Aan het verwijderen"
+
+#: includes/Elementor.php:61 includes/TI_Beaver.php:387 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/ListItem.js:198 editor/build/index.js:1
+#: editor/src/components/list-item.js:143
+#: editor/src/components/list-item.js:223 editor/src/extension.js:514
+msgid "Template Name"
+msgstr "Template naam"
+
+#: includes/TI_Beaver.php:407 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/ListItem.js:174
+#: assets/src/Components/CloudLibrary/ListItem.js:222
+#: assets/src/Components/CloudLibrary/ListItem.js:236 editor/build/index.js:1
+#: editor/src/components/list-item.js:151
+#: editor/src/components/list-item.js:247
+#: editor/src/components/list-item.js:265
+msgid "Update"
+msgstr "Update"
+
+#: includes/Elementor.php:96 includes/TI_Beaver.php:410 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/ListItem.js:148
+#: assets/src/Components/CloudLibrary/ListItem.js:251
+#: assets/src/Components/CloudLibrary/ListItem.js:261 editor/build/index.js:1
+#: editor/src/components/list-item.js:189
+#: editor/src/components/list-item.js:280
+#: editor/src/components/list-item.js:290
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: includes/Elementor.php:94 includes/TI_Beaver.php:409 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/ImportTemplatesModal.js:215
+#: assets/src/Components/CloudLibrary/ListItem.js:120
+#: assets/src/Components/CloudLibrary/ListItem.js:213
+#: assets/src/Components/CloudLibrary/ListItem.js:217
+#: assets/src/Components/CloudLibrary/ListItem.js:222
+#: assets/src/Components/CloudLibrary/ListItem.js:236 editor/build/index.js:1
+#: editor/src/components/list-item.js:122
+#: editor/src/components/list-item.js:238
+#: editor/src/components/list-item.js:242
+#: editor/src/components/list-item.js:247
+#: editor/src/components/list-item.js:265
+msgid "Edit"
+msgstr "Bewerken"
+
+#: includes/TI_Beaver.php:398 assets/build/app.js:2
+#: assets/src/Components/CloudLibrary/ListItem.js:57 editor/build/index.js:1
+#: editor/src/components/list-item.js:70
+msgid "Are you sure you want to delete this template?"
+msgstr "Weet je zeker dat je deze template wil verwijderen?"
+
+#: includes/Elementor.php:92 includes/TI_Beaver.php:408 assets/build/app.js:2
+#: assets/build/app.js:11
+#: assets/src/Components/CloudLibrary/DemoSiteTemplatesImport.js:191
+#: assets/src/Components/CloudLibrary/ImportTemplatesModal.js:229
+#: assets/src/Components/CloudLibrary/ImportTemplatesModal.js:263
+#: assets/src/Components/InstallModal.js:163
+#: assets/src/Components/Migration.js:161
+#: assets/src/Components/OnboardingContent.js:153
+#: assets/src/Components/PreviewFrame.js:47
+msgid "Close"
+msgstr "Sluiten"
+
+#. translators: %s - Theme name
+#: includes/Admin.php:391
+msgid "Choose from multiple unique demos, specially designed for you, that can be installed with a single click. You just need to choose your favorite, and we will take care of everything else."
+msgstr "Kies uit meerdere unieke demo's, speciaal voor je ontworpen, die met een enkele klik kunnen worden geïnstalleerd. Je hoeft alleen maar je favoriet te kiezen, en wij zorgen voor de rest."
+
+#: includes/Admin.php:288 includes/Admin.php:289 assets/build/app.js:11
+#: assets/src/Components/Header.js:23
+msgid "Starter Sites"
+msgstr "Starter sites"
+
+#: includes/Sites_Listing.php:47 includes/Sites_Listing.php:57
+msgid "Hi! We've noticed you were using Zelle before. To make your transition easier, we can help you keep the same beautiful homepage you had before, by converting it into an Elementor template. This option will also import your homepage content."
+msgstr "We hebben gemerkt dat je Zelle eerder gebruikte. Om je overgang gemakkelijker te maken, kunnen we je helpen dezelfde mooie homepage te behouden die je eerder had, door deze om te zetten in een Elementor-template. Met deze optie wordt ook de inhoud van je homepage geïmporteerd."
+
+#: includes/Sites_Listing.php:46 includes/Sites_Listing.php:56
+msgid "Want to keep using Zelle's homepage?"
+msgstr "Wil je de homepage van Zelle blijven gebruiken?"
+
+#. translators: %s - 'WP_Filesystem'.
+#: includes/Admin.php:716
+msgid "It seems that %s is not available. You can contact your site administrator or hosting provider to help you enable it."
+msgstr "Het lijkt erop dat %s niet beschikbaar is. Je kunt contact opnemen met je sitebeheerder of hostingprovider om je te helpen deze in te schakelen."
+
+#. translators: 1 - 'get in touch'.
+#: includes/Admin.php:711
+msgid "If none of the solutions in the guide work, please %1$s with us with the error code below, so we can help you fix this."
+msgstr "Als geen van de oplossingen in de gids werkt, neem dan %1$s contact met ons op met de onderstaande foutcode, zodat we je kunnen helpen dit op te lossen."
+
+#: includes/Admin.php:707
+msgid "troubleshooting guide"
+msgstr "gids probleemoplossing"
+
+#. translators: 1 - 'troubleshooting guide'.
+#: includes/Admin.php:706
+msgid "Hi! It seems there is a configuration issue with your server that's causing the import to fail. Take a look at our %1$s to see if any of the proposed solutions work."
+msgstr "Het lijkt erop dat er een configuratieprobleem is met je server waardoor het importeren mislukt. Bekijk onze %1$s om te zien of een van de voorgestelde oplossingen werkt."
+
+#: includes/Admin.php:702 includes/Admin.php:712
+msgid "get in touch"
+msgstr "neem dan contact op"
+
+#. translators: 1 - 'get in touch'.
+#: includes/Admin.php:701
+msgid "Hi! It seems there is a configuration issue with your server that's causing the import to fail. Please %1$s with us with the error code below, so we can help you fix this."
+msgstr "Het lijkt erop dat er een configuratieprobleem is met je server waardoor het importeren mislukt. Neem %1$s mee met de onderstaande foutcode, zodat we je kunnen helpen dit op te lossen."
+
+#: includes/Admin.php:697
+msgid "here"
+msgstr "hier"
+
+#. translators: 1 - 'here'.
+#: includes/Admin.php:696
+msgid "It seems that Rest API is not working properly on your website. Read about how you can fix it %1$s."
+msgstr "Het lijkt erop dat de Rest API niet goed werkt op je site. Lees hoe je het kunt repareren %1$s."
+
+#: includes/Admin.php:693
+msgid "To import this demo you have to install the following plugins:"
+msgstr "Om deze demo te importeren moet je de volgende plugins installeren:"
+
+#: includes/Admin.php:692
+msgid "Download error log"
+msgstr "Download foutenlog"
+
+#: includes/Admin.php:691
+msgid "Copy error code"
+msgstr "Kopieer foutcode"
+
+#: includes/Admin.php:690
+msgid "Available in the PRO version"
+msgstr "Beschikbaar in de PRO versie"
+
+#: includes/Admin.php:689 assets/build/app.js:2
+#: assets/src/Components/Migration.js:131
+msgid "Content was successfully imported. Enjoy your new site!"
+msgstr "De inhoud is succesvol geïmporteerd. Veel plezier op je nieuwe site!"
+
+#: includes/Admin.php:688
+msgid "Here is our own collection of related images you can use for your site."
+msgstr "Hier is onze eigen verzameling gerelateerde afbeeldingen die je voor je site kunt gebruiken."
+
+#: includes/Admin.php:687
+msgid "Some of the demo images will not be imported and will be replaced by placeholder images."
+msgstr "Sommige van de demo afbeeldingen worden niet geïmporteerd en worden vervangen door plaatshouder afbeeldingen."
+
+#: includes/Admin.php:686
+msgid "Due to copyright issues, some of the demo images will not be imported and will be replaced by placeholder images."
+msgstr "Vanwege copyright problemen worden sommige demo afbeeldingen niet geïmporteerd en worden ze vervangen door plaatshouder afbeeldingen."
+
+#: includes/Admin.php:685 assets/build/app.js:10
+#: assets/src/Components/ImportModal.js:207
+msgid "We recommend you backup your website content before attempting a full site import."
+msgstr "We raden je aan een back-up te maken van je site inhoud voordat je probeert een volledige site te importeren."
+
+#: includes/Admin.php:684 assets/build/app.js:10
+#: assets/src/Components/ImportModal.js:217
+msgid "Widgets"
+msgstr "Widgets"
+
+#: includes/Admin.php:683 assets/build/app.js:10
+#: assets/src/Components/ImportModal.js:213
+msgid "Customizer"
+msgstr "Customizer"
+
+#: includes/Admin.php:682 assets/build/app.js:10
+#: assets/src/Components/ImportModal.js:205
+msgid "Content"
+msgstr "Inhoud"
+
+#: includes/Admin.php:681 includes/Elementor.php:108 includes/TI_Beaver.php:425
+#: assets/build/app.js:2 assets/src/Components/CloudLibrary/Filters.js:66
+#: assets/src/Components/CloudLibrary/Filters.js:89 editor/build/index.js:1
+#: editor/src/components/filters.js:87
+msgid "Search"
+msgstr "Zoeken"
+
+#: includes/Admin.php:680
+msgid "Keep current layout"
+msgstr "Behoud huidige lay-out"
+
+#: includes/Admin.php:679
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/Admin.php:678 assets/build/app.js:11
+#: assets/src/Components/ImportModal.js:361
+msgid "Plugins"
+msgstr "Plugins"
+
+#: includes/Admin.php:677
+msgid "Advanced Options"
+msgstr "Geavanceerde opties"
+
+#: includes/Admin.php:676
+msgid "Note"
+msgstr "Notitie"
+
+#: includes/Admin.php:675
+msgid "Back to Sites Library"
+msgstr "Terug naar de sites bibliotheek"
+
+#: includes/Admin.php:674 assets/build/app.js:8
+#: assets/src/Components/ImportModal.js:741
+msgid "Add your own content"
+msgstr "Voeg je eigen inhoud toe"
+
+#: includes/Admin.php:673 assets/build/app.js:2 assets/build/app.js:8
+#: assets/src/Components/ImportModal.js:737
+#: assets/src/Components/Migration.js:198
+msgid "View Website"
+msgstr "Site bekijken"
+
+#: includes/Admin.php:672
+msgid "Loading"
+msgstr "Bezig met laden"
+
+#: includes/Admin.php:671 includes/Elementor.php:93 includes/TI_Beaver.php:391
+#: assets/build/app.js:2 assets/src/Components/Migration.js:165
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: includes/Admin.php:670 assets/build/app.js:8
+#: assets/src/Components/CloudLibrary/ImportTemplatesModal.js:347
+#: editor/build/index.js:1 editor/src/edit.js:220
+msgid "Importing"
+msgstr "Importeren"
+
+#: includes/Admin.php:669
+msgid "Get the PRO version!"
+msgstr "Verkrijg de PRO versie!"
+
+#: includes/Admin.php:668 includes/TI_Beaver.php:413 assets/build/app.js:2
+#: assets/build/app.js:8 assets/build/app.js:11
+#: assets/src/Components/CloudLibrary/ImportTemplatesModal.js:349
+#: assets/src/Components/CloudLibrary/ListItem.js:112
+#: assets/src/Components/CloudLibrary/ListItem.js:283
+#: assets/src/Components/PreviewFrame.js:95
+#: assets/src/Components/StarterSiteCard.js:69 beaver/build/index.js:1
+#: beaver/src/components/preview.js:36 editor/build/index.js:1
+#: editor/src/components/list-item.js:115
+#: editor/src/components/list-item.js:314 editor/src/components/preview.js:79
+#: editor/src/edit.js:221
+msgid "Import"
+msgstr "Importeren"
+
+#: includes/Admin.php:667 includes/TI_Beaver.php:412 assets/build/app.js:2
+#: assets/build/app.js:11 assets/src/Components/CloudLibrary/ListItem.js:102
+#: assets/src/Components/CloudLibrary/ListItem.js:273
+#: assets/src/Components/CloudLibrary/PreviewFrame.js:17
+#: assets/src/Components/StarterSiteCard.js:61 editor/build/index.js:1
+#: editor/src/components/list-item.js:106
+#: editor/src/components/list-item.js:305
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: includes/Admin.php:637
+msgid "Hi! We've noticed you were using a child theme of Zelle before. To make your transition easier, we can help you keep the same homepage settings you had before but in original Zelle's style, by converting it into an Elementor template."
+msgstr "We hebben gemerkt dat je eerder een sub-thema van Zelle gebruikte. Om je overgang gemakkelijker te maken, kunnen we je helpen dezelfde startpagina-instellingen te behouden die je eerder had, maar in de oorspronkelijke stijl van Zelle, door deze om te zetten in een Elementor template."
+
+#. Author URI of the plugin
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Description of the plugin
+msgid "This plugin is an add-on to Neve WordPress theme which offers access to Templates and Block Patterns library service to be used with the theme."
+msgstr "Deze plugin is een add-on voor het Neve WordPress thema dat toegang biedt tot de bibliotheekservice voor templates en blokpatronen die met het thema kunnen worden gebruikt."
+
+#. Plugin Name of the plugin
+msgid "Templates Patterns Collection"
+msgstr "Templates Patterns Collection"

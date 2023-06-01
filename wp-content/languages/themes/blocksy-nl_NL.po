@@ -1,0 +1,5160 @@
+# Translation of Themes - Blocksy in Dutch
+# This file is distributed under the same license as the Themes - Blocksy package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-12 22:21:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Blocksy\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Blocksy is a blazing fast and lightweight WordPress theme built with the latest web technologies. It was built with the Gutenberg editor in mind and has a lot of options that makes it extendable and customizable. You can easily create any type of website, such as business agency, shop, corporate, education, restaurant, blog, portfolio, landing page and so on. It works like a charm with popular WordPress page builders, including Elementor, Beaver Builder, Visual Composer and Brizy. Since it is responsive and adaptive, translation ready, SEO optimized and has WooCommerce built-in, you will experience an easy build and even an increase in conversions. Note: Blocksy is built with the latest web technologies in order to bring you the smoothest experience, that told, old browsers like IE 11 and below may not work as expected. We strongly recommend you to update/switch to a modern browser."
+msgstr "Blocksy is een razendsnel en lichtgewicht WordPress thema gebouwd met de nieuwste webtechnologieën. Het is gebouwd met de Gutenberg editor in gedachten en heeft veel opties waardoor het uitbreidbaar en aanpasbaar is. Je kan eenvoudig elk type site maken, zoals een bedrijfsbureau, winkel, bedrijf, onderwijs, restaurant, blog, portfolio, bestemmingspagina enzovoort. Het werkt als een zonnetje met populaire WordPress paginabouwers, waaronder Elementor, Beaver Builder, Visual Composer en Brizy. Omdat het responsive en adaptief is, klaar voor vertaling, SEO-geoptimaliseerd en WooCommerce ingebouwd is, ervaar je een gemakkelijke build en zelfs een toename in conversies. Opmerking: Blocksy is gebouwd met de nieuwste webtechnologieën om je de meest vloeiende ervaring te bieden, maar oude browsers zoals IE 11 en lager werken mogelijk niet zoals verwacht. We raden je ten zeerste aan om bij te werken/over te schakelen naar een moderne browser."
+
+#: admin/dashboard/plugins/config.php:28
+msgid "Build stunning lightbox galleries, masonry grids, custom grids with no more than a few clicks right from the WordPress dashboard."
+msgstr "Bouw prachtige lightbox galerijen, gemetselde rasters, aangepaste rasters met niet meer dan een paar klikken rechtstreeks vanuit het WordPress dashboard."
+
+#: inc/panel-builder/header/menu/options.php:135
+msgid "Collapse menu items in to a dropdown if there is no enough room in the row. "
+msgstr "Voeg menu-items samen tot een dropdown als er niet genoeg ruimte is in de rij. "
+
+#: inc/panel-builder/header/menu/options.php:131
+msgid "Collapse Non Fitting Items"
+msgstr "Samenvouwen niet-passende items"
+
+#. translators: 1: link to WP admin new post page open 2: link closing.
+#: template-parts/content-none.php:16
+msgid "Ready to publish your first post? %1$sGet started here%2$s."
+msgstr "Klaar om je eerste bericht te publiceren? %1$sBegin hier%2$s."
+
+#. translators: 1: span opening 2: Post title 3: span closing.
+#: inc/single/content-helpers.php:270
+msgid "Edit%1$s \"%2$s\"%3$s"
+msgstr "Bewerken%1$s \"%2$s\"%3$s"
+
+#. translators: 1: span open 2: Name of current post. Only visible to screen
+#. readers 3: span closing
+#: inc/single/content-helpers.php:225 inc/template-tags.php:95
+msgid "Continue reading%1$s \"%2$s\"%3$s"
+msgstr "Lees verder%1$s \"%2$s\"%3$s"
+
+#: inc/panel-builder/header/button/options.php:97
+msgid "Set link to sponsored"
+msgstr "Link naar gesponsord instellen"
+
+#. translators: 1: span opening 2: span closing 3: the number of results
+#: inc/components/hero/elements.php:195 inc/components/hero/elements.php:332
+msgid "%1$sSearch Results for%2$s %3$s"
+msgstr "%1$sZoekresultaten voor%2$s %3$s"
+
+#: inc/options/general/typography.php:121
+msgid "Pullquote"
+msgstr "Pullquote"
+
+#: inc/options/general/typography.php:114
+msgid "Quote"
+msgstr "Citaat"
+
+#: inc/panel-builder/header/menu/options.php:653
+msgid "Please note, this option will affect only submenus on 3rd level and below."
+msgstr "Let op, deze optie is alleen van invloed op submenu's op het 3e niveau en lager."
+
+#. translators: placeholder here means the actual URL.
+#: inc/panel-builder/header/button/options.php:258
+msgid "Add a custom %saria label%s attribute."
+msgstr "Voeg een aangepast %saria label%s attribuut toe."
+
+#: inc/panel-builder/header/button/options.php:251
+msgid "Custom Aria Label"
+msgstr "Aangepast Aria label"
+
+#: inc/panel-builder/header/search/options.php:422
+msgid "Live Results"
+msgstr "Live resultaten"
+
+#: searchform.php:94
+msgid "Search for..."
+msgstr "Zoek naar..."
+
+#: inc/options/general/form-elements.php:231
+msgid "Checkbox Border Radius"
+msgstr "Rand radius selectievakje"
+
+#: inc/options/general/comments-single.php:47
+msgid "Outside"
+msgstr "Buiten"
+
+#: inc/options/general/comments-single.php:46
+msgid "Inside"
+msgstr "Binnen"
+
+#: inc/options/general/comments-single.php:39
+msgid "Inputs Label Position"
+msgstr "Label positie invoeren"
+
+#: inc/options/general/back-to-top.php:31
+msgid "Icon Source"
+msgstr "Pictogram bron"
+
+#: inc/options/single-elements/author-box.php:268
+msgid "Author Bio Font Color"
+msgstr "Auteur bio lettertypekleur"
+
+#: inc/options/single-elements/author-box.php:262
+msgid "Author Bio Font"
+msgstr "Auteur bio lettertype"
+
+#: inc/options/single-elements/author-box.php:209
+msgid "Author Name Font"
+msgstr "Auteursnaam lettertype"
+
+#: inc/options/pages/page.php:104
+#: inc/options/posts/custom-post-type-single.php:155
+#: inc/options/posts/post.php:110
+msgid "This single page is overrided by a custom template, to edit it please access %sthis page%s."
+msgstr "Deze enkelvoudige pagina wordt overschreven door een aangepaste template, om het te bewerken ga naar %sdeze pagina%s."
+
+#: inc/options/single-elements/post-nav.php:53
+msgid "Navigate through posts that are from the same taxonomy."
+msgstr "Navigeer door berichten die van dezelfde taxonomie zijn."
+
+#: inc/options/single-elements/post-nav.php:34
+msgid "Navigation Criteria"
+msgstr "Navigatie criteria"
+
+#: inc/options/posts/woo-categories.php:389
+msgid "Short Description Color"
+msgstr "Kleur korte beschrijving"
+
+#: inc/options/posts/woo-categories.php:382
+msgid "Short Description Font"
+msgstr "Lettertype korte beschrijving"
+
+#: inc/options/posts/woo-categories.php:240
+msgid "Short Description"
+msgstr "Korte beschrijving"
+
+#: inc/options/pages/search-page.php:50
+#: inc/panel-builder/header/search/options.php:445
+msgid "Live Results Product Price"
+msgstr "Live resultaten productprijs"
+
+#: inc/options/integrations/tutorlms-single.php:141
+msgid "Rating Font Color"
+msgstr "Beoordeling lettertypekleur"
+
+#: inc/options/integrations/tutorlms-single.php:129
+msgid "Rating Font"
+msgstr "Beoordeling lettertype"
+
+#: inc/options/integrations/tutorlms-single.php:97
+msgid "Course Actions Font Color"
+msgstr "Cursus acties lettertypekleur"
+
+#: inc/options/integrations/tutorlms-single.php:84
+msgid "Course Actions Font"
+msgstr "Cursus acties lettertypen"
+
+#: inc/options/integrations/tutorlms-single.php:52
+msgid "Categories Font Color"
+msgstr "Lettertypekleur categorieën"
+
+#: inc/options/integrations/tutorlms-single.php:39
+msgid "Categories Font"
+msgstr "Lettertype categorieën"
+
+#: inc/options/general/performance.php:85
+msgid "Shop Archive Featured Image"
+msgstr "Winkel archief uitgelichte afbeelding"
+
+#: inc/options/general/performance.php:78
+msgid "Single Product Image"
+msgstr "Afbeelding enkelvoudig product"
+
+#: inc/options/general/custom-post-types.php:68
+msgid "Course Single"
+msgstr "Cursus enkelvoudig"
+
+#: inc/options/general/custom-post-types.php:62
+msgid "Course Archive"
+msgstr "Cursusarchief"
+
+#: inc/options/general/comments-single.php:64
+msgid "Above List"
+msgstr "Boven lijst"
+
+#: inc/options/general/comments-single.php:63
+msgid "Below List"
+msgstr "Onderaan lijst"
+
+#: inc/options/general/comments-single.php:56
+msgid "Comment Form Position"
+msgstr "Reactieformulier positie"
+
+#: inc/manager.php:139 inc/manager.php:145
+msgid "You got %s result. Please press Tab to select it."
+msgid_plural "You got %s results. Please press Tab to select one."
+msgstr[0] "Je hebt %s resultaat. Druk op Tab om het te selecteren."
+msgstr[1] "Je hebt %s resultaten. Druk op Tab om er een te selecteren."
+
+#: inc/manager.php:138 searchform.php:123
+msgid "No results"
+msgstr "Geen resultaten"
+
+#: inc/options/general/performance.php:69
+msgid "Related Posts Featured Image"
+msgstr "Gerelateerde berichten uitgelichte afbeelding"
+
+#: inc/options/general/performance.php:62
+msgid "Archives Featured Image"
+msgstr "Archieven uitgelichte afbeelding"
+
+#: inc/options/general/performance.php:55
+msgid "Single Post/Page Featured Image"
+msgstr "Uitgelichte afbeelding voor enkelvoudig bericht/pagina"
+
+#: inc/options/general/performance.php:48
+msgid "Post/Page Title Featured Image"
+msgstr "Bericht-/paginatitel uitgelichte afbeelding"
+
+#: inc/options/general/performance.php:38
+msgid "Enable lazy loading to improve performance."
+msgstr "Schakel lazy-loading in om de prestaties te verbeteren."
+
+#: inc/options/single-elements/structure-design.php:88
+msgid "Content Area Border"
+msgstr "Rand inhoudsgebied"
+
+#: inc/options/pages/author-page.php:47 inc/options/pages/search-page.php:76
+#: inc/options/posts/blog.php:72 inc/options/posts/categories.php:40
+msgid "This archive page is overrided by a custom template, to edit it please access %sthis page%s."
+msgstr "Deze archief pagina wordt overschreven door een aangepaste template, om het te bewerken ga naar %sdeze pagina%s."
+
+#: inc/panel-builder/footer/copyright/options.php:14
+#: inc/panel-builder/footer/copyright/view.php:25
+msgid "Copyright &copy; {current_year} - WordPress Theme by {theme_author}"
+msgstr "Copyright &copy; {current_year} - WordPress thema door {theme_author}"
+
+#: inc/options/single-elements/post-nav.php:225
+msgid "Thumbnail Border Radius"
+msgstr "Thumbnail randradius"
+
+#: inc/options/posts/woo-general.php:576
+msgid "Badge Shape"
+msgstr "Badge vorm"
+
+#: inc/components/breadcrumbs.php:526
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Home"
+
+#: inc/panel-builder/header/middle-row/options.php:100
+msgid "Render Empty Row"
+msgstr "Lege rij weergeven"
+
+#: inc/options/single-elements/related-posts.php:256
+msgid "Posts Title Tag"
+msgstr "Berichten titel tag"
+
+#: inc/options/general/page-title.php:794
+msgid "Image Parallax Effect"
+msgstr "Afbeelding parallax effect"
+
+#: inc/options/posts/woo-general.php:282
+msgid "Error Messages"
+msgstr "Foutberichten"
+
+#: inc/options/posts/woo-general.php:166
+msgid "Success Messages"
+msgstr "Succesberichten"
+
+#: inc/options/posts/woo-general.php:50
+msgid "Info Messages"
+msgstr "Infoberichten"
+
+#: inc/panel-builder/header/trigger/view.php:43
+msgid "Open off canvas"
+msgstr "Open off canvas"
+
+#: inc/panel-builder/header/cart/view.php:189
+msgid "Shopping cart"
+msgstr "Winkelwagen"
+
+#: inc/panel-builder/header/search/view.php:48
+msgid "Open search form"
+msgstr "Open zoekformulier"
+
+#: inc/panel-builder/header/offcanvas-logo/config.php:4
+msgid "Off Canvas Logo"
+msgstr "Off canvas logo"
+
+#: inc/panel-builder/header/menu/view.php:123
+msgid "Header Menu"
+msgstr "Header menu"
+
+#: inc/panel-builder/header/button/options.php:245
+#: inc/panel-builder/header/logo/options.php:345
+msgid "Separate multiple classes with spaces."
+msgstr "Scheid meerdere klassen met spaties."
+
+#: inc/panel-builder/header/button/options.php:240
+#: inc/panel-builder/header/logo/options.php:340
+msgid "CSS Class"
+msgstr "CSS klasse"
+
+#: inc/options/single-elements/author-box.php:215
+msgid "Author Name Font Color"
+msgstr "Auteurnaam lettertypekleur"
+
+#: inc/options/single-elements/author-box.php:55
+msgid "Author Name Tag"
+msgstr "Auteurnaam tag"
+
+#: inc/css/typography.php:237 static/bundle/customizer-controls.js:2
+#: static/bundle/options.js:2
+#: static/js/options/options/typography/default-data.js:27
+#: static/js/options/options/typography/helpers.js:117
+#: static/bundle/customizer-controls.js:25430
+#: static/bundle/customizer-controls.js:25574 static/bundle/options.js:25469
+#: static/bundle/options.js:25613
+msgid "System Default"
+msgstr "Systeemstandaard"
+
+#: inc/options/posts/woo-general.php:372
+msgid "Single"
+msgstr "Enkel"
+
+#: inc/options/posts/woo-general.php:360
+msgid "Show Stock Badge"
+msgstr "Toon voorraad badge"
+
+#: inc/components/woocommerce/common/stock-badge.php:31
+#: inc/options/posts/woo-general.php:393
+msgid "OUT OF STOCK"
+msgstr "UITVERKOCHT"
+
+#: inc/components/woocommerce/common/sale-flash.php:8
+msgid "SALE!"
+msgstr "UITVERKOOP!"
+
+#: inc/panel-builder/header/mobile-menu/options.php:314
+msgid "Container Margin"
+msgstr "Container marge"
+
+#: inc/panel-builder/header/mobile-menu/options.php:238
+msgid "Dropdown Font"
+msgstr "Dropdown lettertype"
+
+#: inc/panel-builder/header/mobile-menu/options.php:93
+msgid "Items Vertical Spacing"
+msgstr "Items verticale afstand"
+
+#: inc/panel-builder/header/mobile-menu/options.php:76
+msgid "Dropdown Toggle Shape"
+msgstr "Dropdown toggle vorm"
+
+#: inc/panel-builder/header/mobile-menu/options.php:48
+msgid "Dropdown Toggle Icon"
+msgstr "Dropdown toggle pictogram"
+
+#: inc/panel-builder/header/menu/options.php:632
+msgid "Top Offset (Sticky State)"
+msgstr "Top offset (sticky status)"
+
+#: inc/panel-builder/header/menu/options.php:552
+msgid "Only Arrow"
+msgstr "Alleen pijl"
+
+#: inc/panel-builder/header/menu/options.php:551
+msgid "Entire Item"
+msgstr "Gehele item"
+
+#: inc/panel-builder/header/menu/options.php:543
+msgid "Click Area"
+msgstr "Klikgebied"
+
+#: inc/panel-builder/header/menu/options.php:534
+msgid "Choose the interaction mode with the menu dropdown. "
+msgstr "Kies de interactiemodus met de dropdown van het menu "
+
+#: inc/panel-builder/header/menu/options.php:532
+msgid "Click"
+msgstr "Klik"
+
+#: inc/panel-builder/header/menu/options.php:524
+msgid "Interaction Type"
+msgstr "Interactietype"
+
+#: inc/panel-builder/header/menu/options.php:485
+msgid "Items Border Radius"
+msgstr "Items rand radius"
+
+#: inc/options/posts/woo-general.php:445
+msgid "Custom Quantity Input"
+msgstr "Aangepaste hoeveelheid invoer"
+
+#: inc/manager.php:153
+msgid "Collapse dropdown menu"
+msgstr "Dropdown menu invouwen"
+
+#: inc/components/menus.php:80 inc/components/menus.php:93
+#: inc/components/menus.php:242 inc/manager.php:152
+msgid "Expand dropdown menu"
+msgstr "Dropdown menu uitvouwen"
+
+#: inc/components/builder/header-elements.php:396
+msgid "Close cart drawer"
+msgstr "Winkelwagenlade sluiten"
+
+#: inc/components/builder/header-elements.php:135
+msgid "Close drawer"
+msgstr "Sluit lade"
+
+#: inc/panel-builder/header/button/options.php:233
+#: inc/panel-builder/header/text/options.php:142
+msgid "Logged Out"
+msgstr "Uitgelogd"
+
+#: inc/panel-builder/header/button/options.php:232
+#: inc/panel-builder/header/text/options.php:141
+msgid "Logged In"
+msgstr "Ingelogd"
+
+#: inc/options/posts/woo-categories.php:194
+msgid "Video Thumbnail"
+msgstr "Video thumbnail"
+
+#: inc/panel-builder/header/mobile-menu/config.php:21
+msgid "Mobile Menu 1"
+msgstr "Mobiel menu 1"
+
+#: inc/panel-builder/header/cart/options.php:908
+#: inc/panel-builder/header/offcanvas/options.php:171
+#: inc/panel-builder/header/search/options.php:635
+msgid "Close Button Type"
+msgstr "Knoptype sluiten"
+
+#: inc/options/single-elements/post-nav.php:205
+msgid "Thumbnail Overlay Color"
+msgstr "Thumbnail overlay kleur"
+
+#: inc/options/posts/woo-gallery.php:251
+msgid "Lightbox Button Background"
+msgstr "Lightbox knop achtergrond"
+
+#: inc/options/posts/woo-gallery.php:220
+msgid "Lightbox Button Icon Color"
+msgstr "Lightbox knop pictogram kleur"
+
+#: inc/options/general/back-to-top.php:289
+msgid "Shape Border Radius"
+msgstr "Vorm rand radius"
+
+#: inc/panel-builder/header/text/options.php:25
+msgid "Allow the item container to expand and fill in all the available space."
+msgstr "Laat de item container uitvouwen en alle beschikbare ruimte opvullen."
+
+#: inc/panel-builder/header/text/options.php:24
+msgid "Stretch Container"
+msgstr "Verleng container"
+
+#: inc/options/general/buttons.php:130
+msgid "Padding"
+msgstr "Padding"
+
+#: admin/dashboard/plugins/config.php:34
+msgid "A better way to translate your WordPress site and go multilingual, directly from the front-end using a visual translation interface.s."
+msgstr "Een betere manier om je WordPress site te vertalen en meertalig te gaan, direct vanuit de front-end met behulp van een visuele vertaalinterface."
+
+#: inc/panel-builder/header/search/options.php:527
+msgid "Input Font Color"
+msgstr "Ingave lettertype kleur"
+
+#: inc/options/general/posts-listing.php:1215
+msgid "Card Overlay Color"
+msgstr "Kaart overlay kleur"
+
+#: inc/options/general/posts-listing.php:513
+msgid "Card Min Height"
+msgstr "Kaart minimum hoogte"
+
+#: inc/panel-builder/header/button/options.php:115
+msgid "Popup Template"
+msgstr "Pop-up template"
+
+#: inc/panel-builder/header/button/options.php:76
+msgid "Link/URL"
+msgstr "Link/URL"
+
+#: inc/panel-builder/header/button/options.php:66
+msgid "Open Popup"
+msgstr "Pop-up openen"
+
+#: inc/panel-builder/header/button/options.php:65
+msgid "Open Link"
+msgstr "Link openen"
+
+#: inc/panel-builder/header/button/options.php:54
+msgid "Click Behavior"
+msgstr "Klikgedrag"
+
+#: inc/options/single-elements/related-posts.php:66
+msgid "Random"
+msgstr "Willekeurig"
+
+#: inc/options/single-elements/related-posts.php:65
+msgid "Most Commented"
+msgstr "Meeste reacties"
+
+#: inc/options/single-elements/related-posts.php:64
+msgid "Recent"
+msgstr "Recent"
+
+#: inc/options/single-elements/related-posts.php:58
+msgid "Sort by"
+msgstr "Sorteren op"
+
+#: inc/panel-builder/header/mobile-menu/options.php:39
+msgid "This option will collapse/expand the sub menu items on click/touch."
+msgstr "Deze optie doet de submenu-onderdelen bij klikken/aanraken samenvouwen/uitvouwen."
+
+#: inc/panel-builder/header/mobile-menu/options.php:35
+msgid "Interactive Collapse"
+msgstr "Interactieve samenvouwing"
+
+#: inc/options/posts/woo-general.php:565
+msgid "Sale & Stock Badge"
+msgstr "Verkoop & voorraad badge"
+
+#: inc/options/general/posts-listing.php:362
+msgid "Full Post"
+msgstr "Volledig bericht"
+
+#: inc/panel-builder/footer/widget-area-6/config.php:4
+msgid "Widget Area 6"
+msgstr "Widget gebied 6"
+
+#: inc/panel-builder/footer/widget-area-5/config.php:4
+msgid "Widget Area 5"
+msgstr "Widget gebied 5"
+
+#: inc/panel-builder/footer/widget-area-4/config.php:4
+msgid "Widget Area 4"
+msgstr "Widget gebied 4"
+
+#: inc/panel-builder/footer/widget-area-3/config.php:4
+msgid "Widget Area 3"
+msgstr "Widget gebied 3"
+
+#: inc/panel-builder/footer/widget-area-2/config.php:4
+msgid "Widget Area 2"
+msgstr "Widget gebied 2"
+
+#: inc/panel-builder/footer/widget-area-1/config.php:4
+msgid "Widget Area 1"
+msgstr "Widget gebied 1"
+
+#: inc/options/general/meta.php:324 inc/options/single-elements/post-nav.php:42
+#: inc/options/single-elements/post-nav.php:52
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: inc/options/general/layout.php:55
+msgid "This option applies only if the posts or pages are set to Narrow Width structure."
+msgstr "Deze optie geldt alleen als de berichten of pagina's ingesteld zijn op Smalle breedte structuur."
+
+#: inc/options/general/layout.php:41
+msgid "Adjusts the spacing between the main content area and the header and footer."
+msgstr "Regelt de afstand tussen het hoofdsectie van de inhoud en de header en footer."
+
+#: inc/options/general/content-elements.php:31
+msgid "Adjusts the spacing between the Gutenberg blocks."
+msgstr "Past de spatiëring tussen de Gutenberg blokken aan."
+
+#: inc/options/engagement/social-accounts.php:36
+msgid "Easily link your social media accounts and display them throughout your website, with the various elements provided in the customizer."
+msgstr "Link gemakkelijk je sociale media accounts en toon ze overal op je site, met de verschillende elementen die in de customizer worden aangeboden."
+
+#: inc/options/engagement/general.php:23
+msgid "Enable Schema.org markup features for your website. You can disable this option if you use a SEO plugin and let it do the work."
+msgstr "Schakel Schema.org markup functies in voor je site. Je kunt deze optie uitschakelen als je een SEO plugin gebruikt en die het werk laat doen."
+
+#: inc/panel-builder/header/button/options.php:129
+msgid "Please go ahead and create a popup first."
+msgstr "Ga je gang en maak eerst een pop-up."
+
+#: inc/panel-builder/header/button/options.php:91
+msgid "Set link to nofollow"
+msgstr "Zet de link op nofollow"
+
+#: inc/panel-builder/header/button/options.php:128
+msgid "Popup"
+msgstr "Pop-up"
+
+#: inc/panel-builder/footer/widget-area-1/options.php:102
+msgid "Links Decoration"
+msgstr "Links decoratie"
+
+#: inc/options/single-elements/related-posts.php:120
+msgid "Module Title Alignment"
+msgstr "Module titel uitlijning"
+
+#: inc/options/single-elements/post-share-box.php:285
+#: inc/panel-builder/footer/socials/options.php:59
+#: inc/panel-builder/header/socials/options.php:58
+msgid "Set links to nofollow"
+msgstr "Zet links op nofollow"
+
+#: inc/options/single-elements/post-nav.php:151
+msgid "Module Visibility"
+msgstr "Module zichtbaarheid"
+
+#: inc/options/single-elements/post-nav.php:131
+msgid "Title Visibility"
+msgstr "Titel zichtbaarheid"
+
+#: inc/options/posts/woo-single.php:301
+msgid "Sticky Gallery"
+msgstr "Sticky galerij"
+
+#: inc/options/posts/woo-gallery.php:185
+msgid "Prev/Next Background"
+msgstr "Vorige/volgende achtergrond"
+
+#: inc/options/posts/woo-gallery.php:155
+msgid "Prev/Next Arrow"
+msgstr "Vorige/volgende pijl"
+
+#: inc/options/posts/woo-categories.php:850
+msgid "Modal Backgrop"
+msgstr "Modal backgrop"
+
+#: inc/options/posts/woo-categories.php:815
+msgid "Modal Shadow"
+msgstr "Modal schaduw"
+
+#: inc/options/posts/woo-categories.php:794
+msgid "Description Color"
+msgstr "Kleur beschrijving"
+
+#: inc/options/posts/woo-categories.php:764
+msgid "Price Font"
+msgstr "Prijs lettertype"
+
+#: inc/options/posts/woo-categories.php:728
+msgid "Quick View Modal"
+msgstr "Snel bekijken modal"
+
+#: inc/options/posts/woo-categories.php:659
+msgid "Quick View Button"
+msgstr "Snel bekijken knop"
+
+#: inc/options/posts/woo-categories.php:635
+msgid "Card Border Radius"
+msgstr "Kaartrand radius"
+
+#: inc/options/posts/woo-categories.php:268
+msgid "Add to Cart Button"
+msgstr "Toevoegen aan winkelwagen knop"
+
+#: inc/options/general/sidebar.php:208
+msgid "Last Widgets"
+msgstr "Laatste widgets"
+
+#: inc/options/general/sidebar.php:195
+msgid "Last X Widgets"
+msgstr "Laatste X widgets"
+
+#: inc/options/general/sidebar.php:194
+msgid "Entire Sidebar"
+msgstr "Gehele zijbalk"
+
+#: inc/options/general/sidebar.php:187
+msgid "Stick Behavior"
+msgstr "Stick gedrag"
+
+#: inc/options/general/sidebar.php:176
+msgid "Sticky Top Offset"
+msgstr "Sticky top offset"
+
+#: inc/options/general/posts-listing.php:1462
+#: inc/options/single-elements/related-posts.php:174
+msgid "Number of posts"
+msgstr "Aantal berichten"
+
+#: inc/options/general/posts-listing.php:1436
+#: inc/options/single-elements/related-posts.php:141
+msgid "Columns & Posts"
+msgstr "Kolommen & berichten"
+
+#: inc/options/general/performance.php:26
+msgid "Enable this option if you want to remove WordPress emojis script in order to improve the performance."
+msgstr "Schakel deze optie in als je het WordPress emoji's script wil verwijderen om de prestaties te verbeteren."
+
+#: inc/options/general/performance.php:22
+msgid "Disable Emojis Script"
+msgstr "Emojis script uitschakelen"
+
+#: inc/options/general/page-title.php:467
+#: inc/panel-builder/header/text/options.php:37
+msgid "Max Width"
+msgstr "Maximumbreedte"
+
+#: inc/components/social-box.php:614 inc/components/social-box.php:1460
+msgid "Facebook Messenger"
+msgstr "Facebook Messenger"
+
+#: admin/dashboard/plugins/config.php:22
+msgid "Toolset helps WordPress professionals build advanced dynamic sites without programming."
+msgstr "Toolset helpt WordPress professionals geavanceerde dynamische sites te bouwen zonder te programmeren."
+
+#: admin/dashboard/plugins/config.php:15
+msgid "JetEngine is a dynamic content plugin that lets you build a complex websites fast and cost-effectively."
+msgstr "JetEngine is een plugin voor dynamische inhoud waarmee je snel en kosteneffectief complexe sites kunt bouwen."
+
+#: inc/options/posts/woo-general.php:829
+msgid "Navigation Quick Links"
+msgstr "Navigatie snelle links"
+
+#: inc/init.php:561
+msgid "Footer Widget Area "
+msgstr "Footer widget gebied "
+
+#: inc/panel-builder/header/cart/options.php:666
+msgid "Display the quantity input field inside the off-canvas cart panel."
+msgstr "Het invoerveld voor hoeveelheden weergeven in het deelvenster winkelwagen buiten het canvas."
+
+#: inc/components/woocommerce/common/account.php:89
+msgid "Log out"
+msgstr "Uitloggen"
+
+#: inc/options/posts/woo-gallery.php:107
+msgid "Image size used for the main image on single product pages."
+msgstr "Afbeeldingsgrootte die wordt gebruikt voor de hoofdafbeelding op pagina's met één product."
+
+#: inc/options/posts/woo-general.php:1078
+msgid "I have read and agree to the website %s"
+msgstr "Ik heb de site %s gelezen en ga ermee akkoord"
+
+#: inc/options/posts/woo-general.php:1075
+msgid "Optionally add some text for the terms checkbox that customers must accept."
+msgstr "Voeg eventueel tekst toe voor het selectievakje Voorwaarden dat klanten moeten accepteren."
+
+#: inc/options/posts/woo-general.php:1074
+msgid "Terms and conditions"
+msgstr "Voorwaarden en condities"
+
+#: inc/options/posts/woo-general.php:1061
+msgid "Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy]."
+msgstr "Je persoonsgegevens worden gebruikt om je bestelling te verwerken, je ervaring op deze site te ondersteunen en voor andere doeleinden die worden beschreven in onze [privacy_policy]."
+
+#: inc/options/posts/woo-general.php:1059
+msgid "Optionally add some text about your store privacy policy to show during checkout."
+msgstr "Voeg eventueel wat tekst toe over het privacybeleid van je winkel om weer te geven tijdens het afrekenen."
+
+#: inc/options/posts/woo-general.php:1058
+msgid "Privacy policy"
+msgstr "Privacybeleid"
+
+#: inc/options/posts/woo-general.php:1046
+msgid "Terms And Conditions Page"
+msgstr "Voorwaarden en condities pagina"
+
+#: inc/options/posts/woo-general.php:1033
+msgid "Privacy Policy Page"
+msgstr "Privacybeleidspagina"
+
+#: inc/options/posts/woo-general.php:1015
+msgid "Phone Field"
+msgstr "Telefoonveld"
+
+#: inc/options/posts/woo-general.php:997
+msgid "Address Line 2 Field"
+msgstr "Veld adresregel 2"
+
+#: inc/options/posts/woo-general.php:988 inc/options/posts/woo-general.php:1006
+#: inc/options/posts/woo-general.php:1024
+msgid "Required"
+msgstr "Vereist"
+
+#: inc/options/posts/woo-general.php:987 inc/options/posts/woo-general.php:1005
+#: inc/options/posts/woo-general.php:1023
+msgid "Optional"
+msgstr "Optioneel"
+
+#: inc/options/posts/woo-general.php:986 inc/options/posts/woo-general.php:1004
+#: inc/options/posts/woo-general.php:1022
+msgid "Hidden"
+msgstr "Verborgen"
+
+#: inc/options/posts/woo-general.php:979
+msgid "Company Name Field"
+msgstr "Veld bedrijfsnaam"
+
+#: inc/options/posts/woo-general.php:968
+msgid "Highlight Required Fields"
+msgstr "Vereiste velden markeren"
+
+#: inc/options/posts/woo-general.php:958
+msgid "Coupon Form"
+msgstr "Waardebon formulier"
+
+#: inc/options/posts/woo-general.php:926
+msgid "Navigation Shadow"
+msgstr "Navigatie schaduw"
+
+#: inc/options/posts/woo-general.php:906
+msgid "Navigation Divider Color"
+msgstr "Navigatie scheider kleur"
+
+#: inc/options/posts/woo-general.php:876
+msgid "Navigation Background Color"
+msgstr "Navigatie achtergrondkleur"
+
+#: inc/options/posts/woo-general.php:846
+msgid "Navigation Text Color"
+msgstr "Navigatie tekstkleur"
+
+#: inc/options/posts/woo-general.php:819
+msgid "User Name"
+msgstr "Gebruikersnaam"
+
+#: inc/options/posts/woo-general.php:791
+msgid "User Avatar"
+msgstr "Gebruikersavatar"
+
+#: inc/options/posts/woo-general.php:780
+msgid "Account Page"
+msgstr "Account pagina"
+
+#: inc/options/posts/woo-general.php:43
+msgid "Messages"
+msgstr "Berichten"
+
+#: inc/options/posts/woo-general.php:434
+#: inc/panel-builder/header/cart/options.php:662
+msgid "Quantity Input"
+msgstr "Hoeveelheid invoer"
+
+#: inc/options/posts/woo-general.php:23
+msgid "No page set"
+msgstr "Geen pagina ingesteld"
+
+#: inc/options/customizer.php:33 static/bundle/customizer-controls.js:2
+#: static/js/customizer/components/ProOverlay.js:21
+#: static/js/customizer/components/ProOverlay.js:66
+#: static/bundle/customizer-controls.js:43444
+#: static/bundle/customizer-controls.js:43489
+msgid "View Pro Features"
+msgstr "Bekijk functies van Pro"
+
+#: inc/options/general/posts-listing.php:287
+#: inc/options/posts/woo-categories.php:177
+msgid "Zoom Out"
+msgstr "Uitzoomen"
+
+#: inc/options/general/posts-listing.php:286
+#: inc/options/posts/woo-categories.php:176
+msgid "Zoom In"
+msgstr "Inzoomen"
+
+#: inc/options/general/form-elements.php:242
+msgid "Select Dropdown"
+msgstr "Selecteer dropdown"
+
+#: searchform.php:96
+msgid "Search button"
+msgstr "Zoekknop"
+
+#: inc/options/general/page-title.php:614
+#: inc/options/single-elements/author-box.php:142
+#: inc/panel-builder/footer/socials/options.php:52
+#: inc/panel-builder/header/socials/options.php:52
+msgid "Open links in new tab"
+msgstr "Open links in een nieuwe tab"
+
+#: inc/integrations/elementor.php:87
+msgid "Theme Color Palette 8"
+msgstr "Thema kleurenpalet 8"
+
+#: inc/integrations/elementor.php:81
+msgid "Theme Color Palette 7"
+msgstr "Thema kleurenpalet 7"
+
+#: inc/integrations/elementor.php:75
+msgid "Theme Color Palette 6"
+msgstr "Thema kleurenpalet 6"
+
+#: inc/integrations/elementor.php:69
+msgid "Theme Color Palette 5"
+msgstr "Thema kleurenpalet 5"
+
+#: inc/integrations/elementor.php:63
+msgid "Theme Color Palette 4"
+msgstr "Thema kleurenpalet 4"
+
+#: inc/integrations/elementor.php:57
+msgid "Theme Color Palette 3"
+msgstr "Thema kleurenpalet 3"
+
+#: inc/integrations/elementor.php:51
+msgid "Theme Color Palette 2"
+msgstr "Thema kleurenpalet 2"
+
+#: inc/integrations/elementor.php:45
+msgid "Theme Color Palette 1"
+msgstr "Thema kleurenpalet 1"
+
+#: inc/panel-builder/header/search/options.php:589
+msgid "Search Button Color"
+msgstr "Kleur van zoekknop"
+
+#: inc/panel-builder/header/search/options.php:558
+msgid "Search Icon Color"
+msgstr "Zoek pictogramkleur"
+
+#: inc/panel-builder/footer/menu/options.php:38
+#: inc/panel-builder/footer/socials/options.php:198
+msgid "Items Direction"
+msgstr "Items richting"
+
+#: inc/panel-builder/footer/middle-row/options.php:696
+msgid "Columns Divider"
+msgstr "Kolommen scheider"
+
+#: inc/panel-builder/footer/middle-row/options.php:388
+msgid "Widgets Spacing"
+msgstr "Widgets afstand"
+
+#: inc/panel-builder/footer/middle-row/options.php:28
+msgid "Columns"
+msgstr "Kolommen"
+
+#. translators: placeholder here means the actual URL.
+#: inc/panel-builder/footer/socials/options.php:37
+#: inc/panel-builder/header/socials/options.php:37
+msgid "Configure the social links in General ➝ %sSocial Network Accounts%s."
+msgstr "Configureer de sociale links in Algemeen ➝ %sSociale netwerk accounts%s."
+
+#: inc/init.php:112
+msgid "Palette Color 8"
+msgstr "Paletkleur 8"
+
+#: inc/init.php:105
+msgid "Palette Color 7"
+msgstr "Paletkleur 7"
+
+#: inc/init.php:98
+msgid "Palette Color 6"
+msgstr "Paletkleur 6"
+
+#: inc/options/single-elements/related-posts.php:558
+msgid "Posts Meta Font Color"
+msgstr "Berichten meta lettertypekleur"
+
+#: inc/options/single-elements/post-nav.php:76
+msgid "Container Spacing"
+msgstr "Container afstand"
+
+#: inc/options/posts/woo-gallery.php:23
+msgid "Product Gallery Width"
+msgstr "Breedte productgalerij"
+
+#: inc/options/posts/woo-gallery.php:5
+msgid "Gallery Options"
+msgstr "Galerij opties"
+
+#: inc/options/posts/woo-product-tabs.php:171
+msgid "Active Tab Colors"
+msgstr "Actieve tabkleuren"
+
+#: inc/options/posts/woo-single.php:261
+msgid "Upsell Products Visibility"
+msgstr "Zichtbaarheid van producten bij verkoop"
+
+#: inc/options/posts/woo-single.php:237
+msgid "Related Products Visibility"
+msgstr "Zichtbaarheid van gerelateerde producten"
+
+#: inc/components/woocommerce/general.php:422
+#: inc/options/posts/woo-single.php:111
+msgid "Product Price"
+msgstr "Product prijs"
+
+#: inc/options/general/content-elements.php:13
+msgid "Entry Content"
+msgstr "Ingave inhoud"
+
+#: inc/options/general/general.php:89
+msgid "Click this button if you want to reset all settings to their default values."
+msgstr "Klik op deze knop als je alle instellingen naar hun standaardwaarden wil resetten."
+
+#: inc/options/general/general.php:88 static/bundle/customizer-controls.js:2
+#: static/bundle/options.js:2
+#: static/js/options/options/ct-customizer-reset-options.js:18
+#: static/bundle/customizer-controls.js:16027 static/bundle/options.js:14181
+msgid "Reset Options"
+msgstr "Reset opties"
+
+#: inc/options/general/general.php:79
+msgid "Manage Options"
+msgstr "Beheer opties"
+
+#: inc/options/general/meta.php:334
+#: inc/panel-builder/header/trigger/options.php:50
+msgid "Style"
+msgstr "Stijl"
+
+#: inc/options/general/meta.php:132
+msgid "Format"
+msgstr "Format"
+
+#: inc/options/general/sidebar.php:249
+msgid "Mobile Sidebar Position"
+msgstr "Mobiele zijbalk positie"
+
+#: inc/options/general/sidebar.php:230
+msgid "Sidebar Visibility"
+msgstr "Zichtbaarheid zijbalk"
+
+#. translators: %s entity of font color
+#: inc/options/general/page-title.php:1071
+msgid "%s Font Color"
+msgstr "%s lettertypekleur"
+
+#. translators: %s entity of font
+#: inc/options/general/page-title.php:1059
+msgid "%s Font"
+msgstr "%s lettertype"
+
+#: inc/options/general/page-title.php:1007
+#: inc/options/general/posts-listing.php:872
+msgid "Meta Button Background"
+msgstr "Meta knop achtergrond"
+
+#: inc/options/general/page-title.php:975
+#: inc/options/general/posts-listing.php:840
+msgid "Meta Button Font"
+msgstr "Meta knop lettertype"
+
+#: inc/options/general/colors.php:725
+msgid "All Headings (H1 - H6)"
+msgstr "Alle headings (H1 - H6)"
+
+#: inc/options/general/colors.php:705
+msgid "Borders"
+msgstr "Randen"
+
+#: inc/options/general/colors.php:675
+msgid "Text Selection"
+msgstr "Tekstselectie"
+
+#: inc/options/general/colors.php:645
+msgid "Links"
+msgstr "Links"
+
+#: inc/options/general/colors.php:624
+msgid "Base Text"
+msgstr "Basistekst"
+
+#: inc/options/general/colors.php:18
+msgid "Global Color Palette"
+msgstr "Globaal kleurenpalet"
+
+#: inc/options/meta/default.php:75 inc/options/meta/page.php:74
+#: inc/options/meta/post.php:70
+msgid "Content Area Style Source"
+msgstr "Bron van stijl van inhoudsgebied"
+
+#: inc/panel-builder/header/cart/options.php:161
+msgid "Cart Total Font Color"
+msgstr "Winkelwagen totaal lettertypekleur"
+
+#: inc/panel-builder/header/cart/options.php:150
+msgid "Cart Total Font"
+msgstr "Winkelwagen totaal lettertype"
+
+#: inc/panel-builder/header/cart/options.php:114
+msgid "Cart Total Position"
+msgstr "Winkelwagen positie totaal"
+
+#: inc/panel-builder/header/search/options.php:143
+#: inc/panel-builder/header/socials/options.php:219
+#: inc/panel-builder/header/trigger/options.php:157
+msgid "Label Font Color"
+msgstr "Label lettertypekleur"
+
+#: inc/panel-builder/footer/socials/options.php:255
+#: inc/panel-builder/header/search/options.php:132
+#: inc/panel-builder/header/socials/options.php:208
+#: inc/panel-builder/header/trigger/options.php:146
+msgid "Label Font"
+msgstr "Label lettertype"
+
+#: inc/panel-builder/header/search/options.php:88
+#: inc/panel-builder/header/trigger/options.php:99
+msgid "Label Position"
+msgstr "Labelpositie"
+
+#: inc/options/general/breadcrumbs.php:204
+msgid "Breadcrumbs Source"
+msgstr "Kruimelpad bron"
+
+#: inc/options/general/breadcrumbs.php:40
+msgid "Breadcrumb NavXT"
+msgstr "Breadcrumb NavXT"
+
+#: inc/options/general/breadcrumbs.php:36
+msgid "SeoPress"
+msgstr "SeoPress"
+
+#: inc/options/general/breadcrumbs.php:31
+msgid "Yoast"
+msgstr "Yoast"
+
+#: inc/options/general/breadcrumbs.php:21
+msgid "RankMath"
+msgstr "RankMath"
+
+#: inc/options/general/back-to-top.php:118
+#: inc/panel-builder/header/cart/options.php:57
+msgid "Type 6"
+msgstr "Type 6"
+
+#: inc/panel-builder/header/search/options.php:433
+msgid "Live Results Images"
+msgstr "Live resultaten afbeeldingen"
+
+#: inc/panel-builder/header/search/options.php:414
+msgid "Placeholder Text"
+msgstr "Plaatshouder tekst"
+
+#: inc/options/pages/page.php:66
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: inc/options/posts/custom-post-type-single.php:84
+msgid "%s %s"
+msgstr "%s %s"
+
+#: inc/options/posts/woo-gallery.php:130
+msgid "Zoom Effect"
+msgstr "Zoomeffect"
+
+#: inc/options/posts/woo-gallery.php:120
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: inc/options/posts/woo-gallery.php:51
+#: inc/panel-builder/footer/middle-row/options.php:374
+msgid "Columns Spacing"
+msgstr "Kolomafstand"
+
+#: inc/options/posts/woo-single.php:33
+msgid "Product Gallery"
+msgstr "Product galerij"
+
+#: inc/options/meta/default.php:183
+msgid "Disable %s %s"
+msgstr "Uitschakelen %s %s"
+
+#: inc/options/general/page-title.php:1208
+msgid "Container Padding"
+msgstr "container padding"
+
+#: inc/options/posts/woo-product-tabs.php:143
+msgid "Active Tab Border"
+msgstr "Active tab rand"
+
+#: inc/options/posts/woo-product-tabs.php:20
+msgid "Tabs Type"
+msgstr "Tabs type"
+
+#: inc/options/posts/woo-product-tabs.php:5
+msgid "Product Tabs"
+msgstr "Product tabs"
+
+#: inc/panel-builder/header/cart/options.php:794
+msgid "Products Font Color"
+msgstr "Producten lettertypekleur"
+
+#: inc/panel-builder/header/cart/options.php:773
+msgid "Panel Heading Font Color"
+msgstr "Paneel koptekst lettertypekleur"
+
+#: inc/panel-builder/header/cart/options.php:724
+#: inc/panel-builder/header/cart/options.php:835
+msgid "Subtotal Font Color"
+msgstr "Subtotaal lettertypekleur"
+
+#: inc/panel-builder/header/cart/options.php:873
+#: inc/panel-builder/header/offcanvas/options.php:123
+msgid "Panel Backdrop"
+msgstr "Paneel achtergrond"
+
+#: inc/options/single-elements/post-share-box.php:260
+msgid "Flipboard"
+msgstr "Flipboard"
+
+#: inc/options/posts/woo-add-to-cart.php:199
+msgid "View Cart Button"
+msgstr "Bekijk winkelwagen knop"
+
+#: inc/options/posts/woo-add-to-cart.php:124
+msgid "Add To Cart Button"
+msgstr "Toevoegen aan winkelwagen knop"
+
+#: inc/options/posts/woo-add-to-cart.php:66
+#: inc/options/posts/woo-general.php:518
+msgid "Quantity Arrows Color"
+msgstr "Aantal pijlenkleur"
+
+#: inc/options/posts/woo-general.php:487
+msgid "Quantity Main Color"
+msgstr "Hoeveelheid hoofdkleur"
+
+#: inc/options/general/posts-listing.php:1135
+msgid "Card Divider"
+msgstr "Kaartverdeler"
+
+#: inc/options/general/breadcrumbs.php:121
+msgid "Current Taxonomy Title"
+msgstr "Huidige taxonomie titel"
+
+#: inc/panel-builder/header/cart/options.php:657
+msgid "Product Page"
+msgstr "Productpagina"
+
+#: inc/panel-builder/header/cart/options.php:656
+msgid "Archive Page"
+msgstr "Archiefpagina"
+
+#: inc/panel-builder/header/cart/options.php:650
+msgid "Automatically open the cart drawer after a product is added to cart."
+msgstr "Open automatisch de winkelwagenlade nadat een product aan de winkelwagen is toegevoegd."
+
+#: inc/panel-builder/header/cart/options.php:643
+msgid "Open Cart Automatically On"
+msgstr "Open winkelwagen automatisch op"
+
+#: inc/panel-builder/header/menu/options.php:85
+msgid "Left to Right"
+msgstr "Van links naar rechts"
+
+#: inc/panel-builder/header/menu/options.php:84
+msgid "Center to Sides"
+msgstr "Midden naar zijkanten"
+
+#: inc/panel-builder/header/menu/options.php:75
+msgid "Indicator Effect"
+msgstr "Indicator effect"
+
+#: inc/panel-builder/footer/copyright/options.php:67
+#: inc/panel-builder/footer/menu/options.php:124
+#: inc/panel-builder/footer/socials/options.php:211
+#: inc/panel-builder/header/button/options.php:146
+#: inc/panel-builder/header/button/options.php:202
+#: inc/panel-builder/header/cart/options.php:1088
+#: inc/panel-builder/header/logo/options.php:320
+#: inc/panel-builder/header/mobile-menu/options.php:153
+#: inc/panel-builder/header/search/options.php:803
+#: inc/panel-builder/header/socials/options.php:168
+#: inc/panel-builder/header/text/options.php:111
+#: inc/panel-builder/header/text/options.php:347
+#: inc/panel-builder/header/trigger/options.php:604
+msgid "Element Visibility"
+msgstr "Element zichtbaarheid"
+
+#: inc/options/single-elements/author-box.php:88
+msgid "Posts Count"
+msgstr "Aantal berichten"
+
+#: inc/options/posts/woo-single.php:11 inc/options/posts/woo-single.php:67
+msgid "Product Title"
+msgstr "Producttitel"
+
+#: inc/options/posts/woo-general.php:741
+msgid "Out of Stock Badge"
+msgstr "Niet op voorraad badge"
+
+#: inc/options/general/pagination.php:92
+msgid "Arrows Visibility"
+msgstr "Zichtbaarheid van pijlen"
+
+#: inc/options/general/pagination.php:74
+msgid "Numbers Visibility"
+msgstr "Zichtbaarheid van nummers"
+
+#: inc/options/general/page-title.php:652
+msgid "Container Bottom Spacing"
+msgstr "Container bodemafstand"
+
+#: inc/options/integrations/tutorlms-archive.php:20
+#: inc/options/integrations/tutorlms-single.php:203
+msgid "Course Structure"
+msgstr "Cursus structuur"
+
+#: inc/options/general/custom-post-types.php:130
+msgid "LearnDash"
+msgstr "LearnDash"
+
+#: inc/options/general/custom-post-types.php:57
+msgid "Tutor LMS"
+msgstr "Tutor LMS"
+
+#: inc/integrations/custom-post-types.php:167
+#: inc/integrations/custom-post-types.php:174
+msgid "Tag"
+msgstr "Tag"
+
+#: inc/integrations/custom-post-types.php:166
+#: inc/integrations/custom-post-types.php:173
+msgid "Category"
+msgstr "Categorie"
+
+#: inc/panel-builder/header/cart/options.php:83
+msgid "Cart Total Visibility"
+msgstr "Winkelwagen totale zichtbaarheid"
+
+#: inc/panel-builder/footer/socials/options.php:141
+#: inc/panel-builder/header/search/options.php:57
+#: inc/panel-builder/header/socials/options.php:140
+#: inc/panel-builder/header/trigger/options.php:69
+msgid "Label Visibility"
+msgstr "Label zichtbaarheid"
+
+#: inc/integrations/beaver-themer.php:30
+msgid "After Footer"
+msgstr "Na de footer"
+
+#: inc/integrations/beaver-themer.php:29
+msgid "Before Footer"
+msgstr "Voor de footer"
+
+#: inc/integrations/beaver-themer.php:21
+msgid "After Content"
+msgstr "Na inhoud"
+
+#: inc/integrations/beaver-themer.php:20
+msgid "Bottom Content"
+msgstr "Onder inhoud"
+
+#: inc/integrations/beaver-themer.php:19
+msgid "Top Content"
+msgstr "Boven inhoud"
+
+#: inc/integrations/beaver-themer.php:18
+msgid "Before Content"
+msgstr "Voor inhoud"
+
+#: inc/integrations/beaver-themer.php:16
+msgid "Content"
+msgstr "Inhoud"
+
+#: inc/integrations/beaver-themer.php:11
+msgid "After Header"
+msgstr "Na header"
+
+#: inc/integrations/beaver-themer.php:10
+msgid "Before Header"
+msgstr "Voor header"
+
+#: inc/options/posts/woo-add-to-cart.php:36
+msgid "Quantity Color"
+msgstr "Hoeveelheid kleur"
+
+#: inc/options/posts/woo-add-to-cart.php:16
+msgid "Button Width"
+msgstr "Knop breedte"
+
+#: inc/options/posts/woo-add-to-cart.php:6
+msgid "Add to Cart"
+msgstr "Toevoegen aan winkelwagen"
+
+#: inc/panel-builder/header/cart/options.php:889
+#: inc/panel-builder/header/offcanvas/options.php:149
+msgid "Panel Shadow"
+msgstr "Paneel schaduw"
+
+#: inc/panel-builder/header/cart/options.php:857
+#: inc/panel-builder/header/offcanvas/options.php:103
+msgid "Panel Background"
+msgstr "Paneel achtergrond"
+
+#: inc/options/posts/woo-gallery.php:48
+msgid "Thumbnails Spacing"
+msgstr "Thumbnails spatiëring"
+
+#: inc/options/posts/woo-gallery.php:70
+msgid "Thumbnails Position"
+msgstr "Thumbnails positie"
+
+#: inc/panel-builder/header/mobile-menu/views/offcanvas.php:86
+msgid "Off Canvas Menu"
+msgstr "Off canvas menu"
+
+#: inc/panel-builder/header/cart/options.php:614
+#: inc/panel-builder/header/offcanvas/options.php:39
+msgid "Panel Width"
+msgstr "Paneelbreedte"
+
+#: inc/panel-builder/header/cart/options.php:583
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: inc/panel-builder/header/cart/options.php:572
+msgid "Cart Drawer Type"
+msgstr "Lade type winkelwagen"
+
+#: inc/panel-builder/header/cart/options.php:554
+msgid "Cart Drawer"
+msgstr "Lade winkelwagen"
+
+#: inc/components/social-box.php:445 inc/components/social-box.php:1420
+msgid "Apple Podcasts"
+msgstr "Apple Podcasts"
+
+#: inc/options/general/back-to-top.php:169
+msgid "Side Offset"
+msgstr "Zijwaartse offset"
+
+#: inc/helpers.php:299 inc/helpers.php:305
+msgid "Full Size"
+msgstr "Volledige grootte"
+
+#: inc/panel-builder/header/logo/options.php:85
+msgid "Sticky State Shrink"
+msgstr "Sticky status krimp"
+
+#: inc/options/general/general.php:35
+msgid "Website Frame"
+msgstr "Site kader"
+
+#: inc/components/social-box.php:850 inc/components/social-box.php:1512
+msgid "Phone"
+msgstr "Telefoon"
+
+#. translators: placeholder here means the actual URL.
+#: inc/panel-builder/header/menu/options.php:19
+msgid "Manage your menu items in the %sMenus screen%s."
+msgstr "Beheer je menu-items in het %sMenu scherm%s."
+
+#: inc/options/meta/page.php:187
+msgid "Disable Page %s"
+msgstr "Uitschakelen pagina %s"
+
+#: inc/options/general/typography.php:149
+msgid "The font used if the chosen font isn't available."
+msgstr "Het gebruikte lettertype als het gekozen lettertype niet beschikbaar is."
+
+#: inc/options/general/typography.php:148
+msgid "Fallback Font Family"
+msgstr "Fallback lettertype familie"
+
+#: inc/options/single-elements/featured-image.php:90
+#: inc/options/single-elements/post-nav.php:111
+msgid "Image Visibility"
+msgstr "Zichtbaarheid afbeelding"
+
+#: inc/panel-builder/header/menu/options.php:992
+msgid "Dropdown Border Radius"
+msgstr "Dropdown randradius"
+
+#: inc/panel-builder/header/menu/options.php:974
+msgid "Dropdown Shadow"
+msgstr "Dropdown schaduw"
+
+#: inc/panel-builder/header/menu/options.php:833
+#: inc/panel-builder/header/menu/options.php:863
+#: inc/panel-builder/header/menu/options.php:896
+#: inc/panel-builder/header/menu/options.php:926
+msgid "Items Background Color"
+msgstr "Items achtergrondkleur"
+
+#: inc/panel-builder/header/menu/options.php:571
+msgid "Boxed Color"
+msgstr "Kleur in box"
+
+#: inc/panel-builder/header/menu/options.php:570
+msgid "Solid Color"
+msgstr "Effen kleur"
+
+#: inc/panel-builder/header/menu/options.php:560
+msgid "Items Hover Effect"
+msgstr "Items hoovereffect"
+
+#: inc/options/single-elements/structure-design.php:104
+msgid "Content Area Border Radius"
+msgstr "Inhoudsgebied randradius"
+
+#: inc/options/single-elements/structure-design.php:119
+msgid "Content Area Padding"
+msgstr "Padding inhoudsgebied"
+
+#: inc/options/general/comments-single.php:30
+msgid "Website Input Field"
+msgstr "Site invoerveld"
+
+#: inc/panel-builder/footer/middle-row/options.php:670
+#: inc/panel-builder/header/middle-row/options.php:382
+msgid "Bottom Border Width"
+msgstr "Breedte onderrand"
+
+#: inc/panel-builder/footer/middle-row/options.php:629
+#: inc/panel-builder/header/middle-row/options.php:275
+msgid "Top Border Width"
+msgstr "Breedte bovenrand"
+
+#: inc/panel-builder/header/middle-row/options.php:79
+msgid "Row Max Height"
+msgstr "Rij max. hoogte"
+
+#: inc/panel-builder/header/middle-row/options.php:62
+msgid "Sticky State Row Shrink"
+msgstr "Sticky state rij krimp"
+
+#: inc/panel-builder/header/middle-row/options.php:52
+msgid "Row Min Height"
+msgstr "Rij min hoogte"
+
+#: inc/panel-builder/footer/middle-row/options.php:442
+#: inc/panel-builder/footer/middle-row/options.php:638
+#: inc/panel-builder/footer/middle-row/options.php:679
+#: inc/panel-builder/header/middle-row/options.php:43
+#: inc/panel-builder/header/middle-row/options.php:284
+#: inc/panel-builder/header/middle-row/options.php:391
+msgid "Full Width"
+msgstr "Volledige breedte"
+
+#: inc/panel-builder/header/middle-row/config.php:4
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/customizer/panels-builder/placements/PlacementsBuilder/Row.js:18
+#: static/js/customizer/sync/builder.js:125
+#: static/bundle/customizer-controls.js:5179 static/bundle/options.js:16096
+#: static/bundle/sync.min.js:7337
+msgid "Main Row"
+msgstr "Hoofd rij"
+
+#: inc/panel-builder/header/logo/options.php:237
+msgid "Logo Image Position"
+msgstr "Logo afbeelding positie"
+
+#: inc/panel-builder/header/logo/options.php:146
+msgid "Site Title Visibility"
+msgstr "Zichtbaarheid van sitetitel"
+
+#: inc/panel-builder/header/logo/options.php:65
+#: inc/panel-builder/header/logo/options.php:106
+#: inc/panel-builder/header/offcanvas-logo/options.php:19
+msgid "Logo Height"
+msgstr "Logo hoogte"
+
+#: inc/panel-builder/header/logo/options.php:47
+msgid "Sticky State Logo"
+msgstr "Sticky state logo"
+
+#: inc/panel-builder/header/logo/options.php:27 static/bundle/options.js:2
+#: static/js/backend/taxonomies.js:107 static/bundle/options.js:37716
+msgid "Transparent State Logo"
+msgstr "Transparant state logo"
+
+#: inc/panel-builder/header/button/options.php:296
+#: inc/panel-builder/header/button/options.php:481
+#: inc/panel-builder/header/cart/options.php:180
+#: inc/panel-builder/header/cart/options.php:306
+#: inc/panel-builder/header/cart/options.php:431
+#: inc/panel-builder/header/logo/options.php:393
+#: inc/panel-builder/header/logo/options.php:539
+#: inc/panel-builder/header/menu/options.php:184
+#: inc/panel-builder/header/menu/options.php:405
+#: inc/panel-builder/header/menu/options.php:700
+#: inc/panel-builder/header/menu/options.php:853
+#: inc/panel-builder/header/middle-row/options.php:140
+#: inc/panel-builder/header/middle-row/options.php:208
+#: inc/panel-builder/header/middle-row/options.php:315
+#: inc/panel-builder/header/middle-row/options.php:421
+#: inc/panel-builder/header/mobile-menu/options.php:375
+#: inc/panel-builder/header/search/options.php:162
+#: inc/panel-builder/header/search/options.php:287
+#: inc/panel-builder/header/socials/options.php:242
+#: inc/panel-builder/header/socials/options.php:368
+#: inc/panel-builder/header/socials/options.php:512
+#: inc/panel-builder/header/text/options.php:185
+#: inc/panel-builder/header/trigger/options.php:176
+#: inc/panel-builder/header/trigger/options.php:302
+#: inc/panel-builder/header/trigger/options.php:435
+msgid "Sticky State"
+msgstr "Sticky status"
+
+#: inc/panel-builder/header/button/options.php:287
+#: inc/panel-builder/header/button/options.php:472
+#: inc/panel-builder/header/cart/options.php:171
+#: inc/panel-builder/header/cart/options.php:297
+#: inc/panel-builder/header/cart/options.php:421
+#: inc/panel-builder/header/logo/options.php:384
+#: inc/panel-builder/header/logo/options.php:530
+#: inc/panel-builder/header/menu/options.php:175
+#: inc/panel-builder/header/menu/options.php:395
+#: inc/panel-builder/header/menu/options.php:691
+#: inc/panel-builder/header/menu/options.php:844
+#: inc/panel-builder/header/middle-row/options.php:132
+#: inc/panel-builder/header/middle-row/options.php:200
+#: inc/panel-builder/header/middle-row/options.php:307
+#: inc/panel-builder/header/middle-row/options.php:413
+#: inc/panel-builder/header/mobile-menu/options.php:366
+#: inc/panel-builder/header/search/options.php:153
+#: inc/panel-builder/header/search/options.php:279
+#: inc/panel-builder/header/socials/options.php:232
+#: inc/panel-builder/header/socials/options.php:358
+#: inc/panel-builder/header/socials/options.php:501
+#: inc/panel-builder/header/text/options.php:176
+#: inc/panel-builder/header/trigger/options.php:167
+#: inc/panel-builder/header/trigger/options.php:293
+#: inc/panel-builder/header/trigger/options.php:425
+msgid "Transparent State"
+msgstr "Transparante state"
+
+#: inc/panel-builder/header/button/options.php:282
+#: inc/panel-builder/header/button/options.php:467
+#: inc/panel-builder/header/cart/options.php:166
+#: inc/panel-builder/header/cart/options.php:292
+#: inc/panel-builder/header/cart/options.php:413
+#: inc/panel-builder/header/logo/options.php:379
+#: inc/panel-builder/header/logo/options.php:525
+#: inc/panel-builder/header/menu/options.php:170
+#: inc/panel-builder/header/menu/options.php:389
+#: inc/panel-builder/header/menu/options.php:686
+#: inc/panel-builder/header/menu/options.php:839
+#: inc/panel-builder/header/middle-row/options.php:127
+#: inc/panel-builder/header/middle-row/options.php:195
+#: inc/panel-builder/header/middle-row/options.php:302
+#: inc/panel-builder/header/middle-row/options.php:408
+#: inc/panel-builder/header/mobile-menu/options.php:361
+#: inc/panel-builder/header/search/options.php:148
+#: inc/panel-builder/header/search/options.php:274
+#: inc/panel-builder/header/socials/options.php:224
+#: inc/panel-builder/header/socials/options.php:352
+#: inc/panel-builder/header/socials/options.php:492
+#: inc/panel-builder/header/text/options.php:171
+#: inc/panel-builder/header/trigger/options.php:162
+#: inc/panel-builder/header/trigger/options.php:288
+#: inc/panel-builder/header/trigger/options.php:419
+msgid "Default State"
+msgstr "Standaard state"
+
+#: inc/options/general/page-title.php:795
+msgid "Choose for which devices you want to enable the parallax effect."
+msgstr "Kies voor welke apparaten je het parallax-effect wil inschakelen."
+
+#: inc/options/general/page-title.php:742
+msgid "Featured"
+msgstr "Uitgelicht"
+
+#: inc/options/meta/blog.php:12 inc/options/meta/default.php:229
+#: inc/options/meta/page.php:203 inc/options/meta/post.php:225
+msgid "Disable Footer"
+msgstr "Schakel footer uit"
+
+#: inc/options/meta/blog.php:6 inc/options/meta/default.php:223
+#: inc/options/meta/page.php:197 inc/options/meta/post.php:219
+msgid "Disable Header"
+msgstr "Schakel header uit"
+
+#: inc/components/social-box.php:76
+#: inc/options/single-elements/post-share-box.php:136
+msgid "Share your love"
+msgstr "Deel je liefde"
+
+#: inc/options/posts/woo-general.php:605
+msgid "Sale Badge Value"
+msgstr "Verkoopbadge waarde"
+
+#: inc/options/customizer.php:169
+msgid "Product Archives"
+msgstr "Product archieven"
+
+#: inc/options/posts/woo-categories.php:175
+msgid "Swap Images"
+msgstr "Afbeeldingen omwisselen"
+
+#: inc/options/posts/woo-categories.php:166
+msgid "Image Hover Effect"
+msgstr "Afbeelding hover effect"
+
+#: inc/options/posts/woo-general.php:1174
+msgid "Notice Background Color"
+msgstr "Achtergrondkleur opmerking"
+
+#: inc/options/posts/woo-general.php:1152
+msgid "Notice Font Color"
+msgstr "Tekstkleur opmerking"
+
+#: inc/options/posts/woo-general.php:1132
+msgid "Notice Position"
+msgstr "Positie opmerking"
+
+#: admin/dashboard/plugins/config.php:46
+msgid "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design."
+msgstr "De meest geavanceerde frontend verslepen & paginabouwer. Creëer hoogwaardige, pixel-perfecte sites met recordsnelheden. Elk thema, elke pagina, elk ontwerp."
+
+#: admin/dashboard/plugins/config.php:58
+msgid "Drag & Drop online form builder that helps you create beautiful contact forms with just a few clicks."
+msgstr "Versleep online formulierenbouwer waarmee je met slechts een paar klikken prachtige contactformulieren kan maken."
+
+#: admin/dashboard/plugins/config.php:52
+msgid "Capture, organize and engage web visitors with free forms, live chat, CRM (contact management), email marketing, and analytics."
+msgstr "Boei, organiseer en bind bezoekers met gratis formulieren, live chat, CRM (klantbeheer), e-mail marketing en statistische gegevens."
+
+#: admin/dashboard/plugins/config.php:8
+msgid "A Library of Page Builder Gutenberg Blocks which will reimagine the way you use the WordPress Block Editor."
+msgstr "Een bibliotheek met Page Builder Gutenberg-blokken die de manier waarop je de WordPress blok-editor gebruikt opnieuw zal vormgeven."
+
+#: inc/panel-builder/footer/socials/config.php:4
+#: inc/panel-builder/header/socials/config.php:4
+msgid "Socials"
+msgstr "Socials"
+
+#: inc/options/posts/custom-post-type-single.php:65
+msgid "%s Elements"
+msgstr "%s Elementen"
+
+#. translators: placeholder here means the actual URL.
+#: inc/options/meta/default.php:146 inc/options/meta/page.php:145
+#: inc/options/meta/post.php:144 inc/options/single-elements/structure.php:117
+msgid "You can customize the global spacing value in General ➝ Layout ➝ %sContent Area Spacing%s."
+msgstr "De algemene spatiëring kun je aanpassen in Algemeen ➝ Lay-out ➝ %sSpatiëring inhoudgebied%s."
+
+#: inc/options/meta/default.php:139 inc/options/meta/page.php:138
+#: inc/options/meta/post.php:137 inc/options/single-elements/structure.php:110
+msgid "Only Bottom"
+msgstr "Alleen onderaan"
+
+#: inc/options/meta/default.php:136 inc/options/meta/page.php:135
+#: inc/options/meta/post.php:134 inc/options/single-elements/structure.php:107
+msgid "Only Top"
+msgstr "Alleen bovenaan"
+
+#: inc/options/meta/default.php:133 inc/options/meta/page.php:132
+#: inc/options/meta/post.php:131 inc/options/single-elements/structure.php:104
+msgid "Top & Bottom"
+msgstr "Boven en onder"
+
+#: inc/options/meta/default.php:123 inc/options/meta/page.php:122
+#: inc/options/meta/post.php:121
+msgid "You can customize the spacing value in general settings panel."
+msgstr "De spatiëring kun je aanpassen onder algemene instellingen."
+
+#: inc/options/meta/default.php:105 inc/options/meta/page.php:104
+#: inc/options/meta/post.php:104 inc/options/single-elements/structure.php:94
+msgid "Content Area Vertical Spacing"
+msgstr "Verticale spatiëring contentgebied"
+
+#: inc/options/general/breadcrumbs.php:111
+msgid "Current Page/Post Title"
+msgstr "Titel huidig(e) pagina/bericht"
+
+#: inc/options/general/breadcrumbs.php:98
+msgid "Home Page Text"
+msgstr "Tekst homepage"
+
+#: inc/options/general/back-to-top.php:55
+#: inc/options/general/breadcrumbs.php:85
+msgid "Icon"
+msgstr "Pictogram"
+
+#: inc/options/general/breadcrumbs.php:79
+msgid "Home Item"
+msgstr "Home inhoud"
+
+#: inc/options/general/breadcrumbs.php:50
+msgid "Separator"
+msgstr "Scheidingsteken"
+
+#: inc/options/general/page-title.php:735
+msgid "Container Background Image"
+msgstr "Container achtergrond afbeelding"
+
+#: inc/options/general/meta.php:320
+msgid "Taxonomies"
+msgstr "Taxonomieën"
+
+#: woocommerce/cart/cart.php:205
+msgid "Update cart"
+msgstr "Update winkelwagen"
+
+#: woocommerce/cart/cart.php:200
+msgid "Apply coupon"
+msgstr "Waardebon toepassen"
+
+#: woocommerce/cart/cart.php:200
+msgid "Coupon code"
+msgstr "Code waardebon"
+
+#: woocommerce/cart/cart.php:200
+msgid "Coupon:"
+msgstr "Waardebon:"
+
+#: woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr "Beschikbaar als nabestelling"
+
+#: woocommerce/cart/cart.php:170
+msgid "Remove product"
+msgstr "Product verwijderen"
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:61
+msgid "Product"
+msgstr "Product"
+
+#: inc/options/single-elements/featured-image.php:57
+msgid "Full"
+msgstr "Volledig"
+
+#: inc/helpers.php:297
+msgid "Medium Large"
+msgstr "Middelgroot"
+
+#: inc/options/single-elements/related-posts.php:449
+msgid "Module Title Font Color"
+msgstr "Tekstkleur module"
+
+#: inc/options/single-elements/related-posts.php:360
+msgid "Location"
+msgstr "Locatie"
+
+#: inc/options/single-elements/related-posts.php:91
+msgid "Module Title Tag"
+msgstr "Module titel tag"
+
+#: inc/options/single-elements/post-share-box.php:118
+#: inc/options/single-elements/related-posts.php:83
+msgid "Module Title"
+msgstr "Moduletitel"
+
+#. translators: %s: Author's display name.
+#: inc/components/post-meta.php:198
+msgid "Posts by %s"
+msgstr "Berichten door %s"
+
+#: inc/options/integrations/tutorlms-archive.php:12
+#: inc/options/integrations/tutorlms-single.php:195
+#: inc/options/posts/custom-post-type-archive.php:9
+#: inc/options/posts/custom-post-type-single.php:24
+msgid "%s Title"
+msgstr "%s titel"
+
+#: inc/options/posts/woo-categories.php:54 inc/options/posts/woo-single.php:205
+msgid "Columns & Rows"
+msgstr "Kolommen & rijen"
+
+#: inc/options/posts/woo-categories.php:18
+msgid "Shop Settings"
+msgstr "Winkel instellingen"
+
+#: inc/options/general/custom-post-types.php:100
+msgid "Single %s"
+msgstr "Enkel %s"
+
+#: inc/options/general/custom-post-types.php:38
+#: inc/options/general/custom-post-types.php:44
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: inc/options/general/custom-post-types.php:15
+#: inc/options/general/custom-post-types.php:21
+msgid "bbPress"
+msgstr "bbPress"
+
+#: inc/options/general/meta.php:405 static/bundle/customizer-controls.js:2
+#: static/bundle/options.js:2 static/js/options/options/ct-border.js:47
+#: static/bundle/customizer-controls.js:14920 static/bundle/options.js:13074
+msgid "none"
+msgstr "geen"
+
+#: inc/options/general/meta.php:392
+msgid "Icons"
+msgstr "Pictogrammen"
+
+#: inc/options/general/meta.php:391
+msgid "Labels"
+msgstr "Labels"
+
+#: inc/options/general/meta.php:385
+msgid "Items Style"
+msgstr "Items Stijl"
+
+#: inc/components/post-meta.php:82 inc/components/post-meta.php:649
+#: inc/options/general/meta.php:357
+#: static/js/customizer/sync/helpers/entry-meta.js:74
+#: static/bundle/sync.min.js:8277
+msgid "In"
+msgstr "In"
+
+#: inc/options/general/meta.php:184
+msgid "Author Avatar"
+msgstr "Auteur Avatar"
+
+#. translators: The interpolations addes a html link around the word.
+#: inc/options/general/meta.php:158
+msgid "Date format %sinstructions%s."
+msgstr "Datum format %sinstructies%s."
+
+#. translators: The interpolations addes a html link around the word.
+#: inc/options/general/colors.php:23
+msgid "Learn more about palettes and colors %shere%s."
+msgstr "Lees meer over paletten en kleuren %shier%s."
+
+#: inc/components/breadcrumbs.php:398
+msgid "No title"
+msgstr "Geen titel"
+
+#: inc/components/breadcrumbs.php:172
+msgid "Searching for:"
+msgstr "Op zoek naar:"
+
+#: inc/components/breadcrumbs.php:11
+msgid "404 Not found"
+msgstr "404 niet gevonden"
+
+#: inc/components/breadcrumbs.php:10 inc/options/general/posts-listing.php:14
+#: inc/options/posts/blog.php:20
+msgid "Blog"
+msgstr "Blog"
+
+#. translators: placeholder here means the actual URL.
+#: inc/options/general/posts-listing.php:1520
+#: inc/options/posts/woo-categories.php:897
+#: inc/options/single-elements/structure-design.php:36
+msgid "Please note, by default this option is inherited from Colors ➝ %sSite Background%s."
+msgstr "Let op: deze optie wordt standaard overgenomen van Kleuren ➝ %s achtergrond van de site %s."
+
+#: inc/options/general/breadcrumbs.php:152
+#: inc/options/general/page-title.php:1111
+msgid "Breadcrumbs Font Color"
+msgstr "Kleur lettertype kruimelpaden"
+
+#: inc/options/general/breadcrumbs.php:140
+#: inc/options/general/page-title.php:1103
+msgid "Breadcrumbs Font"
+msgstr "Lettertype kruimelpaden"
+
+#: inc/options/general/page-title.php:589
+msgid "Social Channels"
+msgstr "Sociale media"
+
+#: inc/options/general/page-title.php:526
+msgid "Author Meta"
+msgstr "Metagegevens auteur"
+
+#: inc/options/general/page-title.php:325
+msgid "Name & Avatar"
+msgstr "Naam & Avatar"
+
+#: inc/options/general/page-title.php:286
+#: inc/options/general/page-title.php:422
+#: inc/options/general/page-title.php:487
+#: inc/options/general/page-title.php:573
+#: inc/options/general/page-title.php:599
+msgid "Top Spacing"
+msgstr "Spatiëring bovenkant"
+
+#: inc/options/general/page-title.php:106
+msgid "Subtitle"
+msgstr "Ondertitel"
+
+#: inc/options/general/page-title.php:94
+msgid "Bio"
+msgstr "Bio"
+
+#: inc/options/posts/woo-single.php:308
+msgid "Sticky Summary"
+msgstr "Sticky samenvatting"
+
+#: inc/options/general/page-title.php:781 inc/options/posts/woo-gallery.php:106
+#: inc/options/single-elements/featured-image.php:29
+#: inc/options/single-elements/post-nav.php:92
+#: inc/options/single-elements/related-posts.php:231
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/ct-ratio.js:68
+#: static/bundle/customizer-controls.js:19469 static/bundle/options.js:19508
+msgid "Image Size"
+msgstr "Afbeeldingsgrootte"
+
+#: inc/options/posts/woo-categories.php:128
+msgid "Image height will be automatically calculated based on the image ratio."
+msgstr "Afbeeldingshoogte wordt automatisch bepaald op grond van afbeeldingsverhouding."
+
+#: inc/helpers.php:295
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: inc/components/woocommerce/common/account.php:89
+msgid "Account"
+msgstr "Account"
+
+#: inc/panel-builder/header/search/options.php:390
+msgid "Icon Margin"
+msgstr "Pictogrammarge"
+
+#: inc/components/woocommerce-integration.php:107
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce zijbalk"
+
+#: inc/panel-builder/header/trigger/options.php:446
+#: inc/panel-builder/header/trigger/options.php:486
+#: inc/panel-builder/header/trigger/options.php:524
+msgid "Trigger Border Color"
+msgstr "Trigger rand kleur"
+
+#: inc/panel-builder/header/search/options.php:102
+#: inc/panel-builder/header/trigger/options.php:113
+msgid "Label Text"
+msgstr "Labeltekst"
+
+#: inc/options/posts/woo-single.php:200
+msgid "Related & Upsells"
+msgstr "Gerelateerde & Upsells"
+
+#: inc/options/posts/woo-general.php:423
+msgid "Inactive"
+msgstr "Inactief"
+
+#: inc/options/posts/woo-categories.php:482
+#: inc/options/posts/woo-categories.php:555
+msgid "Button Text Color"
+msgstr "Kleur knoptekst"
+
+#: inc/options/general/posts-listing.php:1443
+#: inc/options/single-elements/related-posts.php:159
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/ct-woocommerce-columns-and-rows.js:49
+#: static/bundle/customizer-controls.js:29804 static/bundle/options.js:29843
+msgid "Number of columns"
+msgstr "Aantal kolommen"
+
+#: inc/options/single-elements/related-posts.php:330
+msgid "Separate or unify the related posts module from or with the entry content area."
+msgstr "Scheidt of verbindt de gerelateerde berichten module van/met het contentgebied."
+
+#: inc/options/general/content-elements.php:28
+msgid "Spacious"
+msgstr "Ruim"
+
+#: inc/options/general/content-elements.php:27
+msgid "Comfortable"
+msgstr "Comfortabel"
+
+#: inc/options/general/content-elements.php:26
+msgid "Compact"
+msgstr "Compact"
+
+#: inc/options/general/content-elements.php:19
+msgid "Content Spacing"
+msgstr "Spatiering Inhoud"
+
+#: inc/options/general/comments-single.php:85
+#: inc/options/single-elements/related-posts.php:333
+msgid "Contained"
+msgstr "Ingesloten"
+
+#: inc/options/general/comments-single.php:84
+#: inc/options/single-elements/related-posts.php:332
+msgid "Separated"
+msgstr "Gescheiden"
+
+#: inc/options/general/comments-single.php:82
+msgid "Separate or unify the comments module from or with the entry content area."
+msgstr "Scheidt of verbindt de reacties module van/met het contentgebied."
+
+#: inc/options/general/comments-single.php:77
+#: inc/options/single-elements/related-posts.php:325
+msgid "Module Placement"
+msgstr "Module plaatsing"
+
+#: inc/options/general/breadcrumbs.php:185
+#: inc/options/general/page-title.php:1144 inc/options/general/sidebar.php:368
+#: inc/options/single-elements/author-box.php:302
+#: inc/panel-builder/footer/copyright/options.php:139
+#: inc/panel-builder/footer/middle-row/options.php:582
+#: inc/panel-builder/footer/widget-area-1/options.php:94
+#: inc/panel-builder/header/cart/options.php:716
+#: inc/panel-builder/header/cart/options.php:827
+#: inc/panel-builder/header/text/options.php:229
+#: inc/panel-builder/header/text/options.php:269
+#: inc/panel-builder/header/text/options.php:308
+msgid "Link Hover"
+msgstr "Link hover"
+
+#: inc/options/general/breadcrumbs.php:179
+#: inc/options/general/page-title.php:1138 inc/options/general/sidebar.php:363
+#: inc/options/single-elements/author-box.php:296
+#: inc/panel-builder/footer/copyright/options.php:133
+#: inc/panel-builder/footer/middle-row/options.php:576
+#: inc/panel-builder/footer/widget-area-1/options.php:89
+#: inc/panel-builder/header/cart/options.php:710
+#: inc/panel-builder/header/cart/options.php:822
+#: inc/panel-builder/header/text/options.php:223
+#: inc/panel-builder/header/text/options.php:264
+#: inc/panel-builder/header/text/options.php:303
+msgid "Link Initial"
+msgstr "Link initial"
+
+#: inc/options/general/page-title.php:372
+msgid "Category Label"
+msgstr "Categorie label"
+
+#: inc/components/social-box.php:601 inc/components/social-box.php:1456
+msgid "Facebook Group"
+msgstr "Facebook groep"
+
+#: inc/options/general/page-title.php:541
+msgid "Joined Date"
+msgstr "Inschrijf datum"
+
+#: inc/init.php:543
+msgid "Main Sidebar"
+msgstr "Hoofdzijbalk"
+
+#: inc/single/comments.php:224 static/bundle/customizer-controls.js:2
+#: static/bundle/options.js:2 static/js/customizer/sync/builder.js:110
+#: static/js/options/options/ct-image-uploader.js:369
+#: static/bundle/customizer-controls.js:18048 static/bundle/options.js:18087
+#: static/bundle/sync.min.js:7322
+msgid "Edit"
+msgstr "Bewerken"
+
+#: inc/options/general/page-title.php:1342
+msgid "Options will appear here only if you will set Custom in Page Title option."
+msgstr "Opties worden hier alleen weergegeven als je de optie Aangepast in paginatitel instelt."
+
+#: inc/options/general/page-title.php:1282
+msgid "By default these options are inherited from Customizer options."
+msgstr "Standaard worden deze opties overgenomen uit de Customizer."
+
+#: inc/options/general/comments-single.php:126
+#: inc/options/single-elements/related-posts.php:410
+msgid "Container Max Width"
+msgstr "Maximale containerbreedte"
+
+#: inc/options/general/comments-single.php:110
+#: inc/options/single-elements/related-posts.php:393
+msgid "Normal"
+msgstr "Normaal"
+
+#: inc/options/general/comments-single.php:109
+#: inc/options/general/page-title.php:726
+#: inc/options/single-elements/related-posts.php:394
+msgid "Narrow"
+msgstr "Smal"
+
+#: inc/options/general/comments-single.php:103
+#: inc/options/single-elements/related-posts.php:386
+#: inc/panel-builder/header/middle-row/options.php:32
+msgid "Container Structure"
+msgstr "Structuur container"
+
+#: inc/panel-builder/footer/options.php:5
+msgid "Enable reveal effect on"
+msgstr "Schakel het onthullende effect in"
+
+#: inc/panel-builder/footer/socials/options.php:121
+#: inc/panel-builder/header/socials/options.php:120
+msgid "Shape Fill Type"
+msgstr "Vorm vullingstype"
+
+#: inc/panel-builder/footer/socials/options.php:102
+#: inc/panel-builder/header/socials/options.php:101
+msgid "Icons Shape Type"
+msgstr "Vormtype pictogrammen"
+
+#: inc/options/general/page-title.php:687
+#: inc/options/general/posts-listing.php:640
+#: inc/panel-builder/footer/copyright/options.php:47
+#: inc/panel-builder/footer/menu/options.php:105
+#: inc/panel-builder/footer/middle-row/options.php:415
+#: inc/panel-builder/footer/socials/options.php:181
+#: inc/panel-builder/footer/widget-area-1/options.php:39
+#: inc/panel-builder/header/button/options.php:186
+#: inc/panel-builder/header/logo/options.php:304
+#: inc/panel-builder/header/offcanvas/options.php:63
+#: inc/panel-builder/header/text/options.php:95
+msgid "Vertical Alignment"
+msgstr "Verticale uitlijning"
+
+#: inc/options/general/page-title.php:633
+#: inc/options/general/page-title.php:671
+#: inc/options/general/posts-listing.php:587
+#: inc/options/posts/woo-product-tabs.php:41
+#: inc/panel-builder/footer/copyright/options.php:31
+#: inc/panel-builder/footer/menu/options.php:84
+#: inc/panel-builder/footer/socials/options.php:165
+#: inc/panel-builder/footer/widget-area-1/options.php:23
+#: inc/panel-builder/header/button/options.php:169
+#: inc/panel-builder/header/logo/options.php:288
+#: inc/panel-builder/header/mobile-menu/options.php:135
+#: inc/panel-builder/header/offcanvas/options.php:79
+#: inc/panel-builder/header/text/options.php:78
+msgid "Horizontal Alignment"
+msgstr "Horizontale uitlijning"
+
+#: inc/integrations/elementor.php:162
+msgid "Full Width Section"
+msgstr "Volledige breedte sectie"
+
+#: inc/options/general/sidebar.php:117
+msgid "Widget Title Tag"
+msgstr "Titel van widget"
+
+#: inc/options/meta/default.php:217 inc/options/meta/post.php:213
+msgid "Disable Related Posts"
+msgstr "Gerelateerde berichten uitschakelen"
+
+#: inc/options/meta/default.php:206 inc/options/meta/post.php:195
+msgid "Disable Posts Navigation"
+msgstr "Berichtnavigatie uitschakelen"
+
+#: inc/options/meta/default.php:200 inc/options/meta/post.php:189
+msgid "Disable Author Box"
+msgstr "Auteurbox uitschakelen"
+
+#: inc/options/meta/default.php:194 inc/options/meta/page.php:178
+#: inc/options/meta/post.php:183
+msgid "Disable Share Box"
+msgstr "Deelknoppen uitschakelen"
+
+#: inc/options/meta/post.php:177
+msgid "Disable Post Tags"
+msgstr "Bericht tags uitschakelen"
+
+#: inc/options/meta/default.php:174 inc/options/meta/page.php:172
+#: inc/options/meta/post.php:171
+msgid "Disable Featured Image"
+msgstr "Uitgelichte afbeelding uitschakelen"
+
+#: inc/options/general/sidebar.php:336
+#: inc/panel-builder/footer/middle-row/options.php:548
+msgid "Widgets Font Color"
+msgstr "Widgets lettertypekleur"
+
+#: inc/options/general/sidebar.php:327
+#: inc/panel-builder/footer/middle-row/options.php:539
+msgid "Widgets Font"
+msgstr "Lettertype widgets"
+
+#: inc/options/general/page-title.php:386
+msgid "Author avatar"
+msgstr "Avatar van de auteur"
+
+#: inc/options/general/page-title.php:217
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/customizer/panels-builder/columns/AvailableItems.js:74
+#: static/js/customizer/panels-builder/placements/AvailableItems.js:78
+#: static/bundle/customizer-controls.js:5931
+#: static/bundle/customizer-controls.js:17030 static/bundle/options.js:15184
+#: static/bundle/options.js:16848
+msgid "Elements"
+msgstr "Elementen"
+
+#: inc/panel-builder/footer/copyright/options.php:16
+msgid "You can insert some arbitrary HTML code tags: {current_year}, {site_title} and {theme_author}"
+msgstr "Je kan enkele willekeurige HTML codetags invoegen:{current_year}, {site_title} en {theme_author}"
+
+#: inc/panel-builder/footer/copyright/options.php:10
+msgid "Copyright Text"
+msgstr "Copyright tekst"
+
+#: inc/panel-builder/footer/copyright/config.php:3
+msgid "Copyright"
+msgstr "Auteursrecht"
+
+#: inc/panel-builder/footer/options.php:69
+msgid "Please note, you can also change the background color for each row individually."
+msgstr "Houd er rekening mee dat je ook per rij apart een achtergrondkleur kunt kiezen."
+
+#: inc/panel-builder/footer/options.php:57
+msgid "Footer Background"
+msgstr "Achtergrond footer"
+
+#: inc/panel-builder/footer/options.php:9
+msgid "Enables a nice reveal effect as you scroll down."
+msgstr "Schakelt een mooi onthuleffect in bij het naar beneden scrollen."
+
+#: inc/options/general/sidebar.php:280
+#: inc/panel-builder/footer/middle-row/options.php:491
+msgid "Widgets Title Font Color"
+msgstr "Tekstkleur widgettitels"
+
+#: inc/options/general/sidebar.php:272
+#: inc/panel-builder/footer/middle-row/options.php:483
+msgid "Widgets Title Font"
+msgstr "Lettertype widgettitel"
+
+#: inc/panel-builder/footer/middle-row/options.php:650
+msgid "Row Bottom Divider"
+msgstr "Scheiding onderzijde rij"
+
+#: inc/panel-builder/footer/middle-row/options.php:609
+msgid "Row Top Divider"
+msgstr "Scheiding bovenzijde rij"
+
+#: inc/panel-builder/footer/middle-row/options.php:596
+msgid "Row Background"
+msgstr "Rij achtergrond"
+
+#: inc/panel-builder/footer/middle-row/options.php:451
+msgid "Row Visibility"
+msgstr "Rij zichtbaarheid"
+
+#: inc/panel-builder/footer/middle-row/options.php:399
+msgid "Row Vertical Spacing"
+msgstr "Verticale uitlijning rij"
+
+#: inc/panel-builder/footer/middle-row/options.php:92
+#: inc/panel-builder/footer/middle-row/options.php:104
+#: inc/panel-builder/footer/middle-row/options.php:155
+#: inc/panel-builder/footer/middle-row/options.php:167
+#: inc/panel-builder/footer/middle-row/options.php:218
+#: inc/panel-builder/footer/middle-row/options.php:230
+#: inc/panel-builder/footer/middle-row/options.php:281
+#: inc/panel-builder/footer/middle-row/options.php:293
+#: inc/panel-builder/footer/middle-row/options.php:344
+#: inc/panel-builder/footer/middle-row/options.php:356
+msgid "Two Columns"
+msgstr "Twee kolommen"
+
+#: inc/panel-builder/footer/middle-row/options.php:87
+#: inc/panel-builder/footer/middle-row/options.php:99
+#: inc/panel-builder/footer/middle-row/options.php:150
+#: inc/panel-builder/footer/middle-row/options.php:162
+#: inc/panel-builder/footer/middle-row/options.php:213
+#: inc/panel-builder/footer/middle-row/options.php:225
+#: inc/panel-builder/footer/middle-row/options.php:276
+#: inc/panel-builder/footer/middle-row/options.php:288
+#: inc/panel-builder/footer/middle-row/options.php:339
+#: inc/panel-builder/footer/middle-row/options.php:351
+msgid "Stacked"
+msgstr "Gestapeld"
+
+#: inc/panel-builder/footer/middle-row/options.php:51
+#: inc/panel-builder/footer/middle-row/options.php:118
+#: inc/panel-builder/footer/middle-row/options.php:181
+#: inc/panel-builder/footer/middle-row/options.php:244
+#: inc/panel-builder/footer/middle-row/options.php:307
+msgid "Columns Layout"
+msgstr "Lay-out van kolommen"
+
+#: inc/options/general/general.php:53
+msgid "Frame Color"
+msgstr "Kaderkleur"
+
+#: inc/options/general/general.php:43
+msgid "Frame Size"
+msgstr "Kadergrootte"
+
+#: inc/options/general/layout.php:67
+msgid "This option will apply only to those elements that have a wide alignment option."
+msgstr "Deze optie geldt alleen voor elementen met de optie brede uitlijning."
+
+#: inc/options/posts/woo-categories.php:687
+#: inc/options/posts/woo-categories.php:719
+#: inc/panel-builder/header/menu/options.php:887
+#: inc/panel-builder/header/menu/options.php:918
+#: inc/panel-builder/header/menu/options.php:948
+msgid "Hover/Active"
+msgstr "Hover/Actief"
+
+#: inc/options/general/buttons.php:13 inc/options/general/typography.php:104
+msgid "Buttons"
+msgstr "Knoppen"
+
+#: inc/options/general/page-title.php:542 inc/single/single-helpers.php:263
+#: inc/single/single-helpers.php:382
+msgid "Articles"
+msgstr "Artikelen"
+
+#: inc/single/single-helpers.php:259
+msgid "Joined"
+msgstr "Toegetreden"
+
+#: inc/init.php:474
+msgid "Header Menu 1"
+msgstr "Header menu 1"
+
+#: inc/options/general/posts-listing.php:1107
+msgid "Card bottom divider"
+msgstr "Scheiding onderkant kaart"
+
+#: inc/options/customizer.php:91
+msgid "Performance"
+msgstr "Prestaties"
+
+#. translators: placeholder here means the actual URL.
+#: inc/panel-builder/footer/menu/options.php:19
+#: inc/panel-builder/header/mobile-menu/options.php:15
+msgid "Manage your menus in the %sMenus screen%s."
+msgstr "Beheer je menu's in het %sMenu scherm%s."
+
+#: inc/components/images.php:494
+msgid "Default image"
+msgstr "Standaard afbeelding"
+
+#: inc/components/gallery.php:271 inc/components/gallery.php:282
+msgid "Slide %s"
+msgstr "Slide %s"
+
+#: inc/components/pagination.php:66
+msgid "No more products to load"
+msgstr "Geen producten meer om te laden"
+
+#: inc/panel-builder/header/search/options.php:460
+msgid "Search Through Criteria"
+msgstr "Doorzoek criteria"
+
+#: inc/options/posts/woo-add-to-cart.php:161
+#: inc/options/posts/woo-add-to-cart.php:234
+#: inc/options/posts/woo-categories.php:515
+#: inc/options/posts/woo-general.php:135 inc/options/posts/woo-general.php:251
+#: inc/options/posts/woo-general.php:363
+msgid "Button Background Color"
+msgstr "Achtergrondkleur knop"
+
+#: inc/options/general/back-to-top.php:113
+#: inc/options/general/content-elements.php:51
+#: inc/panel-builder/header/cart/options.php:52
+msgid "Type 5"
+msgstr "Type 5"
+
+#: inc/options/general/content-elements.php:39
+msgid "Links Type"
+msgstr "Linktype"
+
+#: inc/options/general/posts-listing.php:1097
+msgid "Featured Image Radius"
+msgstr "Radius hoeken uitgelichte afbeelding"
+
+#: inc/options/posts/woo-categories.php:631
+#: inc/options/single-elements/related-posts.php:589
+msgid "Image Border Radius"
+msgstr "Radius rand afbeelding"
+
+#: inc/options/posts/woo-general.php:1122
+msgid "This is a demo store for testing purposes &mdash; no orders shall be fulfilled."
+msgstr "Dit is een demo winkel voor testdoeleinden &mdash; bestellingen worden niet echt uitgevoerd."
+
+#: inc/options/posts/woo-general.php:1104
+msgid "Store Notice"
+msgstr "Winkel bericht"
+
+#: inc/options/posts/woo-categories.php:162
+msgid "Height"
+msgstr "Hoogte"
+
+#: inc/options/posts/woo-categories.php:149
+#: inc/panel-builder/header/menu/options.php:604
+msgid "Width"
+msgstr "Breedte"
+
+#: inc/options/posts/categories.php:17
+msgid "Categories Elements"
+msgstr "Categorieën elementen"
+
+#: inc/options/pages/search-page.php:35 inc/options/posts/blog.php:42
+#: inc/options/posts/custom-post-type-archive.php:38
+#: inc/options/posts/woo-categories.php:950
+#: inc/options/posts/woo-single.php:291
+msgid "Functionality Options"
+msgstr "Functionaliteit opties"
+
+#: inc/options/posts/woo-single.php:63
+msgid "Product Elements"
+msgstr "Productelementen"
+
+#: inc/options/single-elements/related-posts.php:498
+msgid "Posts Title Font Color"
+msgstr "Berichten titel lettertypekleur"
+
+#: inc/options/general/posts-listing.php:339
+msgid "Boundless Image"
+msgstr "Onbegrensde afbeelding"
+
+#: inc/options/single-elements/structure-design.php:69
+msgid "Content Area Shadow"
+msgstr "Inhoudsgebied schaduw"
+
+#: inc/options/general/pagination.php:176
+msgid "Accent"
+msgstr "Accent"
+
+#: inc/options/general/pagination.php:169
+msgid "Text Active"
+msgstr "Tekst actief"
+
+#: inc/options/general/pagination.php:163 inc/options/general/sidebar.php:357
+#: inc/panel-builder/footer/middle-row/options.php:570
+#: inc/panel-builder/header/cart/options.php:705
+#: inc/panel-builder/header/cart/options.php:786
+#: inc/panel-builder/header/cart/options.php:816
+#: inc/panel-builder/header/cart/options.php:849
+#: inc/panel-builder/header/text/options.php:217
+#: inc/panel-builder/header/text/options.php:259
+#: inc/panel-builder/header/text/options.php:298 static/bundle/options.js:2
+#: static/js/backend/taxonomies.js:141 static/bundle/options.js:37750
+msgid "Text Initial"
+msgstr "Tekst eerste"
+
+#: inc/options/posts/woo-general.php:54 inc/options/posts/woo-general.php:170
+#: inc/options/posts/woo-general.php:286
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: inc/options/general/page-title.php:1069
+msgid "Excerpt Font Color"
+msgstr "Samenvatting lettertypekleur"
+
+#: inc/options/general/page-title.php:1057
+#: inc/options/general/posts-listing.php:756
+msgid "Excerpt Font"
+msgstr "Lettertype samenvatting"
+
+#: inc/options/general/page-title.php:940
+#: inc/options/general/posts-listing.php:805
+msgid "Meta Font Color"
+msgstr "Meta-lettertype kleur"
+
+#: inc/panel-builder/header/menu/options.php:646
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/box-shadow/box-shadow-modal.js:117
+#: static/bundle/customizer-controls.js:15123 static/bundle/options.js:13277
+msgid "Horizontal Offset"
+msgstr "Horizontale vaste afstand"
+
+#: inc/options/general/buttons.php:110 inc/options/general/sidebar.php:414
+#: inc/options/posts/woo-product-tabs.php:193
+#: inc/options/single-elements/author-box.php:460
+#: inc/options/single-elements/post-share-box.php:482
+#: inc/panel-builder/header/cart/options.php:918
+#: inc/panel-builder/header/mobile-menu/options.php:85
+#: inc/panel-builder/header/offcanvas/options.php:181
+#: inc/panel-builder/header/search/options.php:645
+msgid "Border"
+msgstr "Rand"
+
+#: inc/panel-builder/header/menu/options.php:614
+msgid "Top Offset"
+msgstr "Vaste afstand bovenkant"
+
+#: inc/options/general/posts-listing.php:1266
+#: inc/options/posts/woo-categories.php:608
+msgid "Card Shadow"
+msgstr "Kaartschaduw"
+
+#: inc/options/general/back-to-top.php:158
+msgid "Bottom Offset"
+msgstr "Vaste afstand onderkant"
+
+#. translators: % refers to the number of reviews, when more than 1
+#: inc/components/post-meta.php:362
+msgid "% Reviews"
+msgstr "% beoordelingen"
+
+#. translators: text for one review
+#: inc/components/post-meta.php:360
+msgid "1 Review"
+msgstr "1 beoordeling"
+
+#. translators: text for one review
+#: inc/components/post-meta.php:354
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: inc/manager.php:135
+msgid "More"
+msgstr "Meer"
+
+#: inc/options/general/back-to-top.php:307 inc/options/general/sidebar.php:461
+#: inc/options/single-elements/author-box.php:441
+#: inc/panel-builder/footer/options.php:31
+#: inc/panel-builder/header/middle-row/options.php:403
+#: inc/panel-builder/header/middle-row/options.php:430
+#: inc/panel-builder/header/middle-row/options.php:448
+#: inc/panel-builder/header/middle-row/options.php:466
+msgid "Shadow"
+msgstr "Schaduw"
+
+#: inc/single/comments.php:232
+msgid "Reply"
+msgstr "Beantwoorden"
+
+#: inc/components/builder/builder-footer-renderer.php:345
+#: inc/components/builder/builder-header-renderer.php:399
+msgid "Item %s not registered or doesn't have a view.php file."
+msgstr "Item %s niet geregistreerd of heeft geen view.php bestand."
+
+#: inc/init.php:476 inc/panel-builder/header/mobile-menu/config.php:4
+#: inc/panel-builder/header/mobile-menu/views/inline.php:62
+msgid "Mobile Menu"
+msgstr "Mobiel menu"
+
+#: inc/panel-builder/header/cart/config.php:4
+msgid "Cart"
+msgstr "Winkelwagen"
+
+#: inc/panel-builder/header/cart/options.php:75
+msgid "Icon Badge"
+msgstr "Pictogram badge"
+
+#: inc/options/posts/woo-general.php:952
+msgid "Checkout Page"
+msgstr "Afrekenpagina"
+
+#: inc/panel-builder/header/text/config.php:4
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/panel-builder/header/text/options.php:13
+msgid "You can add here some arbitrary HTML code."
+msgstr "Hier kun je willekeurige HTML-code opnemen."
+
+#: inc/panel-builder/footer/socials/options.php:348
+#: inc/panel-builder/header/socials/options.php:483
+#: inc/panel-builder/header/socials/options.php:529
+#: inc/panel-builder/header/socials/options.php:568
+#: inc/panel-builder/header/socials/options.php:607
+msgid "Icons Border Color"
+msgstr "Randkleur pictogrammen"
+
+#: inc/options/single-elements/author-box.php:348
+#: inc/panel-builder/footer/socials/options.php:344
+#: inc/panel-builder/header/socials/options.php:479
+#: inc/panel-builder/header/socials/options.php:525
+#: inc/panel-builder/header/socials/options.php:564
+#: inc/panel-builder/header/socials/options.php:603
+msgid "Icons Background Color"
+msgstr "Achtergrondkleur pictogrammen"
+
+#: inc/panel-builder/footer/socials/options.php:128
+#: inc/panel-builder/header/socials/options.php:127
+#: inc/panel-builder/header/trigger/options.php:60
+msgid "Solid"
+msgstr "Effen"
+
+#: inc/panel-builder/footer/socials/options.php:110
+#: inc/panel-builder/header/socials/options.php:109
+msgid "Rounded"
+msgstr "Afgerond"
+
+#: inc/options/single-elements/post-share-box.php:85
+#: inc/panel-builder/footer/socials/options.php:97
+#: inc/panel-builder/header/socials/options.php:96
+msgid "Official"
+msgstr "Officieel"
+
+#: inc/options/general/back-to-top.php:38 inc/options/general/meta.php:140
+#: inc/options/general/page-title.php:744
+#: inc/options/general/page-title.php:1270
+#: inc/options/general/page-title.php:1311 inc/options/meta/default.php:81
+#: inc/options/meta/default.php:112 inc/options/meta/page.php:80
+#: inc/options/meta/page.php:111 inc/options/meta/post.php:76
+#: inc/options/meta/post.php:110 inc/options/posts/woo-general.php:613
+#: inc/options/single-elements/post-share-box.php:84
+#: inc/panel-builder/footer/socials/options.php:96
+#: inc/panel-builder/header/socials/options.php:95
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/backend/woo-variation.js:39
+#: static/js/options/options/ct-ratio.js:130
+#: static/js/options/options/ct-ratio.js:283
+#: static/js/options/options/ct-slider.js:95
+#: static/js/options/options/ct-slider.js:120
+#: static/js/options/options/ct-typography.js:151
+#: static/bundle/customizer-controls.js:19531
+#: static/bundle/customizer-controls.js:19684
+#: static/bundle/customizer-controls.js:24626
+#: static/bundle/customizer-controls.js:24651
+#: static/bundle/customizer-controls.js:29355 static/bundle/options.js:19570
+#: static/bundle/options.js:19723 static/bundle/options.js:24665
+#: static/bundle/options.js:24690 static/bundle/options.js:29394
+#: static/bundle/options.js:37556
+msgid "Custom"
+msgstr "Aangepast"
+
+#: inc/options/single-elements/post-share-box.php:314
+#: inc/panel-builder/footer/socials/options.php:78
+#: inc/panel-builder/header/socials/options.php:77
+msgid "Icons Spacing"
+msgstr "Spatiëring pictogrammen"
+
+#: inc/panel-builder/footer/socials/options.php:68
+#: inc/panel-builder/header/socials/options.php:67
+msgid "Icons Size"
+msgstr "Pictogramgrootte"
+
+#: inc/panel-builder/header/button/options.php:222
+#: inc/panel-builder/header/text/options.php:131
+msgid "User Visibility"
+msgstr "Gebruiker zichtbaarheid"
+
+#: inc/options/posts/woo-categories.php:834
+#: inc/panel-builder/header/search/options.php:620
+msgid "Modal Background"
+msgstr "Achtergrond modal"
+
+#: inc/options/pages/search-page.php:39
+msgid "Live results"
+msgstr "Live resultaten"
+
+#: inc/options/general/back-to-top.php:147
+#: inc/options/single-elements/post-share-box.php:294
+#: inc/panel-builder/header/cart/options.php:65
+#: inc/panel-builder/header/cart/options.php:1035
+#: inc/panel-builder/header/offcanvas/options.php:302
+#: inc/panel-builder/header/search/options.php:47
+#: inc/panel-builder/header/search/options.php:761
+#: inc/panel-builder/header/trigger/options.php:38
+msgid "Icon Size"
+msgstr "Pictogramgrootte"
+
+#: inc/panel-builder/header/trigger/config.php:4
+msgid "Trigger"
+msgstr "Trekker"
+
+#: inc/options/general/meta.php:342
+#: inc/panel-builder/header/button/config.php:4
+msgid "Button"
+msgstr "Knop"
+
+#: inc/options/general/buttons.php:34 inc/options/general/posts-listing.php:277
+msgid "Hover Effect"
+msgstr "Hoveren effect"
+
+#: inc/options/general/posts-listing.php:298
+#: inc/panel-builder/header/button/options.php:29
+msgid "Size"
+msgstr "Formaat"
+
+#: inc/panel-builder/header/button/options.php:22
+msgid "Ghost"
+msgstr "Geest"
+
+#: inc/panel-builder/header/cart/options.php:638
+#: inc/panel-builder/header/offcanvas/options.php:34
+msgid "Right Side"
+msgstr "Rechterzijde"
+
+#: inc/panel-builder/header/cart/options.php:637
+#: inc/panel-builder/header/offcanvas/options.php:33
+msgid "Left Side"
+msgstr "Linkerzijde"
+
+#: inc/panel-builder/header/cart/options.php:629
+#: inc/panel-builder/header/offcanvas/options.php:27
+msgid "Reveal From"
+msgstr "Onthullen van"
+
+#: inc/panel-builder/header/offcanvas/options.php:17
+msgid "Side Panel"
+msgstr "Zijpaneel"
+
+#: inc/panel-builder/header/offcanvas/options.php:10
+msgid "Reveal as"
+msgstr "Onthullen als"
+
+#: inc/options/general/buttons.php:24
+msgid "Min Height"
+msgstr "Minimum hoogte"
+
+#: inc/panel-builder/header/menu-secondary/config.php:4
+msgid "Menu 2"
+msgstr "Menu 2"
+
+#: inc/panel-builder/header/menu/config.php:4
+msgid "Menu 1"
+msgstr "Menu 1"
+
+#: inc/panel-builder/footer/copyright/options.php:147
+#: inc/panel-builder/footer/menu/options.php:204
+#: inc/panel-builder/footer/socials/options.php:385
+#: inc/panel-builder/footer/widget-area-1/options.php:116
+#: inc/panel-builder/header/button/options.php:593
+#: inc/panel-builder/header/cart/options.php:536
+#: inc/panel-builder/header/logo/options.php:623
+#: inc/panel-builder/header/menu/options.php:498
+#: inc/panel-builder/header/mobile-menu/options.php:506
+#: inc/panel-builder/header/offcanvas-logo/options.php:37
+#: inc/panel-builder/header/socials/options.php:644
+#: inc/panel-builder/header/text/options.php:322
+#: inc/panel-builder/header/trigger/options.php:585
+msgid "Margin"
+msgstr "Marge"
+
+#: inc/panel-builder/header/menu/options.php:383
+#: inc/panel-builder/header/menu/options.php:416
+#: inc/panel-builder/header/menu/options.php:437
+#: inc/panel-builder/header/menu/options.php:457
+msgid "Active Indicator Color"
+msgstr "Kleur actieve indicator"
+
+#: inc/panel-builder/footer/menu/options.php:71
+#: inc/panel-builder/header/menu/options.php:126
+#: inc/panel-builder/header/mobile-menu/options.php:129
+msgid "Enabling this option will make the menu to stretch and fit the width of its parent column. "
+msgstr "Inschakelen van deze optie rekt het menu uit tot de breedte van de omvattende kolom. "
+
+#: inc/panel-builder/footer/menu/options.php:67
+#: inc/panel-builder/header/menu/options.php:122
+#: inc/panel-builder/header/mobile-menu/options.php:125
+msgid "Stretch Menu"
+msgstr "Menu uitrekken"
+
+#: inc/panel-builder/header/menu/options.php:109
+msgid "Items Height"
+msgstr "Hoogte items"
+
+#: inc/panel-builder/footer/menu/options.php:15
+#: inc/panel-builder/header/menu/options.php:15
+#: inc/panel-builder/header/mobile-menu/options.php:11
+msgid "Select menu..."
+msgstr "Menu selecteren..."
+
+#: inc/panel-builder/footer/menu/options.php:9
+#: inc/panel-builder/header/menu/options.php:9
+#: inc/panel-builder/header/mobile-menu/options.php:5
+msgid "Select Menu"
+msgstr "Menu selecteren"
+
+#: inc/helpers.php:73
+msgid "You don't have a menu yet, please create one here &rarr;"
+msgstr "Je hebt nog geen menu, creëer er hier een &rarr;"
+
+#: inc/options/general/posts-listing.php:1250
+msgid "Card Border"
+msgstr "Kaartrand"
+
+#: inc/options/general/page-title.php:927
+#: inc/options/general/posts-listing.php:791
+msgid "Meta Font"
+msgstr "Meta-lettertype"
+
+#: inc/options/general/meta.php:286
+msgid "Updated Date"
+msgstr "Datum geüpdatet"
+
+#: inc/options/general/meta.php:251
+msgid "Published Date"
+msgstr "Publicatiedatum"
+
+#: admin/notices/templates.php:40
+msgid "We strongly recommend you to activate the"
+msgstr "We raden je ten zeerste aan om het"
+
+#: admin/notices/templates.php:38 static/bundle/274.b2841b7778b85d53b946.js:1
+#: static/js/notification/Notification.js:65
+#: static/bundle/274.b2841b7778b85d53b946.js:65
+msgid "Thanks for installing Blocksy, you rock!"
+msgstr "Bedankt voor het installeren van Blocksy, you rock!"
+
+#: inc/options/single-elements/post-share-box.php:250
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: inc/options/single-elements/post-share-box.php:240
+msgid "Viber"
+msgstr "Viber"
+
+#: inc/options/single-elements/post-share-box.php:200
+msgid "Hacker News"
+msgstr "Hacker nieuws"
+
+#: header.php:34
+msgid "Skip to content"
+msgstr "Doorgaan naar artikel"
+
+#: inc/options/general/meta.php:172 inc/options/general/page-title.php:534
+msgid "Meta Elements"
+msgstr "Meta-elementen"
+
+#: inc/panel-builder/header/offcanvas/config.php:4
+msgid "Offcanvas"
+msgstr "Offcanvas"
+
+#: inc/panel-builder/footer/bottom-row/config.php:4
+#: inc/panel-builder/header/bottom-row/config.php:4
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/customizer/panels-builder/placements/PlacementsBuilder/Row.js:19
+#: static/js/customizer/sync/builder.js:133
+#: static/bundle/customizer-controls.js:5180
+#: static/bundle/customizer-controls.js:16413 static/bundle/options.js:14567
+#: static/bundle/options.js:16097 static/bundle/sync.min.js:7345
+msgid "Bottom Row"
+msgstr "Onderste rij"
+
+#: inc/panel-builder/footer/middle-row/config.php:4
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/bundle/customizer-controls.js:16412 static/bundle/options.js:14566
+msgid "Middle Row"
+msgstr "Middelste rij"
+
+#: inc/panel-builder/footer/top-row/config.php:4
+#: inc/panel-builder/header/top-row/config.php:4
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/customizer/panels-builder/placements/PlacementsBuilder/Row.js:17
+#: static/js/customizer/sync/builder.js:117
+#: static/bundle/customizer-controls.js:5178
+#: static/bundle/customizer-controls.js:16411 static/bundle/options.js:14565
+#: static/bundle/options.js:16095 static/bundle/sync.min.js:7329
+msgid "Top Row"
+msgstr "Bovenste rij"
+
+#: woocommerce/content-widget-reviews.php:48
+msgid "by %s"
+msgstr "door %s"
+
+#: inc/components/pagination.php:170
+msgid "Next"
+msgstr "Volgende"
+
+#: inc/components/pagination.php:168
+msgid "Prev"
+msgstr "Vorige"
+
+#: inc/init.php:91
+msgid "Palette Color 5"
+msgstr "Paletkleur 5"
+
+#: inc/init.php:84
+msgid "Palette Color 4"
+msgstr "Paletkleur 4"
+
+#: inc/init.php:77
+msgid "Palette Color 3"
+msgstr "Paletkleur 3"
+
+#: inc/init.php:70
+msgid "Palette Color 2"
+msgstr "Paletkleur 2"
+
+#: inc/init.php:63
+msgid "Palette Color 1"
+msgstr "Paletkleur 1"
+
+#: inc/panel-builder/header/search/options.php:4
+msgid "Posts"
+msgstr "Berichten"
+
+#: inc/panel-builder/header/search/options.php:461
+msgid "Chose in which post types do you want to perform searches."
+msgstr "Kies welke bericht types je wil doorzoeken."
+
+#: inc/panel-builder/header/logo/options.php:520
+#: inc/panel-builder/header/logo/options.php:549
+#: inc/panel-builder/header/logo/options.php:571
+#: inc/panel-builder/header/logo/options.php:592
+msgid "Site Tagline Color"
+msgstr "Tekstlleur slogan regel"
+
+#: inc/panel-builder/header/logo/options.php:510
+msgid "Site Tagline Font"
+msgstr "Lettertype slogan regel"
+
+#: inc/panel-builder/header/logo/options.php:374
+#: inc/panel-builder/header/logo/options.php:403
+#: inc/panel-builder/header/logo/options.php:434
+#: inc/panel-builder/header/logo/options.php:464 static/bundle/options.js:2
+#: static/js/backend/taxonomies.js:116 static/bundle/options.js:37725
+msgid "Site Title Color"
+msgstr "Kleur sitetitel"
+
+#: inc/panel-builder/header/logo/options.php:194
+msgid "Site Tagline Visibility"
+msgstr "Zichtbaarheid slogan regel"
+
+#: inc/panel-builder/header/logo/options.php:174
+msgid "Site Tagline"
+msgstr "Site slogan"
+
+#: inc/options/general/comments-single.php:181
+#: inc/options/general/page-title.php:1193
+#: inc/options/single-elements/related-posts.php:629
+msgid "Container Background"
+msgstr "Container achtergrond"
+
+#: inc/options/meta/default.php:25 inc/options/meta/post.php:20
+#: inc/options/posts/post.php:13
+msgid "Post Structure"
+msgstr "Berichtstructuur"
+
+#: inc/options/posts/blog.php:14
+msgid "Blog Title"
+msgstr "Blog titel"
+
+#: inc/options/general/meta.php:212 inc/options/general/meta.php:262
+#: inc/options/general/meta.php:297 inc/options/general/meta.php:354
+#: inc/options/general/pagination.php:58
+#: inc/panel-builder/header/button/options.php:46
+msgid "Label"
+msgstr "Label"
+
+#: inc/options/posts/woo-categories.php:127
+#: inc/options/single-elements/featured-image.php:48
+msgid "Image Width"
+msgstr "Afbeeldingsbreedte"
+
+#: inc/options/single-elements/featured-image.php:80
+msgid "Below Title"
+msgstr "Onder titel"
+
+#: inc/options/single-elements/featured-image.php:79
+msgid "Above Title"
+msgstr "Boven titel"
+
+#: inc/options/single-elements/featured-image.php:72
+msgid "Image Location"
+msgstr "Afbeeldingslocatie"
+
+#: inc/options/single-elements/structure-design.php:54
+msgid "Content Area Background"
+msgstr "Achtergrond inhoudsgebied"
+
+#: inc/options/general/posts-listing.php:1505
+#: inc/options/posts/woo-categories.php:882
+#: inc/options/single-elements/structure-design.php:21
+msgid "Page Background"
+msgstr "Pagina achtergrond"
+
+#: inc/options/meta/default.php:97 inc/options/meta/page.php:96
+#: inc/options/meta/post.php:92
+#: inc/options/single-elements/featured-image.php:56
+#: inc/options/single-elements/structure.php:85
+msgid "Wide"
+msgstr "Breed"
+
+#: inc/options/meta/default.php:90 inc/options/meta/page.php:89
+#: inc/options/meta/post.php:85 inc/options/single-elements/structure.php:77
+msgid "Content Area Style"
+msgstr "Stijl inhoudsgebied"
+
+#: inc/options/general/page-title.php:1269
+#: inc/options/general/page-title.php:1310 inc/options/meta/default.php:80
+#: inc/options/meta/default.php:111 inc/options/meta/page.php:79
+#: inc/options/meta/page.php:110 inc/options/meta/post.php:75
+#: inc/options/meta/post.php:109
+#: inc/panel-builder/footer/widget-area-1/options.php:110
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/background/ImagePicker.js:118
+#: static/js/options/options/ct-border.js:45
+#: static/js/options/options/ct-box-shadow.js:65
+#: static/bundle/customizer-controls.js:14327
+#: static/bundle/customizer-controls.js:14918
+#: static/bundle/customizer-controls.js:15324 static/bundle/options.js:12481
+#: static/bundle/options.js:13072 static/bundle/options.js:13478
+msgid "Inherit"
+msgstr "Overnemen"
+
+#: inc/options/general/posts-listing.php:68
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/background/ImagePicker.js:92
+#: static/bundle/customizer-controls.js:14301 static/bundle/options.js:12455
+msgid "Cover"
+msgstr "Bedekken"
+
+#: inc/options/posts/woo-categories.php:109
+#: inc/options/posts/woo-gallery.php:95 static/bundle/customizer-controls.js:2
+#: static/bundle/options.js:2
+#: static/js/options/options/background/BackgroundModal.js:64
+#: static/js/options/options/background/BackgroundModal.js:107
+#: static/js/options/options/ct-background.js:164
+#: static/bundle/customizer-controls.js:14542
+#: static/bundle/customizer-controls.js:14585
+#: static/bundle/customizer-controls.js:14820 static/bundle/options.js:12696
+#: static/bundle/options.js:12739 static/bundle/options.js:12974
+msgid "Image"
+msgstr "Afbeelding"
+
+#: inc/options/general/posts-listing.php:917
+#: inc/options/general/posts-listing.php:963
+#: inc/options/general/posts-listing.php:1009
+#: inc/options/posts/woo-add-to-cart.php:130
+#: inc/options/posts/woo-add-to-cart.php:203
+#: inc/options/posts/woo-general.php:105 inc/options/posts/woo-general.php:221
+#: inc/options/posts/woo-general.php:335
+msgid "Button Font Color"
+msgstr "Tekstkleur knop"
+
+#: inc/options/general/back-to-top.php:179
+msgid "Alignment"
+msgstr "Uitlijning"
+
+#: inc/options/general/posts-listing.php:415
+msgid "Show Arrow"
+msgstr "Toon pijl"
+
+#: inc/options/general/posts-listing.php:396
+#: inc/panel-builder/footer/socials/options.php:129
+#: inc/panel-builder/header/socials/options.php:128
+#: inc/panel-builder/header/trigger/options.php:59
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/box-shadow/box-shadow-modal.js:227
+#: static/bundle/customizer-controls.js:15233 static/bundle/options.js:13387
+msgid "Outline"
+msgstr "Omtrek"
+
+#: inc/options/general/posts-listing.php:386
+msgid "Read More Button"
+msgstr "Lees meer knop"
+
+#: inc/options/single-elements/author-box.php:315
+#: inc/options/single-elements/post-share-box.php:77
+#: inc/options/single-elements/post-share-box.php:448
+#: inc/options/single-elements/post-share-box.php:508
+#: inc/panel-builder/footer/socials/options.php:89
+#: inc/panel-builder/footer/socials/options.php:302
+#: inc/panel-builder/header/socials/options.php:88
+#: inc/panel-builder/header/socials/options.php:346
+#: inc/panel-builder/header/socials/options.php:379
+#: inc/panel-builder/header/socials/options.php:412
+#: inc/panel-builder/header/socials/options.php:443
+msgid "Icons Color"
+msgstr "Kleur pictogrammen"
+
+#: inc/panel-builder/header/cart/options.php:124
+#: inc/panel-builder/header/logo/options.php:247
+#: inc/panel-builder/header/search/options.php:96
+#: inc/panel-builder/header/trigger/options.php:107
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/ct-spacing.js:94
+#: static/bundle/customizer-controls.js:25234 static/bundle/options.js:25273
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/panel-builder/header/cart/options.php:123
+#: inc/panel-builder/header/logo/options.php:246
+#: inc/panel-builder/header/search/options.php:95
+#: inc/panel-builder/header/trigger/options.php:106
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/ct-spacing.js:93
+#: static/bundle/customizer-controls.js:25233 static/bundle/options.js:25272
+msgid "Left"
+msgstr "Links"
+
+#: inc/options/general/typography.php:17
+msgid "Base Font"
+msgstr "Standaard lettertype"
+
+#: inc/panel-builder/header/logo/options.php:126
+#: inc/panel-builder/header/logo/options.php:363
+msgid "Site Title"
+msgstr "Site titel"
+
+#. translators: placeholder here is the link URL.
+#: inc/options/single-elements/author-box.php:111
+msgid "You can set the author social channels %shere%s."
+msgstr "Je kunt %shier%s sociale kanalen van de auteur instellen."
+
+#: inc/options/customizer.php:85
+msgid "Typography"
+msgstr "Typografie"
+
+#: inc/options/general/content-elements.php:25
+#: inc/options/general/page-title.php:745
+#: inc/options/general/posts-listing.php:285
+#: inc/options/posts/woo-categories.php:174
+#: inc/panel-builder/footer/socials/options.php:109
+#: inc/panel-builder/footer/widget-area-1/options.php:109
+#: inc/panel-builder/header/socials/options.php:108
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/ct-border.js:75
+#: static/js/options/options/ct-box-shadow.js:68
+#: static/bundle/customizer-controls.js:14948
+#: static/bundle/customizer-controls.js:15327 static/bundle/options.js:13102
+#: static/bundle/options.js:13481
+msgid "None"
+msgstr "Geen"
+
+#: inc/options/general/pagination.php:264
+#: inc/options/general/posts-listing.php:459
+#: inc/options/general/sidebar.php:438
+msgid "Divider"
+msgstr "Scheidslijn"
+
+#: inc/options/general/typography.php:132
+msgid "Preformatted"
+msgstr "Voorgeformatteerd"
+
+#: inc/options/general/colors.php:857 inc/options/general/typography.php:88
+msgid "Heading 6 (H6)"
+msgstr "Koptekst 6 (H6)"
+
+#: inc/options/general/colors.php:835 inc/options/general/typography.php:77
+msgid "Heading 5 (H5)"
+msgstr "Koptekst 5 (H5)"
+
+#: inc/options/general/colors.php:813 inc/options/general/typography.php:66
+msgid "Heading 4 (H4)"
+msgstr "Koptekst 4 (H4)"
+
+#: inc/options/general/colors.php:791 inc/options/general/typography.php:55
+msgid "Heading 3 (H3)"
+msgstr "Koptekst 3 (H3)"
+
+#: inc/options/general/colors.php:769 inc/options/general/typography.php:44
+msgid "Heading 2 (H2)"
+msgstr "Koptekst 2 (H2)"
+
+#: inc/options/general/colors.php:747 inc/options/general/typography.php:33
+msgid "Heading 1 (H1)"
+msgstr "Koptekst 1 (H1)"
+
+#: inc/options/general/posts-listing.php:1355
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: inc/options/general/posts-listing.php:1350
+msgid "Enhanced Grid"
+msgstr "Verbeterd grid"
+
+#: inc/options/general/page-title.php:850
+#: inc/options/general/posts-listing.php:673
+#: inc/options/integrations/tutorlms-single.php:8
+#: inc/options/posts/woo-categories.php:335
+#: inc/options/posts/woo-categories.php:733
+msgid "Title Font"
+msgstr "Lettertype titel"
+
+#: inc/options/posts/woo-product-tabs.php:68
+#: inc/options/posts/woo-single.php:79 inc/options/posts/woo-single.php:117
+#: inc/panel-builder/footer/copyright/options.php:95
+#: inc/panel-builder/footer/menu/options.php:153
+#: inc/panel-builder/header/menu/options.php:148
+#: inc/panel-builder/header/menu/options.php:665
+#: inc/panel-builder/header/mobile-menu/options.php:189
+#: inc/panel-builder/header/mobile-menu/options.php:338
+#: inc/panel-builder/header/search/options.php:486
+#: inc/panel-builder/header/text/options.php:156
+msgid "Font"
+msgstr "Lettertype"
+
+#: inc/single/comments.php:73
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "Mijn naam, e-mailadres en site opslaan in deze browser voor de volgende keer wanneer ik een reactie plaats."
+
+#: inc/options/single-elements/post-share-box.php:230
+msgid "Telegram"
+msgstr "Telegram"
+
+#: inc/options/single-elements/post-share-box.php:210
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#: admin/dashboard/plugins/config.php:40
+msgid "A new and innovative way of building WordPress pages visually. No designer or developer skills required. The only tools you'll need to master are clicks and drags."
+msgstr "Een nieuwe en innovatieve manier om WordPress pagina's visueel op te bouwen. Geen ontwerper of ontwikkelaar vaardigheden vereist. De enige gereedschappen die je nodig hebt om onder de knie te krijgen, zijn klikken en slepen."
+
+#: admin/dashboard/api.php:55
+msgid "Theme"
+msgstr "Thema"
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:73
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere reacties &rarr;"
+
+#: comments.php:69
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:64
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#. translators: % refers to the number of comments, when more than 1
+#: comments.php:36 inc/components/post-meta.php:356
+msgid "% Comments"
+msgstr "% reacties"
+
+#: comments.php:36
+msgid "One comment"
+msgstr "Eén reactie"
+
+#: comments.php:36
+msgid "No comments yet"
+msgstr "Nog geen reacties"
+
+#: inc/single/comments.php:56
+msgid "Add Comment"
+msgstr "Reactie toevoegen"
+
+#: inc/components/social-box.php:863 inc/components/social-box.php:1448
+#: inc/components/woocommerce/single/review-form.php:14
+#: inc/options/single-elements/post-share-box.php:270
+#: inc/single/comments.php:122
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/components/woocommerce/single/review-form.php:13
+#: inc/single/comments.php:115
+msgid "Name"
+msgstr "Naam"
+
+#: inc/single/comments.php:43
+msgid "Cancel Reply"
+msgstr "Reactie annuleren"
+
+#: inc/single/comments.php:42
+msgid "Leave a Reply"
+msgstr "Geef een reactie"
+
+#. translators: %s are the opening and closing of the html tags
+#: inc/components/hero/elements.php:344
+msgid "%sSorry, but nothing matched your search terms. Please try again with some different keywords.%s"
+msgstr "%ser waren geen overeenkomsten met je zoektermen. Probeer het opnieuw met enkele andere keywords.%s"
+
+#: inc/single/comments.php:248
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van goedkeuring."
+
+#. translators: 1: date, 2: time
+#: inc/single/comments.php:217
+msgid "%1$s / %2$s"
+msgstr "%1$s – %2$s"
+
+#. translators: post title
+#: inc/template-tags.php:300
+msgid "Next %s"
+msgstr "Volgende %s"
+
+#. translators: post title
+#: inc/template-tags.php:275
+msgid "Previous %s"
+msgstr "Vorige %s"
+
+#: inc/components/social-box.php:575 inc/components/social-box.php:1500
+#: inc/options/single-elements/post-share-box.php:220
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: inc/options/single-elements/post-share-box.php:190
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/customizer/init.php:60
+msgid "Core"
+msgstr "Core"
+
+#: inc/options/customizer.php:156
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/manager.php:134
+msgid "Show more"
+msgstr "Toon meer"
+
+#: inc/components/woocommerce-integration.php:109 inc/init.php:545
+msgid "Add widgets here."
+msgstr "Voeg hier widgets toe."
+
+#: inc/components/post-meta.php:74 inc/components/post-meta.php:633
+#: inc/components/post-meta.php:641 inc/options/general/meta.php:265
+#: inc/options/general/meta.php:300
+msgid "On"
+msgstr "Op"
+
+#: inc/components/post-meta.php:64 inc/components/post-meta.php:625
+#: inc/options/general/meta.php:215
+msgid "By"
+msgstr "Door"
+
+#. translators: placeholder here is the actual PHP version.
+#: inc/php-fallback.php:16 inc/php-fallback.php:28 inc/php-fallback.php:42
+msgid "Blocksy requires at least PHP version 5.7.0. You are running version %s. Please upgrade and try again."
+msgstr "Blocksy vereist minimaal PHP versie 5.7.0. Jij maakt gebruik van versie %s. Upgrade PHP en probeer het opnieuw."
+
+#: inc/options/engagement/general.php:20
+msgid "Schema.org Markup"
+msgstr "Schema.org markup"
+
+#: inc/options/customizer.php:216
+msgid "Extensions"
+msgstr "Extensies"
+
+#: inc/options/general/form-elements.php:13
+msgid "Form Elements"
+msgstr "Formulierelementen"
+
+#: inc/options/general/pagination.php:13
+msgid "Pagination"
+msgstr "Paginering"
+
+#: inc/options/engagement/social-accounts.php:28
+#: inc/options/engagement/social-accounts.php:34
+msgid "Social Network Accounts"
+msgstr "Accounts sociale media"
+
+#: inc/options/engagement/general.php:5
+msgid "Visitor Engagement"
+msgstr "Betrokkenheid van bezoekers"
+
+#: inc/options/customizer.php:177
+msgid "Single Product"
+msgstr "Enkel product"
+
+#: inc/options/posts/woo-general.php:669
+msgid "Archive"
+msgstr "Archieven"
+
+#: inc/options/customizer.php:139 inc/options/pages/author-page.php:18
+msgid "Author Page"
+msgstr "Auteurspagina"
+
+#: inc/options/customizer.php:103
+msgid "Blog Posts"
+msgstr "Blogberichten"
+
+#: inc/options/customizer.php:98
+msgid "Post types"
+msgstr "Berichttypen"
+
+#: inc/integrations/beaver-themer.php:27 inc/options/customizer.php:67
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/options/general/layout.php:13
+msgid "Layout"
+msgstr "Lay-out"
+
+#: inc/manager.php:136
+msgid "Search results"
+msgstr "Zoekresultaten"
+
+#: inc/options/posts/woo-single.php:317
+msgid "AJAX Add To Cart"
+msgstr "AJAX toevoegen aan winkelwagen"
+
+#: inc/options/posts/woo-single.php:174
+msgid "Product Meta"
+msgstr "Product meta"
+
+#: inc/options/posts/woo-gallery.php:78
+#: inc/panel-builder/footer/menu/options.php:46
+#: inc/panel-builder/footer/socials/options.php:206
+msgid "Vertical"
+msgstr "Verticaal"
+
+#: inc/options/posts/woo-gallery.php:77
+#: inc/panel-builder/footer/menu/options.php:45
+#: inc/panel-builder/footer/socials/options.php:205
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+#: inc/options/general/breadcrumbs.php:199
+#: inc/options/general/page-title.php:275
+msgid "Breadcrumbs"
+msgstr "Kruimelpaden"
+
+#: inc/options/posts/woo-categories.php:924
+msgid "Shop Results Count"
+msgstr "Winkel resultaten aantal"
+
+#: inc/options/posts/woo-categories.php:914
+msgid "Shop Sort"
+msgstr "Winkel sorteren"
+
+#: inc/options/meta/default.php:213 inc/options/meta/page.php:168
+#: inc/options/meta/post.php:209 inc/options/pages/author-page.php:24
+#: inc/options/pages/page.php:51 inc/options/pages/search-page.php:24
+#: inc/options/posts/blog.php:26
+#: inc/options/posts/custom-post-type-archive.php:23
+#: inc/options/posts/custom-post-type-single.php:120
+#: inc/options/posts/post.php:75 inc/options/posts/woo-categories.php:910
+#: inc/options/posts/woo-single.php:192
+msgid "Page Elements"
+msgstr "Pagina elementen"
+
+#: inc/options/posts/woo-categories.php:414
+#: inc/options/posts/woo-categories.php:772
+msgid "Price Color"
+msgstr "Prijs kleur"
+
+#: inc/options/posts/woo-categories.php:442
+msgid "Categories Color"
+msgstr "Categorieën kleur"
+
+#: inc/options/integrations/tutorlms-single.php:162
+#: inc/options/posts/woo-general.php:400
+msgid "Star Rating Color"
+msgstr "Kleur ster beoordeling"
+
+#: inc/options/posts/woo-categories.php:229
+msgid "Product Categories"
+msgstr "Productcategorieën"
+
+#: inc/options/posts/woo-categories.php:218
+#: inc/options/posts/woo-general.php:710 inc/options/posts/woo-single.php:154
+msgid "Sale Badge"
+msgstr "Verkoop badge"
+
+#: inc/options/posts/woo-categories.php:207
+#: inc/options/posts/woo-general.php:394 inc/options/posts/woo-single.php:164
+msgid "Star Rating"
+msgstr "Sterwaardering"
+
+#: inc/options/posts/woo-categories.php:1019
+msgid "Sort by price (desc)"
+msgstr "Sorteer op prijs (aflopend)"
+
+#: inc/options/posts/woo-categories.php:1018
+msgid "Sort by price (asc)"
+msgstr "Sorteer op prijs (oplopend)"
+
+#: inc/options/posts/woo-categories.php:1017
+msgid "Sort by most recent"
+msgstr "Zet meest recente bovenaan"
+
+#: inc/options/posts/woo-categories.php:1016
+msgid "Average rating"
+msgstr "Gemiddelde waardering"
+
+#: inc/options/posts/woo-categories.php:1015
+msgid "Popularity (sales)"
+msgstr "Populariteit (verkopen)"
+
+#: inc/options/posts/woo-categories.php:1014
+msgid "Default sorting (custom ordering + name)"
+msgstr "Standaard sortering (aangepaste volgorde + naam)"
+
+#: inc/options/posts/woo-categories.php:1006
+msgid "How should products be sorted in the catalog by default?"
+msgstr "Hoe wil je producten standaard sorteren in de catalogus?"
+
+#: inc/options/posts/woo-categories.php:1001
+msgid "Default product sorting"
+msgstr "Standaard productsortering"
+
+#: inc/options/posts/woo-categories.php:995
+msgid "Show subcategories & products"
+msgstr "Subcategorieën & producten tonen"
+
+#: inc/options/posts/woo-categories.php:994
+msgid "Show subcategories"
+msgstr "Subcategorieën tonen"
+
+#: inc/options/posts/woo-categories.php:990
+msgid "Choose what to display on product category pages."
+msgstr "Kies wat je wil weergeven op productcategorie pagina's."
+
+#: inc/options/posts/woo-categories.php:981
+msgid "Category display"
+msgstr "Categorie weergave"
+
+#: inc/options/posts/woo-categories.php:975
+msgid "Show categories & products"
+msgstr "Categorieën & producten tonen"
+
+#: inc/options/posts/woo-categories.php:974
+msgid "Show categories"
+msgstr "Categorieën tonen"
+
+#: inc/options/posts/woo-categories.php:970
+msgid "Choose what to display on the main shop page."
+msgstr "Kies wat je wil weergeven op de hoofd winkelpagina."
+
+#: inc/options/posts/woo-categories.php:965
+#: inc/options/posts/woo-categories.php:973
+#: inc/options/posts/woo-categories.php:985
+#: inc/options/posts/woo-categories.php:993
+msgid "Show products"
+msgstr "Producten tonen"
+
+#: inc/options/posts/woo-categories.php:961
+msgid "Shop page display"
+msgstr "Winkelpagina weergeven"
+
+#: inc/options/posts/woo-categories.php:954
+msgid "Product Catalog"
+msgstr "Productcatalogus"
+
+#: inc/options/general/posts-listing.php:1395
+msgid "Number of Posts"
+msgstr "Aantal berichten"
+
+#: inc/options/single-elements/related-posts.php:368
+msgid "After Comments"
+msgstr "Onder reacties"
+
+#: inc/options/single-elements/related-posts.php:367
+msgid "Before Comments"
+msgstr "Voor reacties"
+
+#: inc/options/single-elements/related-posts.php:36
+msgid "Related Criteria"
+msgstr "Criteria voor gerelateerde berichten"
+
+#: inc/options/single-elements/related-posts.php:19
+#: inc/options/single-elements/related-posts.php:86 inc/template-tags.php:426
+msgid "Related Posts"
+msgstr "Gerelateerde berichten"
+
+#: inc/options/meta/default.php:8 inc/options/meta/post.php:6
+#: inc/options/posts/post.php:7
+msgid "Post Title"
+msgstr "Berichttitel"
+
+#: inc/options/single-elements/post-nav.php:19
+msgid "Posts Navigation"
+msgstr "Berichtnavigatie"
+
+#: inc/options/single-elements/author-box.php:26
+msgid "Box Type"
+msgstr "Type box"
+
+#: inc/options/single-elements/author-box.php:11
+msgid "Author Box"
+msgstr "Auteur box"
+
+#: inc/options/single-elements/post-share-box.php:361
+msgid "Bottom Box Spacing"
+msgstr "Onderkant box afstand"
+
+#: inc/options/single-elements/post-share-box.php:335
+msgid "Top Box Spacing"
+msgstr "Top box afstand"
+
+#: inc/options/single-elements/post-share-box.php:146
+msgid "Share Networks"
+msgstr "Deel netwerken"
+
+#: inc/options/general/sidebar.php:257 inc/options/posts/woo-general.php:1139
+#: inc/options/single-elements/post-share-box.php:113
+#: inc/panel-builder/header/cart/options.php:125
+#: inc/panel-builder/header/search/options.php:97
+#: inc/panel-builder/header/trigger/options.php:108
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/ct-spacing.js:92
+#: static/bundle/customizer-controls.js:25232 static/bundle/options.js:25271
+msgid "Bottom"
+msgstr "Onderkant"
+
+#: inc/options/general/sidebar.php:256 inc/options/posts/woo-general.php:1138
+#: inc/options/single-elements/post-share-box.php:112
+#: inc/panel-builder/header/logo/options.php:248
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/ct-spacing.js:91
+#: static/bundle/customizer-controls.js:25231 static/bundle/options.js:25270
+msgid "Top"
+msgstr "Bovenkant"
+
+#: inc/options/single-elements/post-share-box.php:97
+msgid "Box Location"
+msgstr "Box locatie"
+
+#: inc/options/single-elements/post-share-box.php:578
+#: inc/options/single-elements/post-share-box.php:592
+msgid "Share Box"
+msgstr "Deel box"
+
+#: inc/options/posts/post.php:51
+msgid "Post Tags"
+msgstr "Bericht tags"
+
+#: inc/options/meta/default.php:170 inc/options/meta/post.php:167
+#: inc/options/posts/post.php:41
+msgid "Post Elements"
+msgstr "Berichtelementen"
+
+#: inc/options/general/sidebar-particular.php:30
+msgid "Sidebar Position"
+msgstr "Zijbalk positie"
+
+#: inc/options/customizer.php:73 inc/options/general/sidebar-particular.php:20
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: inc/init.php:475
+msgid "Header Menu 2"
+msgstr "Header Menu 2"
+
+#: inc/components/social-box.php:562 inc/components/social-box.php:1588
+msgid "VK"
+msgstr "VK"
+
+#: inc/options/single-elements/post-share-box.php:170
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/panel-builder/header/text/options.php:12
+#: inc/panel-builder/header/text/view.php:46
+msgid "Sample text"
+msgstr "Voorbeeldtekst"
+
+#: inc/options/single-elements/author-box.php:106
+msgid "Social Icons"
+msgstr "Social pictogrammen"
+
+#: inc/init.php:473 inc/panel-builder/footer/menu/config.php:4
+#: inc/panel-builder/footer/menu/view.php:86
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: inc/options/customizer.php:145
+msgid "Search Page"
+msgstr "Zoekpagina"
+
+#: inc/options/customizer.php:133 inc/panel-builder/header/search/options.php:5
+#: inc/single/content-helpers.php:280
+msgid "Pages"
+msgstr "Pagina's"
+
+#: inc/options/customizer.php:109
+msgid "Single Post"
+msgstr "Enkelvoudig bericht"
+
+#: inc/options/general/general.php:108
+msgid "Color scheme"
+msgstr "Kleurenschema"
+
+#: inc/options/general/layout.php:59
+msgid "Wide Alignment Offset"
+msgstr "Vaste afstand bij brede uitlijning"
+
+#: inc/options/general/layout.php:49
+msgid "Narrow Container Max Width"
+msgstr "Maximale breedte smalle container"
+
+#: inc/options/general/layout.php:28
+msgid "Content Area Spacing"
+msgstr "Spatiëring inhoudsgebied"
+
+#: inc/options/general/layout.php:19
+msgid "Maximum Site Width"
+msgstr "Maximale breedte site"
+
+#: inc/options/general/sidebar.php:90
+#: inc/options/single-elements/author-box.php:161
+#: inc/options/single-elements/related-posts.php:614
+msgid "Container Inner Spacing"
+msgstr "Spatiëring binnenzijde container"
+
+#: inc/options/general/back-to-top.php:253
+msgid "Shape Background Color"
+msgstr "Achtergrondkleur vorm"
+
+#: inc/options/general/back-to-top.php:142
+msgid "Circle"
+msgstr "Cirkel"
+
+#: inc/options/general/back-to-top.php:141
+#: inc/panel-builder/footer/socials/options.php:111
+#: inc/panel-builder/header/socials/options.php:110
+msgid "Square"
+msgstr "Vierkant"
+
+#: inc/options/general/back-to-top.php:133
+msgid "Button Shape"
+msgstr "Knopvorm"
+
+#: inc/options/general/back-to-top.php:19
+msgid "Scroll to Top"
+msgstr "Scroll naar boven"
+
+#: inc/panel-builder/header/menu/options.php:587
+msgid "Reveal Effect"
+msgstr "Onthul effect"
+
+#: inc/options/general/page-title.php:859
+#: inc/options/general/posts-listing.php:686
+#: inc/options/integrations/tutorlms-single.php:17
+msgid "Title Font Color"
+msgstr "Tekstkleur titel"
+
+#: inc/options/general/sidebar.php:161
+msgid "Sticky Sidebar"
+msgstr "Sticky zijbalk"
+
+#: inc/options/general/sidebar.php:147
+msgid "Separate Widgets"
+msgstr "Widgets scheiden"
+
+#: inc/options/general/sidebar.php:107
+msgid "Widgets Vertical Spacing"
+msgstr "Verticale spatiëring widgets"
+
+#: inc/options/general/sidebar.php:64
+msgid "Sidebar Gap"
+msgstr "Zijbalk ruimte"
+
+#: inc/options/general/sidebar.php:53
+msgid "Sidebar Width"
+msgstr "Breedte zijbalk"
+
+#: inc/options/general/page-title.php:1173
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/background/ImagePicker.js:183
+#: static/bundle/customizer-controls.js:14392 static/bundle/options.js:12546
+msgid "Image Overlay Color"
+msgstr "Overlaykleur afbeelding"
+
+#: inc/options/general/page-title.php:765
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/background/ImagePicker.js:28
+#: static/bundle/customizer-controls.js:14237 static/bundle/options.js:12391
+msgid "Change Image"
+msgstr "Afbeelding wijzigen"
+
+#: inc/options/general/page-title.php:764
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/backend/taxonomies.js:112
+#: static/js/options/options/background/ImagePicker.js:27
+#: static/bundle/customizer-controls.js:14236 static/bundle/options.js:12390
+#: static/bundle/options.js:37721
+msgid "Select Image"
+msgstr "Selecteer afbeelding"
+
+#: inc/options/general/page-title.php:759
+msgid "Custom Image"
+msgstr "Aangepaste afbeelding"
+
+#: inc/options/general/page-title.php:821
+msgid "Container Min Height"
+msgstr "Minimale hoogte container"
+
+#: inc/components/hero/elements.php:363
+msgid "This is where you can add new products to your store."
+msgstr "Hier kun je nieuwe producten toevoegen aan je winkel."
+
+#: inc/options/general/page-title.php:91
+msgid "Description"
+msgstr "Beschrijving"
+
+#: inc/components/breadcrumbs.php:8 inc/components/hero/elements.php:212
+#: inc/options/general/breadcrumbs.php:101
+#: inc/options/general/page-title.php:115
+#: inc/options/general/page-title.php:360
+#: admin/dashboard/static/bundle/main.js:2
+#: admin/dashboard/static/js/Navigation.js:24
+#: admin/dashboard/static/bundle/main.js:4032
+msgid "Home"
+msgstr "Home"
+
+#: inc/components/hero/elements.php:212
+#: inc/panel-builder/header/search/options.php:6
+msgid "Products"
+msgstr "Producten"
+
+#: inc/options/posts/woo-categories.php:292
+#: inc/options/single-elements/post-share-box.php:386
+#: inc/panel-builder/header/logo/options.php:266
+#: inc/panel-builder/header/text/options.php:57
+msgid "Content Alignment"
+msgstr "Uitlijning Inhoud"
+
+#: inc/options/general/page-title.php:188
+msgid "Type"
+msgstr "Type"
+
+#: inc/options/general/buttons.php:145
+#: inc/options/general/form-elements.php:185
+#: inc/options/general/pagination.php:279
+#: inc/options/general/posts-listing.php:1285
+#: inc/options/general/sidebar.php:480
+#: inc/options/single-elements/author-box.php:476
+#: inc/panel-builder/header/button/options.php:584
+#: inc/panel-builder/header/cart/options.php:1051
+#: inc/panel-builder/header/middle-row/options.php:491
+#: inc/panel-builder/header/offcanvas/options.php:318
+#: inc/panel-builder/header/search/options.php:777
+#: inc/panel-builder/header/trigger/options.php:570
+msgid "Border Radius"
+msgstr "Hoekafronding"
+
+#: inc/panel-builder/header/button/options.php:83
+msgid "Open in new tab"
+msgstr "In nieuwe tab openen"
+
+#: inc/panel-builder/header/button/options.php:50
+#: inc/panel-builder/header/button/view.php:74
+#: admin/dashboard/static/bundle/main.js:2
+#: admin/dashboard/static/js/components/SinglePremiumPlugin.js:109
+#: admin/dashboard/static/bundle/main.js:4518
+msgid "Download"
+msgstr "Download"
+
+#: inc/helpers.php:298 inc/panel-builder/header/button/options.php:40
+msgid "Large"
+msgstr "Groot"
+
+#: inc/helpers.php:296 inc/panel-builder/header/button/options.php:39
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/panel-builder/header/button/options.php:38
+msgid "Small"
+msgstr "Klein"
+
+#: inc/options/general/breadcrumbs.php:84
+#: inc/options/general/breadcrumbs.php:173 inc/options/general/colors.php:693
+#: inc/options/general/page-title.php:1132
+#: inc/options/general/posts-listing.php:405
+#: inc/options/posts/woo-general.php:727 inc/options/posts/woo-general.php:758
+#: inc/options/single-elements/author-box.php:290
+#: inc/panel-builder/header/cart/options.php:465
+#: inc/panel-builder/header/cart/options.php:496
+#: inc/panel-builder/header/cart/options.php:526
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/options/general/colors.php:698 inc/options/general/posts-listing.php:395
+#: inc/options/posts/woo-general.php:733 inc/options/posts/woo-general.php:763
+#: inc/options/posts/woo-product-tabs.php:188
+#: inc/panel-builder/header/cart/options.php:459
+#: inc/panel-builder/header/cart/options.php:491
+#: inc/panel-builder/header/cart/options.php:521
+#: inc/panel-builder/header/cart/options.php:919
+#: inc/panel-builder/header/middle-row/options.php:122
+#: inc/panel-builder/header/middle-row/options.php:149
+#: inc/panel-builder/header/middle-row/options.php:158
+#: inc/panel-builder/header/middle-row/options.php:173
+#: inc/panel-builder/header/offcanvas/options.php:182
+#: inc/panel-builder/header/search/options.php:646
+msgid "Background"
+msgstr "Achtergrond"
+
+#: inc/panel-builder/header/cart/options.php:407
+#: inc/panel-builder/header/cart/options.php:442
+#: inc/panel-builder/header/cart/options.php:473
+#: inc/panel-builder/header/cart/options.php:503
+msgid "Badge Color"
+msgstr "Badge kleur"
+
+#: inc/components/builder/header-elements.php:394
+msgid "Shopping Cart"
+msgstr "Winkelwagen"
+
+#: inc/options/pages/search-page.php:18
+#: inc/panel-builder/header/search/options.php:405
+msgid "Search Results"
+msgstr "Zoekresultaten"
+
+#: inc/components/builder/header-elements.php:193
+#: inc/panel-builder/header/search/config.php:4
+#: inc/panel-builder/header/search/options.php:106
+#: inc/panel-builder/header/search/options.php:417
+#: inc/panel-builder/header/search/view.php:23
+#: woocommerce/product-searchform.php:28
+msgid "Search"
+msgstr "Zoeken"
+
+#: inc/options/general/back-to-top.php:224
+#: inc/options/posts/woo-categories.php:663
+#: inc/panel-builder/header/cart/options.php:287
+#: inc/panel-builder/header/cart/options.php:315
+#: inc/panel-builder/header/cart/options.php:345
+#: inc/panel-builder/header/cart/options.php:374
+#: inc/panel-builder/header/cart/options.php:925
+#: inc/panel-builder/header/offcanvas/options.php:188
+#: inc/panel-builder/header/search/options.php:269
+#: inc/panel-builder/header/search/options.php:296
+#: inc/panel-builder/header/search/options.php:328
+#: inc/panel-builder/header/search/options.php:358
+#: inc/panel-builder/header/search/options.php:652
+#: inc/panel-builder/header/trigger/options.php:283
+#: inc/panel-builder/header/trigger/options.php:312
+#: inc/panel-builder/header/trigger/options.php:343
+#: inc/panel-builder/header/trigger/options.php:372
+msgid "Icon Color"
+msgstr "Pictogram kleur"
+
+#: inc/panel-builder/header/cart/options.php:588
+msgid "Off Canvas"
+msgstr "Off Canvas"
+
+#: inc/panel-builder/header/offcanvas/options.php:16
+msgid "Modal"
+msgstr "Modaal"
+
+#: inc/panel-builder/header/cart/options.php:598
+msgid "Dropdown Top Offset"
+msgstr "Dropdown top offset"
+
+#: inc/panel-builder/header/menu/options.php:598
+msgid "Opacity"
+msgstr "Doorzichtigheid"
+
+#: inc/panel-builder/header/menu/options.php:597
+msgid "Inner Reveal"
+msgstr "Innerlijke onthulling"
+
+#: inc/panel-builder/header/menu/options.php:515
+msgid "Dropdown Options"
+msgstr "Dropdown opties"
+
+#: inc/components/menus.php:490 inc/integrations/custom-post-types.php:193
+#: inc/options/general/back-to-top.php:37
+#: inc/options/general/breadcrumbs.php:12 inc/options/general/meta.php:139
+#: inc/options/general/meta.php:341 inc/options/general/page-title.php:725
+#: inc/options/posts/woo-general.php:612
+#: inc/options/single-elements/featured-image.php:55
+#: inc/options/single-elements/post-nav.php:41
+#: inc/options/single-elements/related-posts.php:63
+#: inc/panel-builder/footer/middle-row/options.php:441
+#: inc/panel-builder/footer/middle-row/options.php:637
+#: inc/panel-builder/footer/middle-row/options.php:678
+#: inc/panel-builder/header/button/options.php:17
+#: inc/panel-builder/header/button/options.php:37
+#: inc/panel-builder/header/menu/options.php:83
+#: inc/panel-builder/header/menu/options.php:596
+#: inc/panel-builder/header/middle-row/options.php:41
+#: inc/panel-builder/header/middle-row/options.php:283
+#: inc/panel-builder/header/middle-row/options.php:390
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/backend/woo-variation.js:38
+#: static/js/options/components/InputWithOnlyNumbers.js:13
+#: static/js/options/options/typography/helpers.js:67
+#: static/js/options/options/typography/helpers.js:121
+#: static/bundle/customizer-controls.js:12388
+#: static/bundle/customizer-controls.js:25524
+#: static/bundle/customizer-controls.js:25578 static/bundle/options.js:10514
+#: static/bundle/options.js:25563 static/bundle/options.js:25617
+#: static/bundle/options.js:37555
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/options/general/meta.php:399
+#: inc/panel-builder/header/menu/options.php:959
+#: inc/panel-builder/header/mobile-menu/options.php:299
+msgid "Items Divider"
+msgstr "Items scheider"
+
+#: inc/panel-builder/footer/menu/options.php:51
+#: inc/panel-builder/header/menu/options.php:94
+#: inc/panel-builder/header/menu/options.php:577
+#: inc/panel-builder/header/mobile-menu/options.php:112
+msgid "Items Spacing"
+msgstr "Spatiëring items"
+
+#: inc/options/general/back-to-top.php:108
+#: inc/options/general/content-elements.php:50
+#: inc/options/general/sidebar.php:46
+#: inc/panel-builder/header/cart/options.php:47
+#: inc/panel-builder/header/menu/options.php:64
+msgid "Type 4"
+msgstr "Type 4"
+
+#: inc/options/general/back-to-top.php:103
+#: inc/options/general/breadcrumbs.php:69
+#: inc/options/general/content-elements.php:49
+#: inc/options/general/sidebar.php:40 inc/options/posts/woo-general.php:598
+#: inc/panel-builder/header/cart/options.php:42
+#: inc/panel-builder/header/menu/options.php:59
+#: inc/panel-builder/header/mobile-menu/options.php:70
+#: inc/panel-builder/header/trigger/options.php:32
+msgid "Type 3"
+msgstr "Type 3"
+
+#: inc/panel-builder/header/cart/options.php:7
+#: inc/panel-builder/header/menu/options.php:30
+msgid "Top Level Options"
+msgstr "Opties op het hoogste niveau"
+
+#: inc/panel-builder/header/trigger/options.php:117
+#: inc/panel-builder/header/trigger/view.php:10
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/panel-builder/header/logo/config.php:4
+#: inc/panel-builder/header/logo/options.php:10
+#: inc/panel-builder/header/offcanvas-logo/options.php:11
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/panel-builder/header/middle-row/options.php:297
+#: inc/panel-builder/header/middle-row/options.php:324
+#: inc/panel-builder/header/middle-row/options.php:339
+#: inc/panel-builder/header/middle-row/options.php:354
+msgid "Bottom Border"
+msgstr "Rand onderkant"
+
+#: inc/panel-builder/header/middle-row/options.php:190
+#: inc/panel-builder/header/middle-row/options.php:217
+#: inc/panel-builder/header/middle-row/options.php:231
+#: inc/panel-builder/header/middle-row/options.php:246
+msgid "Top Border"
+msgstr "Boven rand"
+
+#: inc/options/general/back-to-top.php:98
+#: inc/options/general/breadcrumbs.php:64
+#: inc/options/general/content-elements.php:48
+#: inc/options/general/page-title.php:204 inc/options/general/sidebar.php:35
+#: inc/options/posts/woo-categories.php:41
+#: inc/options/posts/woo-general.php:471 inc/options/posts/woo-general.php:593
+#: inc/options/posts/woo-product-tabs.php:28
+#: inc/options/single-elements/author-box.php:49
+#: inc/options/single-elements/post-share-box.php:64
+#: inc/panel-builder/header/cart/options.php:37
+#: inc/panel-builder/header/menu/options.php:54
+#: inc/panel-builder/header/mobile-menu/options.php:65
+#: inc/panel-builder/header/trigger/options.php:27
+msgid "Type 2"
+msgstr "Type 2"
+
+#: inc/options/general/back-to-top.php:93
+#: inc/options/general/breadcrumbs.php:59
+#: inc/options/general/content-elements.php:47
+#: inc/options/general/page-title.php:199 inc/options/general/sidebar.php:30
+#: inc/options/posts/woo-categories.php:36
+#: inc/options/posts/woo-general.php:470 inc/options/posts/woo-general.php:588
+#: inc/options/posts/woo-product-tabs.php:27
+#: inc/options/single-elements/author-box.php:44
+#: inc/options/single-elements/post-share-box.php:59
+#: inc/panel-builder/header/cart/options.php:32
+#: inc/panel-builder/header/menu/options.php:49
+#: inc/panel-builder/header/mobile-menu/options.php:60
+#: inc/panel-builder/header/trigger/options.php:22
+msgid "Type 1"
+msgstr "Type 1"
+
+#: inc/options/customizer.php:50
+msgid "General Options"
+msgstr "Algemene opties"
+
+#: inc/options/general/back-to-top.php:209
+#: inc/options/general/page-title.php:309
+#: inc/options/general/page-title.php:512
+#: inc/options/general/page-title.php:808 inc/options/general/pagination.php:85
+#: inc/options/general/pagination.php:104 inc/options/general/sidebar.php:242
+#: inc/options/posts/woo-single.php:250 inc/options/posts/woo-single.php:274
+#: inc/options/single-elements/author-box.php:193
+#: inc/options/single-elements/featured-image.php:102
+#: inc/options/single-elements/post-nav.php:124
+#: inc/options/single-elements/post-nav.php:144
+#: inc/options/single-elements/post-nav.php:162
+#: inc/options/single-elements/post-share-box.php:422
+#: inc/options/single-elements/related-posts.php:434
+#: inc/panel-builder/footer/copyright/options.php:79
+#: inc/panel-builder/footer/menu/options.php:137
+#: inc/panel-builder/footer/middle-row/options.php:463
+#: inc/panel-builder/footer/options.php:19
+#: inc/panel-builder/footer/socials/options.php:153
+#: inc/panel-builder/footer/socials/options.php:224
+#: inc/panel-builder/header/button/options.php:213
+#: inc/panel-builder/header/cart/options.php:96
+#: inc/panel-builder/header/logo/options.php:160
+#: inc/panel-builder/header/logo/options.php:207
+#: inc/panel-builder/header/logo/options.php:331
+#: inc/panel-builder/header/search/options.php:70
+#: inc/panel-builder/header/socials/options.php:152
+#: inc/panel-builder/header/text/options.php:122
+#: inc/panel-builder/header/trigger/options.php:81
+msgid "Desktop"
+msgstr "Desktop"
+
+#: inc/options/general/back-to-top.php:197
+#: inc/options/general/page-title.php:298
+#: inc/options/general/page-title.php:501
+#: inc/options/single-elements/author-box.php:181
+#: inc/options/single-elements/post-share-box.php:410
+#: inc/options/single-elements/related-posts.php:421
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+#: inc/options/general/back-to-top.php:211
+#: inc/options/general/page-title.php:311
+#: inc/options/general/page-title.php:514
+#: inc/options/general/page-title.php:810 inc/options/general/pagination.php:87
+#: inc/options/general/pagination.php:106 inc/options/general/sidebar.php:244
+#: inc/options/posts/woo-single.php:252 inc/options/posts/woo-single.php:276
+#: inc/options/single-elements/author-box.php:195
+#: inc/options/single-elements/featured-image.php:104
+#: inc/options/single-elements/post-nav.php:126
+#: inc/options/single-elements/post-nav.php:146
+#: inc/options/single-elements/post-nav.php:164
+#: inc/options/single-elements/post-share-box.php:424
+#: inc/options/single-elements/related-posts.php:436
+#: inc/panel-builder/footer/copyright/options.php:81
+#: inc/panel-builder/footer/menu/options.php:139
+#: inc/panel-builder/footer/middle-row/options.php:465
+#: inc/panel-builder/footer/options.php:21
+#: inc/panel-builder/footer/socials/options.php:155
+#: inc/panel-builder/footer/socials/options.php:226
+#: inc/panel-builder/header/button/options.php:158
+#: inc/panel-builder/header/button/options.php:215
+#: inc/panel-builder/header/cart/options.php:98
+#: inc/panel-builder/header/cart/options.php:1100
+#: inc/panel-builder/header/logo/options.php:162
+#: inc/panel-builder/header/logo/options.php:209
+#: inc/panel-builder/header/logo/options.php:333
+#: inc/panel-builder/header/mobile-menu/options.php:166
+#: inc/panel-builder/header/search/options.php:72
+#: inc/panel-builder/header/search/options.php:815
+#: inc/panel-builder/header/socials/options.php:154
+#: inc/panel-builder/header/socials/options.php:180
+#: inc/panel-builder/header/text/options.php:124
+#: inc/panel-builder/header/text/options.php:359
+#: inc/panel-builder/header/trigger/options.php:83
+#: inc/panel-builder/header/trigger/options.php:617
+msgid "Mobile"
+msgstr "Mobiel"
+
+#: inc/options/general/back-to-top.php:210
+#: inc/options/general/page-title.php:310
+#: inc/options/general/page-title.php:513
+#: inc/options/general/page-title.php:809 inc/options/general/pagination.php:86
+#: inc/options/general/pagination.php:105 inc/options/general/sidebar.php:243
+#: inc/options/posts/woo-single.php:251 inc/options/posts/woo-single.php:275
+#: inc/options/single-elements/author-box.php:194
+#: inc/options/single-elements/featured-image.php:103
+#: inc/options/single-elements/post-nav.php:125
+#: inc/options/single-elements/post-nav.php:145
+#: inc/options/single-elements/post-nav.php:163
+#: inc/options/single-elements/post-share-box.php:423
+#: inc/options/single-elements/related-posts.php:435
+#: inc/panel-builder/footer/copyright/options.php:80
+#: inc/panel-builder/footer/menu/options.php:138
+#: inc/panel-builder/footer/middle-row/options.php:464
+#: inc/panel-builder/footer/options.php:20
+#: inc/panel-builder/footer/socials/options.php:154
+#: inc/panel-builder/footer/socials/options.php:225
+#: inc/panel-builder/header/button/options.php:157
+#: inc/panel-builder/header/button/options.php:214
+#: inc/panel-builder/header/cart/options.php:97
+#: inc/panel-builder/header/cart/options.php:1099
+#: inc/panel-builder/header/logo/options.php:161
+#: inc/panel-builder/header/logo/options.php:208
+#: inc/panel-builder/header/logo/options.php:332
+#: inc/panel-builder/header/mobile-menu/options.php:165
+#: inc/panel-builder/header/search/options.php:71
+#: inc/panel-builder/header/search/options.php:814
+#: inc/panel-builder/header/socials/options.php:153
+#: inc/panel-builder/header/socials/options.php:179
+#: inc/panel-builder/header/text/options.php:123
+#: inc/panel-builder/header/text/options.php:358
+#: inc/panel-builder/header/trigger/options.php:82
+#: inc/panel-builder/header/trigger/options.php:616
+msgid "Tablet"
+msgstr "Tablet"
+
+#: inc/options/general/page-title.php:718
+#: inc/panel-builder/footer/middle-row/options.php:434
+msgid "Container Width"
+msgstr "Container-breedte"
+
+#: inc/options/general/posts-listing.php:571
+msgid "Card Inner Spacing"
+msgstr "Spatiëring binnenzijde kaart"
+
+#: inc/options/general/posts-listing.php:1234
+#: inc/options/posts/woo-categories.php:586
+msgid "Card Background Color"
+msgstr "Achtergrondkleur kaart"
+
+#: inc/options/general/posts-listing.php:762
+msgid "Excerpt Color"
+msgstr "Kleur samenvatting"
+
+#: inc/options/posts/woo-categories.php:344
+#: inc/options/posts/woo-categories.php:741
+msgid "Title Color"
+msgstr "Titelkleur"
+
+#: inc/options/general/posts-listing.php:526
+#: inc/options/posts/woo-categories.php:310
+msgid "Cards Gap"
+msgstr "Tussenruimte kaarten"
+
+#: inc/options/general/meta.php:194 inc/options/general/page-title.php:399
+#: inc/options/posts/woo-general.php:806
+msgid "Avatar Size"
+msgstr "Avatar formaat"
+
+#: inc/options/general/meta.php:343
+#: inc/panel-builder/footer/widget-area-1/options.php:111
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/typography/FontOptions.js:234
+#: static/bundle/customizer-controls.js:28676 static/bundle/options.js:28715
+msgid "Underline"
+msgstr "Onderstrepen"
+
+#: inc/options/general/comments-single.php:15 inc/options/general/meta.php:235
+#: inc/options/general/page-title.php:543 inc/single/single-helpers.php:267
+msgid "Comments"
+msgstr "Reacties"
+
+#: inc/options/customizer.php:118 inc/options/posts/categories.php:11
+msgid "Categories"
+msgstr "Categorieën"
+
+#: inc/options/general/meta.php:181
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/options/general/page-title.php:526
+#: inc/options/general/posts-listing.php:426
+msgid "Post Meta"
+msgstr "Bericht meta"
+
+#: inc/options/general/posts-listing.php:372
+#: inc/options/posts/woo-categories.php:256
+msgid "Length"
+msgstr "Lengte"
+
+#: inc/options/general/page-title.php:102
+#: inc/options/general/posts-listing.php:353
+#: inc/options/general/posts-listing.php:361
+msgid "Excerpt"
+msgstr "Samenvatting"
+
+#: inc/options/general/posts-listing.php:265
+#: inc/options/single-elements/featured-image.php:21
+#: inc/options/single-elements/related-posts.php:223
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/ct-ratio.js:61
+#: static/bundle/customizer-controls.js:19462 static/bundle/options.js:19501
+msgid "Image Ratio"
+msgstr "Afbeelding verhouding"
+
+#: inc/options/general/posts-listing.php:245
+#: inc/options/single-elements/featured-image.php:11
+#: inc/options/single-elements/related-posts.php:205
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: inc/options/general/page-title.php:329
+#: inc/options/general/posts-listing.php:221
+msgid "Heading tag"
+msgstr "Koptekst tag"
+
+#: inc/options/general/posts-listing.php:88
+msgid "Card Elements"
+msgstr "Kaartelementen"
+
+#: inc/options/general/posts-listing.php:67 inc/options/meta/default.php:98
+#: inc/options/meta/page.php:97 inc/options/meta/post.php:93
+#: inc/options/single-elements/structure.php:86
+#: inc/panel-builder/header/middle-row/options.php:42
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/options/general/posts-listing.php:60
+msgid "Card Type"
+msgstr "Kaarttype"
+
+#: inc/options/general/posts-listing.php:1489
+#: inc/options/posts/woo-categories.php:97
+msgid "Cards Options"
+msgstr "Kaartopties"
+
+#: inc/options/general/posts-listing.php:1345
+msgid "Grid"
+msgstr "Raster"
+
+#: inc/options/general/meta.php:390 inc/options/general/posts-listing.php:66
+#: inc/options/general/posts-listing.php:394
+#: inc/options/general/posts-listing.php:1335
+#: inc/panel-builder/header/cart/options.php:917
+#: inc/panel-builder/header/menu/options.php:569
+#: inc/panel-builder/header/menu/options.php:599
+#: inc/panel-builder/header/mobile-menu/options.php:84
+#: inc/panel-builder/header/offcanvas/options.php:180
+#: inc/panel-builder/header/search/options.php:644
+#: inc/panel-builder/header/trigger/options.php:58
+msgid "Simple"
+msgstr "Eenvoudig"
+
+#. translators: placeholder here means the actual structure title.
+#: inc/options/general/posts-listing.php:1313
+msgid "Set the %s entries default structure."
+msgstr "Stel de standaardstructuur van %s items in."
+
+#. translators: placeholder here means the actual structure title.
+#: inc/options/general/posts-listing.php:1308
+#: inc/options/posts/custom-post-type-single.php:34
+msgid "%s Structure"
+msgstr "%s structuur"
+
+#: inc/options/general/colors.php:879
+msgid "Site Background"
+msgstr "Site achtergrond"
+
+#: inc/options/general/pagination.php:224
+#: inc/options/general/posts-listing.php:1051
+#: inc/panel-builder/header/button/options.php:462
+#: inc/panel-builder/header/button/options.php:491
+#: inc/panel-builder/header/button/options.php:521
+#: inc/panel-builder/header/button/options.php:549
+msgid "Button Color"
+msgstr "Knopkleur"
+
+#: inc/options/general/colors.php:620
+msgid "Global Colors"
+msgstr "Globale kleuren"
+
+#: inc/options/customizer.php:79 inc/options/general/form-elements.php:203
+#: inc/options/general/pagination.php:143
+msgid "Colors"
+msgstr "Kleuren"
+
+#: inc/options/general/form-elements.php:199
+msgid "Radio & Checkbox"
+msgstr "Keuzerondje & Selectievakje"
+
+#: inc/options/general/form-elements.php:224
+#: inc/options/general/form-elements.php:268
+#: inc/options/general/form-elements.php:298
+#: inc/options/posts/woo-general.php:417 inc/options/posts/woo-general.php:868
+#: inc/options/posts/woo-general.php:898
+#: inc/options/posts/woo-product-tabs.php:109
+#: inc/options/posts/woo-product-tabs.php:156
+#: inc/panel-builder/footer/menu/options.php:196
+#: inc/panel-builder/header/menu/options.php:235
+#: inc/panel-builder/header/menu/options.php:249
+#: inc/panel-builder/header/menu/options.php:297
+#: inc/panel-builder/header/menu/options.php:310
+#: inc/panel-builder/header/menu/options.php:358
+#: inc/panel-builder/header/menu/options.php:371
+#: inc/panel-builder/header/menu/options.php:429
+#: inc/panel-builder/header/menu/options.php:450
+#: inc/panel-builder/header/menu/options.php:470
+#: inc/panel-builder/header/menu/options.php:743
+#: inc/panel-builder/header/menu/options.php:782
+#: inc/panel-builder/header/menu/options.php:821
+#: inc/panel-builder/header/mobile-menu/options.php:229
+#: inc/panel-builder/header/mobile-menu/options.php:276
+#: inc/panel-builder/header/mobile-menu/options.php:417
+#: inc/panel-builder/header/mobile-menu/options.php:456
+#: inc/panel-builder/header/mobile-menu/options.php:495
+msgid "Active"
+msgstr "Actief"
+
+#: inc/panel-builder/header/mobile-menu/options.php:245
+msgid "Dropdown Font Color"
+msgstr "Lettertypekleur dropdown"
+
+#: inc/options/general/form-elements.php:170
+msgid "Textarea Height"
+msgstr "Hoogte tekstgebied"
+
+#: inc/options/general/form-elements.php:160
+msgid "Input Height"
+msgstr "Invoerhoogte"
+
+#: inc/options/general/form-elements.php:150
+msgid "Border Size"
+msgstr "Dikte van de rand"
+
+#: inc/options/general/buttons.php:80 inc/options/general/form-elements.php:119
+#: inc/options/general/form-elements.php:276
+#: inc/options/general/sidebar.php:385 inc/options/posts/woo-categories.php:695
+#: inc/options/posts/woo-general.php:85 inc/options/posts/woo-general.php:201
+#: inc/options/posts/woo-general.php:315
+#: inc/options/single-elements/author-box.php:424
+#: inc/options/single-elements/post-share-box.php:537
+#: inc/panel-builder/header/cart/options.php:744
+#: inc/panel-builder/header/cart/options.php:1000
+#: inc/panel-builder/header/offcanvas/options.php:266
+#: inc/panel-builder/header/search/options.php:727
+#: inc/panel-builder/header/trigger/options.php:410
+#: inc/panel-builder/header/trigger/options.php:452
+#: inc/panel-builder/header/trigger/options.php:492
+#: inc/panel-builder/header/trigger/options.php:530
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/background/BackgroundModal.js:145
+#: static/bundle/customizer-controls.js:14623 static/bundle/options.js:12777
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: inc/options/general/form-elements.php:82
+msgid "Input & Textarea"
+msgstr "Invoer & Tekstgebied"
+
+#: inc/options/general/form-elements.php:71
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/typography/FontOptions.js:29
+#: static/bundle/customizer-controls.js:28471 static/bundle/options.js:28510
+msgid "Font Size"
+msgstr "Lettertype grootte"
+
+#: inc/options/general/form-elements.php:63
+#: inc/options/general/form-elements.php:107
+#: inc/options/general/form-elements.php:140
+#: inc/panel-builder/header/search/options.php:550
+msgid "Focus"
+msgstr "Focus"
+
+#: inc/options/general/form-elements.php:33
+msgid "Modern"
+msgstr "Modern"
+
+#: inc/options/general/form-elements.php:28
+#: inc/options/general/posts-listing.php:1340
+msgid "Classic"
+msgstr "Klassiek"
+
+#: inc/options/general/form-elements.php:86
+#: inc/options/posts/woo-product-tabs.php:117
+#: inc/options/single-elements/author-box.php:391
+#: inc/panel-builder/header/cart/options.php:960
+#: inc/panel-builder/header/offcanvas/options.php:225
+#: inc/panel-builder/header/search/options.php:688
+#: inc/panel-builder/header/trigger/options.php:406
+#: inc/panel-builder/header/trigger/options.php:448
+#: inc/panel-builder/header/trigger/options.php:488
+#: inc/panel-builder/header/trigger/options.php:526
+msgid "Border Color"
+msgstr "Randkleur"
+
+#: inc/options/general/back-to-top.php:246
+#: inc/options/general/back-to-top.php:276 inc/options/general/buttons.php:73
+#: inc/options/general/buttons.php:103 inc/options/general/colors.php:668
+#: inc/options/general/comments-single.php:168
+#: inc/options/general/page-title.php:963
+#: inc/options/general/page-title.php:999
+#: inc/options/general/page-title.php:1030
+#: inc/options/general/pagination.php:216
+#: inc/options/general/pagination.php:246
+#: inc/options/general/posts-listing.php:733
+#: inc/options/general/posts-listing.php:828
+#: inc/options/general/posts-listing.php:864
+#: inc/options/general/posts-listing.php:895
+#: inc/options/general/posts-listing.php:940
+#: inc/options/general/posts-listing.php:986
+#: inc/options/general/posts-listing.php:1032
+#: inc/options/general/posts-listing.php:1074
+#: inc/options/integrations/tutorlms-single.php:75
+#: inc/options/integrations/tutorlms-single.php:120
+#: inc/options/posts/woo-add-to-cart.php:58
+#: inc/options/posts/woo-add-to-cart.php:101
+#: inc/options/posts/woo-add-to-cart.php:153
+#: inc/options/posts/woo-add-to-cart.php:185
+#: inc/options/posts/woo-add-to-cart.php:226
+#: inc/options/posts/woo-add-to-cart.php:258
+#: inc/options/posts/woo-categories.php:368
+#: inc/options/posts/woo-categories.php:466
+#: inc/options/posts/woo-categories.php:507
+#: inc/options/posts/woo-categories.php:538
+#: inc/options/posts/woo-categories.php:579
+#: inc/options/posts/woo-gallery.php:177 inc/options/posts/woo-gallery.php:207
+#: inc/options/posts/woo-gallery.php:243 inc/options/posts/woo-gallery.php:273
+#: inc/options/posts/woo-general.php:77 inc/options/posts/woo-general.php:127
+#: inc/options/posts/woo-general.php:157 inc/options/posts/woo-general.php:193
+#: inc/options/posts/woo-general.php:243 inc/options/posts/woo-general.php:273
+#: inc/options/posts/woo-general.php:308 inc/options/posts/woo-general.php:356
+#: inc/options/posts/woo-general.php:384 inc/options/posts/woo-general.php:510
+#: inc/options/posts/woo-general.php:551
+#: inc/options/posts/woo-product-tabs.php:103
+#: inc/options/single-elements/author-box.php:340
+#: inc/options/single-elements/author-box.php:373
+#: inc/options/single-elements/post-nav.php:197
+#: inc/options/single-elements/post-nav.php:217
+#: inc/options/single-elements/post-share-box.php:472
+#: inc/options/single-elements/post-share-box.php:530
+#: inc/options/single-elements/post-share-box.php:559
+#: inc/options/single-elements/related-posts.php:550
+#: inc/options/single-elements/related-posts.php:581
+#: inc/panel-builder/footer/menu/options.php:190
+#: inc/panel-builder/footer/socials/options.php:288
+#: inc/panel-builder/footer/socials/options.php:327
+#: inc/panel-builder/footer/socials/options.php:375
+#: inc/panel-builder/header/button/options.php:337
+#: inc/panel-builder/header/button/options.php:350
+#: inc/panel-builder/header/button/options.php:388
+#: inc/panel-builder/header/button/options.php:400
+#: inc/panel-builder/header/button/options.php:438
+#: inc/panel-builder/header/button/options.php:450
+#: inc/panel-builder/header/button/options.php:513
+#: inc/panel-builder/header/button/options.php:542
+#: inc/panel-builder/header/button/options.php:570
+#: inc/panel-builder/header/cart/options.php:212
+#: inc/panel-builder/header/cart/options.php:242
+#: inc/panel-builder/header/cart/options.php:271
+#: inc/panel-builder/header/cart/options.php:337
+#: inc/panel-builder/header/cart/options.php:367
+#: inc/panel-builder/header/cart/options.php:396
+#: inc/panel-builder/header/cart/options.php:948
+#: inc/panel-builder/header/cart/options.php:984
+#: inc/panel-builder/header/cart/options.php:1024
+#: inc/panel-builder/header/logo/options.php:426
+#: inc/panel-builder/header/logo/options.php:457
+#: inc/panel-builder/header/logo/options.php:487
+#: inc/panel-builder/header/menu/options.php:228
+#: inc/panel-builder/header/menu/options.php:243
+#: inc/panel-builder/header/menu/options.php:291
+#: inc/panel-builder/header/menu/options.php:304
+#: inc/panel-builder/header/menu/options.php:352
+#: inc/panel-builder/header/menu/options.php:365
+#: inc/panel-builder/header/menu/options.php:531
+#: inc/panel-builder/header/menu/options.php:737
+#: inc/panel-builder/header/menu/options.php:777
+#: inc/panel-builder/header/menu/options.php:816
+#: inc/panel-builder/header/mobile-menu/options.php:223
+#: inc/panel-builder/header/mobile-menu/options.php:270
+#: inc/panel-builder/header/mobile-menu/options.php:411
+#: inc/panel-builder/header/mobile-menu/options.php:451
+#: inc/panel-builder/header/mobile-menu/options.php:490
+#: inc/panel-builder/header/offcanvas/options.php:212
+#: inc/panel-builder/header/offcanvas/options.php:250
+#: inc/panel-builder/header/offcanvas/options.php:291
+#: inc/panel-builder/header/search/options.php:194
+#: inc/panel-builder/header/search/options.php:224
+#: inc/panel-builder/header/search/options.php:253
+#: inc/panel-builder/header/search/options.php:320
+#: inc/panel-builder/header/search/options.php:351
+#: inc/panel-builder/header/search/options.php:381
+#: inc/panel-builder/header/search/options.php:519
+#: inc/panel-builder/header/search/options.php:581
+#: inc/panel-builder/header/search/options.php:612
+#: inc/panel-builder/header/search/options.php:675
+#: inc/panel-builder/header/search/options.php:711
+#: inc/panel-builder/header/search/options.php:750
+#: inc/panel-builder/header/socials/options.php:275
+#: inc/panel-builder/header/socials/options.php:305
+#: inc/panel-builder/header/socials/options.php:334
+#: inc/panel-builder/header/socials/options.php:404
+#: inc/panel-builder/header/socials/options.php:436
+#: inc/panel-builder/header/socials/options.php:467
+#: inc/panel-builder/header/socials/options.php:556
+#: inc/panel-builder/header/socials/options.php:595
+#: inc/panel-builder/header/socials/options.php:634
+#: inc/panel-builder/header/trigger/options.php:208
+#: inc/panel-builder/header/trigger/options.php:238
+#: inc/panel-builder/header/trigger/options.php:267
+#: inc/panel-builder/header/trigger/options.php:335
+#: inc/panel-builder/header/trigger/options.php:365
+#: inc/panel-builder/header/trigger/options.php:394
+#: inc/panel-builder/header/trigger/options.php:478
+#: inc/panel-builder/header/trigger/options.php:517
+#: inc/panel-builder/header/trigger/options.php:555
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/ct-border.js:115
+#: static/bundle/customizer-controls.js:14988 static/bundle/options.js:13142
+msgid "Hover"
+msgstr "Hoveren"
+
+#: inc/options/general/buttons.php:50
+#: inc/options/general/comments-single.php:146
+#: inc/options/general/form-elements.php:40
+#: inc/options/general/form-elements.php:246
+#: inc/options/general/pagination.php:194
+#: inc/options/posts/woo-product-tabs.php:78
+#: inc/options/posts/woo-single.php:87 inc/options/posts/woo-single.php:126
+#: inc/options/single-elements/post-nav.php:177
+#: inc/panel-builder/footer/copyright/options.php:105
+#: inc/panel-builder/footer/menu/options.php:164
+#: inc/panel-builder/footer/socials/options.php:265
+#: inc/panel-builder/footer/widget-area-1/options.php:62
+#: inc/panel-builder/header/button/options.php:276
+#: inc/panel-builder/header/button/options.php:306
+#: inc/panel-builder/header/button/options.php:358
+#: inc/panel-builder/header/button/options.php:408
+#: inc/panel-builder/header/cart/options.php:189
+#: inc/panel-builder/header/cart/options.php:220
+#: inc/panel-builder/header/cart/options.php:249
+#: inc/panel-builder/header/cart/options.php:685
+#: inc/panel-builder/header/menu/options.php:165
+#: inc/panel-builder/header/menu/options.php:194
+#: inc/panel-builder/header/menu/options.php:257
+#: inc/panel-builder/header/menu/options.php:318
+#: inc/panel-builder/header/menu/options.php:680
+#: inc/panel-builder/header/menu/options.php:710
+#: inc/panel-builder/header/menu/options.php:751
+#: inc/panel-builder/header/menu/options.php:790
+#: inc/panel-builder/header/mobile-menu/options.php:198
+#: inc/panel-builder/header/mobile-menu/options.php:356
+#: inc/panel-builder/header/mobile-menu/options.php:385
+#: inc/panel-builder/header/mobile-menu/options.php:425
+#: inc/panel-builder/header/mobile-menu/options.php:464
+#: inc/panel-builder/header/search/options.php:171
+#: inc/panel-builder/header/search/options.php:202
+#: inc/panel-builder/header/search/options.php:231
+#: inc/panel-builder/header/search/options.php:496
+#: inc/panel-builder/header/socials/options.php:252
+#: inc/panel-builder/header/socials/options.php:283
+#: inc/panel-builder/header/socials/options.php:312
+#: inc/panel-builder/header/text/options.php:166
+#: inc/panel-builder/header/text/options.php:195
+#: inc/panel-builder/header/text/options.php:237
+#: inc/panel-builder/header/text/options.php:276
+#: inc/panel-builder/header/trigger/options.php:185
+#: inc/panel-builder/header/trigger/options.php:216
+#: inc/panel-builder/header/trigger/options.php:245
+msgid "Font Color"
+msgstr "Lettertype kleur"
+
+#: inc/options/general/back-to-top.php:219
+#: inc/options/general/breadcrumbs.php:134 inc/options/general/buttons.php:45
+#: inc/options/general/comments-single.php:141
+#: inc/options/general/page-title.php:1234
+#: inc/options/general/page-title.php:1325
+#: inc/options/general/pagination.php:131
+#: inc/options/general/posts-listing.php:661
+#: inc/options/general/posts-listing.php:1500
+#: inc/options/general/sidebar.php:266
+#: inc/options/integrations/tutorlms-archive.php:39
+#: inc/options/integrations/tutorlms-single.php:219
+#: inc/options/meta/default.php:161 inc/options/meta/page.php:159
+#: inc/options/meta/post.php:158 inc/options/pages/page.php:38
+#: inc/options/posts/custom-post-type-single.php:52
+#: inc/options/posts/post.php:27 inc/options/posts/woo-add-to-cart.php:31
+#: inc/options/posts/woo-categories.php:329
+#: inc/options/posts/woo-categories.php:878
+#: inc/options/posts/woo-gallery.php:150 inc/options/posts/woo-general.php:482
+#: inc/options/posts/woo-general.php:705 inc/options/posts/woo-general.php:841
+#: inc/options/posts/woo-general.php:1147
+#: inc/options/posts/woo-product-tabs.php:62
+#: inc/options/posts/woo-single.php:52
+#: inc/options/single-elements/author-box.php:203
+#: inc/options/single-elements/post-nav.php:172
+#: inc/options/single-elements/post-share-box.php:435
+#: inc/options/single-elements/related-posts.php:444
+#: inc/panel-builder/footer/copyright/options.php:89
+#: inc/panel-builder/footer/menu/options.php:147
+#: inc/panel-builder/footer/middle-row/options.php:473
+#: inc/panel-builder/footer/socials/options.php:234
+#: inc/panel-builder/footer/widget-area-1/options.php:57
+#: inc/panel-builder/header/button/options.php:270
+#: inc/panel-builder/header/cart/options.php:135
+#: inc/panel-builder/header/cart/options.php:675
+#: inc/panel-builder/header/logo/options.php:352
+#: inc/panel-builder/header/menu/options.php:142
+#: inc/panel-builder/header/menu/options.php:659
+#: inc/panel-builder/header/middle-row/options.php:116
+#: inc/panel-builder/header/mobile-menu/options.php:178
+#: inc/panel-builder/header/offcanvas-logo/options.php:32
+#: inc/panel-builder/header/offcanvas/options.php:98
+#: inc/panel-builder/header/search/options.php:116
+#: inc/panel-builder/header/search/options.php:480
+#: inc/panel-builder/header/socials/options.php:191
+#: inc/panel-builder/header/text/options.php:150
+#: inc/panel-builder/header/trigger/options.php:130
+msgid "Design"
+msgstr "Ontwerp"
+
+#: inc/options/general/pagination.php:118
+msgid "Pagination Top Spacing"
+msgstr "Paginering top ruimte"
+
+#: inc/options/general/pagination.php:39
+msgid "Infinite Scroll"
+msgstr "Eindeloos scrollen"
+
+#: inc/components/pagination.php:95 inc/options/general/pagination.php:38
+#: inc/options/general/pagination.php:61
+msgid "Load More"
+msgstr "Laad meer"
+
+#: inc/options/general/pagination.php:37
+msgid "Next/Prev"
+msgstr "Volgende/vorige"
+
+#: inc/options/general/pagination.php:36
+msgid "Standard"
+msgstr "Standaard"
+
+#: inc/options/general/pagination.php:29
+msgid "Pagination Type"
+msgstr "Paginering type"
+
+#: inc/options/customizer.php:55 inc/options/customizer.php:161
+#: inc/options/general/back-to-top.php:26
+#: inc/options/general/breadcrumbs.php:45 inc/options/general/buttons.php:19
+#: inc/options/general/comments-single.php:25
+#: inc/options/general/page-title.php:1228
+#: inc/options/general/page-title.php:1298
+#: inc/options/general/pagination.php:24
+#: inc/options/general/posts-listing.php:29
+#: inc/options/general/posts-listing.php:1319
+#: inc/options/general/sidebar.php:17
+#: inc/options/integrations/tutorlms-archive.php:24
+#: inc/options/integrations/tutorlms-single.php:207
+#: inc/options/meta/default.php:29 inc/options/meta/page.php:27
+#: inc/options/meta/post.php:24 inc/options/pages/page.php:27
+#: inc/options/posts/custom-post-type-single.php:40
+#: inc/options/posts/post.php:17 inc/options/posts/woo-add-to-cart.php:11
+#: inc/options/posts/woo-categories.php:22
+#: inc/options/posts/woo-categories.php:104
+#: inc/options/posts/woo-gallery.php:10 inc/options/posts/woo-general.php:440
+#: inc/options/posts/woo-general.php:571 inc/options/posts/woo-general.php:786
+#: inc/options/posts/woo-general.php:1115
+#: inc/options/posts/woo-product-tabs.php:16
+#: inc/options/posts/woo-single.php:21
+#: inc/options/single-elements/author-box.php:21
+#: inc/options/single-elements/post-nav.php:29
+#: inc/options/single-elements/post-share-box.php:43
+#: inc/options/single-elements/related-posts.php:29
+#: inc/panel-builder/footer/copyright/options.php:5
+#: inc/panel-builder/footer/menu/options.php:33
+#: inc/panel-builder/footer/middle-row/options.php:23
+#: inc/panel-builder/footer/socials/options.php:5
+#: inc/panel-builder/footer/widget-area-1/options.php:9
+#: inc/panel-builder/header/button/options.php:5
+#: inc/panel-builder/header/cart/options.php:11
+#: inc/panel-builder/header/cart/options.php:567
+#: inc/panel-builder/header/logo/options.php:5
+#: inc/panel-builder/header/menu/options.php:34
+#: inc/panel-builder/header/menu/options.php:519
+#: inc/panel-builder/header/middle-row/options.php:27
+#: inc/panel-builder/header/mobile-menu/options.php:25
+#: inc/panel-builder/header/offcanvas-logo/options.php:6
+#: inc/panel-builder/header/offcanvas/options.php:5
+#: inc/panel-builder/header/search/options.php:37
+#: inc/panel-builder/header/search/options.php:409
+#: inc/panel-builder/header/socials/options.php:5
+#: inc/panel-builder/header/text/options.php:5
+#: inc/panel-builder/header/trigger/options.php:5
+msgid "General"
+msgstr "Algemeen"
+
+#: inc/options/general/back-to-top.php:241
+#: inc/options/general/back-to-top.php:270 inc/options/general/buttons.php:68
+#: inc/options/general/buttons.php:98 inc/options/general/colors.php:638
+#: inc/options/general/colors.php:663 inc/options/general/colors.php:718
+#: inc/options/general/colors.php:740 inc/options/general/colors.php:761
+#: inc/options/general/colors.php:783 inc/options/general/colors.php:805
+#: inc/options/general/colors.php:827 inc/options/general/colors.php:849
+#: inc/options/general/colors.php:871
+#: inc/options/general/comments-single.php:162
+#: inc/options/general/form-elements.php:57
+#: inc/options/general/form-elements.php:102
+#: inc/options/general/form-elements.php:135
+#: inc/options/general/form-elements.php:219
+#: inc/options/general/form-elements.php:262
+#: inc/options/general/form-elements.php:292 inc/options/general/general.php:65
+#: inc/options/general/page-title.php:872
+#: inc/options/general/page-title.php:957
+#: inc/options/general/page-title.php:993
+#: inc/options/general/page-title.php:1024
+#: inc/options/general/page-title.php:1086
+#: inc/options/general/pagination.php:210
+#: inc/options/general/pagination.php:240
+#: inc/options/general/posts-listing.php:703
+#: inc/options/general/posts-listing.php:775
+#: inc/options/general/posts-listing.php:822
+#: inc/options/general/posts-listing.php:858
+#: inc/options/general/posts-listing.php:889
+#: inc/options/general/posts-listing.php:934
+#: inc/options/general/posts-listing.php:980
+#: inc/options/general/posts-listing.php:1026
+#: inc/options/general/posts-listing.php:1068
+#: inc/options/general/sidebar.php:294 inc/options/general/sidebar.php:398
+#: inc/options/integrations/tutorlms-single.php:30
+#: inc/options/integrations/tutorlms-single.php:69
+#: inc/options/integrations/tutorlms-single.php:114
+#: inc/options/integrations/tutorlms-single.php:154
+#: inc/options/integrations/tutorlms-single.php:176
+#: inc/options/posts/woo-add-to-cart.php:52
+#: inc/options/posts/woo-add-to-cart.php:86
+#: inc/options/posts/woo-add-to-cart.php:94
+#: inc/options/posts/woo-add-to-cart.php:147
+#: inc/options/posts/woo-add-to-cart.php:179
+#: inc/options/posts/woo-add-to-cart.php:220
+#: inc/options/posts/woo-add-to-cart.php:252
+#: inc/options/posts/woo-categories.php:362
+#: inc/options/posts/woo-categories.php:403
+#: inc/options/posts/woo-categories.php:429
+#: inc/options/posts/woo-categories.php:461
+#: inc/options/posts/woo-categories.php:501
+#: inc/options/posts/woo-categories.php:532
+#: inc/options/posts/woo-categories.php:574
+#: inc/options/posts/woo-categories.php:600
+#: inc/options/posts/woo-categories.php:681
+#: inc/options/posts/woo-categories.php:713
+#: inc/options/posts/woo-categories.php:755
+#: inc/options/posts/woo-categories.php:786
+#: inc/options/posts/woo-categories.php:807
+#: inc/options/posts/woo-gallery.php:171 inc/options/posts/woo-gallery.php:201
+#: inc/options/posts/woo-gallery.php:237 inc/options/posts/woo-gallery.php:267
+#: inc/options/posts/woo-general.php:71 inc/options/posts/woo-general.php:98
+#: inc/options/posts/woo-general.php:121 inc/options/posts/woo-general.php:151
+#: inc/options/posts/woo-general.php:187 inc/options/posts/woo-general.php:214
+#: inc/options/posts/woo-general.php:237 inc/options/posts/woo-general.php:267
+#: inc/options/posts/woo-general.php:303 inc/options/posts/woo-general.php:328
+#: inc/options/posts/woo-general.php:351 inc/options/posts/woo-general.php:379
+#: inc/options/posts/woo-general.php:503 inc/options/posts/woo-general.php:538
+#: inc/options/posts/woo-general.php:545 inc/options/posts/woo-general.php:862
+#: inc/options/posts/woo-general.php:892 inc/options/posts/woo-general.php:918
+#: inc/options/posts/woo-general.php:1167
+#: inc/options/posts/woo-general.php:1188
+#: inc/options/posts/woo-product-tabs.php:98
+#: inc/options/posts/woo-product-tabs.php:130
+#: inc/options/posts/woo-single.php:100 inc/options/posts/woo-single.php:139
+#: inc/options/single-elements/author-box.php:229
+#: inc/options/single-elements/author-box.php:334
+#: inc/options/single-elements/author-box.php:367
+#: inc/options/single-elements/author-box.php:406
+#: inc/options/single-elements/post-nav.php:192
+#: inc/options/single-elements/post-share-box.php:466
+#: inc/options/single-elements/post-share-box.php:525
+#: inc/options/single-elements/post-share-box.php:554
+#: inc/options/single-elements/related-posts.php:462
+#: inc/options/single-elements/related-posts.php:516
+#: inc/options/single-elements/related-posts.php:575
+#: inc/panel-builder/footer/copyright/options.php:127
+#: inc/panel-builder/footer/menu/options.php:185
+#: inc/panel-builder/footer/middle-row/options.php:505
+#: inc/panel-builder/footer/socials/options.php:282
+#: inc/panel-builder/footer/socials/options.php:321
+#: inc/panel-builder/footer/socials/options.php:370
+#: inc/panel-builder/footer/widget-area-1/options.php:84
+#: inc/panel-builder/header/button/options.php:330
+#: inc/panel-builder/header/button/options.php:344
+#: inc/panel-builder/header/button/options.php:382
+#: inc/panel-builder/header/button/options.php:394
+#: inc/panel-builder/header/button/options.php:432
+#: inc/panel-builder/header/button/options.php:444
+#: inc/panel-builder/header/button/options.php:507
+#: inc/panel-builder/header/button/options.php:537
+#: inc/panel-builder/header/button/options.php:565
+#: inc/panel-builder/header/cart/options.php:206
+#: inc/panel-builder/header/cart/options.php:237
+#: inc/panel-builder/header/cart/options.php:266
+#: inc/panel-builder/header/cart/options.php:332
+#: inc/panel-builder/header/cart/options.php:362
+#: inc/panel-builder/header/cart/options.php:391
+#: inc/panel-builder/header/cart/options.php:737
+#: inc/panel-builder/header/cart/options.php:758
+#: inc/panel-builder/header/cart/options.php:943
+#: inc/panel-builder/header/cart/options.php:978
+#: inc/panel-builder/header/cart/options.php:1018
+#: inc/panel-builder/header/logo/options.php:421
+#: inc/panel-builder/header/logo/options.php:452
+#: inc/panel-builder/header/logo/options.php:482
+#: inc/panel-builder/header/logo/options.php:563
+#: inc/panel-builder/header/logo/options.php:585
+#: inc/panel-builder/header/logo/options.php:606
+#: inc/panel-builder/header/menu/options.php:223
+#: inc/panel-builder/header/menu/options.php:286
+#: inc/panel-builder/header/menu/options.php:347
+#: inc/panel-builder/header/menu/options.php:732
+#: inc/panel-builder/header/menu/options.php:772
+#: inc/panel-builder/header/menu/options.php:811
+#: inc/panel-builder/header/menu/options.php:881
+#: inc/panel-builder/header/menu/options.php:913
+#: inc/panel-builder/header/menu/options.php:943
+#: inc/panel-builder/header/mobile-menu/options.php:218
+#: inc/panel-builder/header/mobile-menu/options.php:265
+#: inc/panel-builder/header/mobile-menu/options.php:406
+#: inc/panel-builder/header/mobile-menu/options.php:446
+#: inc/panel-builder/header/mobile-menu/options.php:485
+#: inc/panel-builder/header/offcanvas/options.php:206
+#: inc/panel-builder/header/offcanvas/options.php:244
+#: inc/panel-builder/header/offcanvas/options.php:285
+#: inc/panel-builder/header/search/options.php:188
+#: inc/panel-builder/header/search/options.php:219
+#: inc/panel-builder/header/search/options.php:248
+#: inc/panel-builder/header/search/options.php:314
+#: inc/panel-builder/header/search/options.php:346
+#: inc/panel-builder/header/search/options.php:376
+#: inc/panel-builder/header/search/options.php:514
+#: inc/panel-builder/header/search/options.php:545
+#: inc/panel-builder/header/search/options.php:575
+#: inc/panel-builder/header/search/options.php:606
+#: inc/panel-builder/header/search/options.php:669
+#: inc/panel-builder/header/search/options.php:705
+#: inc/panel-builder/header/search/options.php:744
+#: inc/panel-builder/header/socials/options.php:269
+#: inc/panel-builder/header/socials/options.php:300
+#: inc/panel-builder/header/socials/options.php:329
+#: inc/panel-builder/header/socials/options.php:398
+#: inc/panel-builder/header/socials/options.php:431
+#: inc/panel-builder/header/socials/options.php:462
+#: inc/panel-builder/header/socials/options.php:551
+#: inc/panel-builder/header/socials/options.php:590
+#: inc/panel-builder/header/socials/options.php:629
+#: inc/panel-builder/header/trigger/options.php:202
+#: inc/panel-builder/header/trigger/options.php:233
+#: inc/panel-builder/header/trigger/options.php:262
+#: inc/panel-builder/header/trigger/options.php:329
+#: inc/panel-builder/header/trigger/options.php:360
+#: inc/panel-builder/header/trigger/options.php:389
+#: inc/panel-builder/header/trigger/options.php:472
+#: inc/panel-builder/header/trigger/options.php:512
+#: inc/panel-builder/header/trigger/options.php:550
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/background/BackgroundModal.js:155
+#: static/js/options/options/background/ImagePicker.js:189
+#: static/js/options/options/background/PatternPicker.js:170
+#: static/js/options/options/ct-border.js:94
+#: static/bundle/customizer-controls.js:14188
+#: static/bundle/customizer-controls.js:14398
+#: static/bundle/customizer-controls.js:14633
+#: static/bundle/customizer-controls.js:14967 static/bundle/options.js:12342
+#: static/bundle/options.js:12552 static/bundle/options.js:12787
+#: static/bundle/options.js:13121
+msgid "Initial"
+msgstr "Initieel"
+
+#: inc/options/general/cards-reveal-effect.php:13
+msgid "Cards Reveal Effect"
+msgstr "Kaarten onthullen effect"
+
+#: inc/options/general/performance.php:34
+msgid "Lazy Load Images"
+msgstr "Lazy-load afbeeldingen"
+
+#: inc/options/general/page-title.php:15
+#: inc/options/general/page-title.php:1302 inc/options/meta/page.php:8
+msgid "Page Title"
+msgstr "Paginatitel"
+
+#: inc/options/general/sidebar-particular.php:44
+#: inc/options/meta/default.php:65 inc/options/meta/page.php:64
+#: inc/options/meta/post.php:60 inc/options/single-elements/structure.php:47
+msgid "Right Sidebar"
+msgstr "Zijbalk rechts"
+
+#: inc/options/general/sidebar-particular.php:39
+#: inc/options/meta/default.php:60 inc/options/meta/page.php:59
+#: inc/options/meta/post.php:55 inc/options/single-elements/structure.php:42
+msgid "Left Sidebar"
+msgstr "Zijbalk links"
+
+#: inc/options/meta/default.php:55 inc/options/meta/page.php:54
+#: inc/options/meta/post.php:50 inc/options/single-elements/structure.php:37
+msgid "Normal Width"
+msgstr "Standaardbreedte"
+
+#: inc/options/meta/default.php:50 inc/options/meta/page.php:49
+#: inc/options/meta/post.php:45 inc/options/single-elements/structure.php:32
+msgid "Narrow Width"
+msgstr "Smalle breedte"
+
+#: inc/options/meta/default.php:45 inc/options/meta/page.php:44
+#: inc/options/meta/post.php:40
+msgid "Inherit from customizer"
+msgstr "Neem over uit Cutomizer"
+
+#: inc/options/meta/page.php:23 inc/options/pages/page.php:22
+#: inc/options/posts/woo-single.php:17
+msgid "Page Structure"
+msgstr "Paginastructuur"
+
+#: inc/integrations/beaver-themer.php:8 inc/options/customizer.php:61
+msgid "Header"
+msgstr "Header"
+
+#: inc/components/back-to-top.php:52
+msgid "Go to top"
+msgstr "Ga naar boven"
+
+#: inc/options/single-elements/post-share-box.php:180
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/options/general/page-title.php:325
+#: inc/options/general/page-title.php:358
+#: inc/options/general/posts-listing.php:217
+msgid "Title"
+msgstr "Titel"
+
+#. Translators: %s is the theme name.
+#: admin/helpers/meta-boxes.php:142
+msgid "%s Settings"
+msgstr "%s instellingen"
+
+#: inc/components/pagination.php:38
+msgid "No more posts to load"
+msgstr "Geen berichten meer om te laden"
+
+#: inc/options/single-elements/post-share-box.php:150
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/options/single-elements/post-share-box.php:160
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/single/comments.php:131
+msgid "Website"
+msgstr "Site"
+
+#: woocommerce/product-searchform.php:26
+msgid "Search products&hellip;"
+msgstr "Producten zoeken&hellip;"
+
+#: woocommerce/product-searchform.php:24
+msgid "Search for:"
+msgstr "Zoeken naar:"
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:142
+msgid "Quantity"
+msgstr "Aantal"
+
+#: woocommerce/cart/mini-cart.php:105
+msgid "No products in the cart."
+msgstr "Geen producten in de winkelwagen."
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:164
+msgid "Subtotal"
+msgstr "Subtotaal"
+
+#: woocommerce/cart/cart.php:132 woocommerce/cart/cart.php:179
+#: woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr "Verwijder dit item"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Zoeken"
+
+#: template-parts/404.php:11
+msgid "It looks like nothing was found at this location. Maybe try to search for something else?"
+msgstr "Het lijkt erop dat er niets gevonden is op deze locatie. Probeer het eens met een zoekopdracht?"
+
+#: template-parts/404.php:7
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Die pagina kan niet worden gevonden."
+
+#: admin/notices/templates.php:43
+msgid "This way you will have access to custom extensions, demo templates and many other awesome features"
+msgstr "Zo kun je gebruik maken van op maat gemaakte uitbreidingen, demo templates en vele andere geweldige mogelijkheden"
+
+#: admin/notices/templates.php:41 admin/dashboard/static/bundle/main.js:2
+#: admin/dashboard/static/js/screens/Home.js:196
+#: admin/dashboard/static/bundle/main.js:4319
+msgid "Blocksy Companion"
+msgstr "Blocksy Companion"
+
+#: admin/dashboard/core.php:204
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt onvoldoende rechten om deze pagina te bekijken."
+
+#: inc/options/general/page-title.php:1271
+#: inc/options/general/page-title.php:1312 inc/options/meta/default.php:142
+#: inc/options/meta/page.php:141 inc/options/meta/post.php:140
+#: inc/options/single-elements/structure.php:113
+#: static/bundle/customizer-controls.js:2 static/bundle/options.js:2
+#: static/js/options/options/background/ImagePicker.js:150
+#: static/bundle/customizer-controls.js:14359 static/bundle/options.js:12513
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: inc/archive/archive-card.php:240 inc/options/general/posts-listing.php:408
+msgid "Read More"
+msgstr "Lees meer"
+
+#. Theme Name of the theme
+#. Translators: %s is the theme name.
+#: admin/helpers/meta-boxes.php:143
+msgid "Blocksy"
+msgstr "Blocksy"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://creativethemes.com"
+msgstr "https://creativethemes.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "CreativeThemes"
+msgstr "CreativeThemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://creativethemes.com/blocksy/"
+msgstr "https://creativethemes.com/blocksy/"

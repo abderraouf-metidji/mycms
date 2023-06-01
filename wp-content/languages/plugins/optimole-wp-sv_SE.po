@@ -1,0 +1,989 @@
+# Translation of Plugins - Image optimization &amp; Lazy Load by Optimole - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - Image optimization &amp; Lazy Load by Optimole - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-04 14:25:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Image optimization &amp; Lazy Load by Optimole - Development (trunk)\n"
+
+#: inc/admin.php:485
+msgid "Logo"
+msgstr "Logga"
+
+#: inc/admin.php:991
+msgid "crop"
+msgstr "beskär"
+
+#: inc/admin.php:947
+msgid "Add size"
+msgstr "Lägg till storlek"
+
+#: inc/admin.php:932
+msgid "cropped"
+msgstr "beskuren"
+
+#: inc/admin.php:923
+msgid "Your cropped image sizes"
+msgstr "Dina beskurna bildstorlekar"
+
+#: inc/admin.php:796
+msgid "Create & connect your account "
+msgstr "Skapa och anslut ditt konto "
+
+#: inc/admin.php:931
+msgid "%1$sName: %2$s"
+msgstr "%1$sNamn: %2$s"
+
+#: inc/admin.php:942
+msgid "matches"
+msgstr "matchar"
+
+#: inc/admin.php:978
+msgid "Select a website"
+msgstr "Välj en webbplats"
+
+#: inc/admin.php:935
+msgid "images"
+msgstr "bilder"
+
+#: inc/admin.php:867
+msgid "Upgrade to Optimole Pro"
+msgstr "Uppgradera till Optimole Pro"
+
+#: inc/admin.php:866
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+#: inc/admin.php:1017
+msgid "Important! Please read carefully"
+msgstr "Viktigt! Läs noggrant"
+
+#: inc/admin.php:1024
+msgid "Do not restore images after disabling"
+msgstr "Återställ inte bilder efter inaktivering"
+
+#: inc/admin.php:1023
+msgid "Restore images after disabling"
+msgstr "Återställ bilder efter inaktivering"
+
+#: inc/admin.php:1009
+msgid "Moving images into your media library..."
+msgstr "Flyttar bilder till ditt mediebibliotek …"
+
+#: inc/admin.php:1004
+msgid "Moving your images to Optimole..."
+msgstr "Flyttar dina bilder till Optimole …"
+
+#: inc/admin.php:1007
+msgid "ACTIVE EXCLUSIONS"
+msgstr "AKTIVA EXKLUDERINGAR"
+
+#: inc/admin.php:854
+msgid "For the latest 10 images"
+msgstr "För de senaste 10 bilderna"
+
+#: inc/admin.php:893
+msgid "Clear cached CSS & JS"
+msgstr "Rensa cachelagrad CSS och JS"
+
+#: inc/admin.php:930
+msgid "%1$sPage url%2$s contains"
+msgstr "%1$sSid-URL%2$s innehåller"
+
+#: inc/admin.php:927
+msgid "%1$sImage filename%2$s contains"
+msgstr "%1$sBildfilnamn%2$s innehåller"
+
+#: inc/admin.php:810
+msgid "Existing user"
+msgstr "Befintlig användare"
+
+#: inc/admin.php:805
+msgid "NOT CONNECTED"
+msgstr "INTE ANSLUTEN"
+
+#: inc/admin.php:804
+msgid "CONNECTED"
+msgstr "ANSLUTEN"
+
+#: inc/admin.php:795
+msgid "Connect your account"
+msgstr "Anslut ditt konto"
+
+#: inc/admin.php:780
+msgid "Your API Key"
+msgstr "Din API-nyckel"
+
+#: inc/admin.php:779
+msgid "Add your API Key"
+msgstr "Lägg till din API-nyckel"
+
+#: inc/admin.php:778
+msgid "your domain"
+msgstr "din domän"
+
+#: inc/admin.php:777
+msgid "Select"
+msgstr "Välj"
+
+#: inc/admin.php:808
+msgid "LOGGED IN AS"
+msgstr "INLOGGAD SOM"
+
+#: inc/admin.php:783
+msgid "UPDATING STATS"
+msgstr "UPPDATERAR STATISTIK"
+
+#: inc/admin.php:781
+msgid "LOOKING FOR YOUR API KEY?"
+msgstr "LETAR DU EFTER DIN API-NYCKEL?"
+
+#: inc/admin.php:390
+msgid "I have already done this"
+msgstr "Jag har redan gjort detta"
+
+#: inc/admin.php:782
+msgid "REFRESH STATS"
+msgstr "UPPDATERA STATISTIK"
+
+#: inc/admin.php:788
+msgid "You are about to disconnect from the Optimole API"
+msgstr "Du håller på att koppla från Optimole API"
+
+#: inc/admin.php:787
+msgid "Ok, keep me connected"
+msgstr "Ok, håll mig ansluten"
+
+#: inc/admin.php:811
+msgid "We sent you the API Key in the email. Add it below to connect to Optimole."
+msgstr "Vi skickade API-nyckeln till dig i e-postmeddelandet. Lägg till den nedan för att ansluta till Optimole."
+
+#: inc/admin.php:802
+msgid "Go to previous step"
+msgstr "Gå till föregående steg"
+
+#: inc/admin.php:798
+msgid "Get it from the %1$s Optimole Dashboard%2$s."
+msgstr "Skaffa det från %1$s Optimole-adminpanel%2$s."
+
+#: inc/admin.php:1015
+msgid "The selected images have been restored to your server, you can check them"
+msgstr "De valda bilderna har återställts till din server, du kan kontrollera dem"
+
+#: inc/admin.php:1008
+msgid "minutes"
+msgstr "minuter"
+
+#: inc/rest.php:370
+msgid "Error: This email is already registered. Please choose another one."
+msgstr "Fel: Denna e-post är redan registrerad. Välj en annan."
+
+#: inc/admin.php:881
+msgid "Fully compatible with Optimole."
+msgstr "Fullt kompatibel med Optimole."
+
+#: inc/admin.php:880
+msgid "Lots of customizations options."
+msgstr "Massor av anpassningsalternativ."
+
+#: inc/admin.php:1012
+msgid "Remove notice"
+msgstr "Ta bort meddelandet"
+
+#: inc/admin.php:1003
+msgid "Rollback images"
+msgstr "Återställ bilder"
+
+#: inc/admin.php:1002
+msgid "Sync images"
+msgstr "Synkronisera bilder"
+
+#: inc/admin.php:975
+msgid "View images from all sites "
+msgstr "Visa bilder från alla webbplatser "
+
+#: inc/admin.php:974
+msgid "Currently viewing images from all sites "
+msgstr "Visar för närvarande bilder från alla webbplatser "
+
+#: inc/admin.php:979
+msgid "Show images only from these sites: "
+msgstr "Visa endast bilder från dessa webbplatser: "
+
+#: inc/admin.php:949
+msgid " here."
+msgstr " här."
+
+#: inc/admin.php:885
+msgid "Add site"
+msgstr "Lägg till webbplats"
+
+#: inc/admin.php:856
+msgid "Cloud Integration"
+msgstr "Molnintegration"
+
+#: inc/cli/cli_media.php:60
+msgid "Progress bar"
+msgstr "Förloppsindikator"
+
+#: inc/cli/cli_media.php:46
+msgid "You need to have the offload_media option enabled in order to use this command"
+msgstr "Du måste ha alternativet offload_media aktiverat för att kunna använda detta kommando"
+
+#: inc/admin.php:1022
+msgid "Please select one ..."
+msgstr "Välj ett alternativ …"
+
+#: inc/admin.php:1011
+msgid "You can try again to pull back the rest of the images."
+msgstr "Du kan försöka igen att återställa resten av bilderna."
+
+#: inc/admin.php:1016
+msgid "You can try again to offload the rest of the images to Optimole."
+msgstr "Du kan försöka igen att flytta undan resten av bilderna till Optimole."
+
+#: inc/admin.php:1013
+msgid "An unexpected error occured while offloading all existing images from your site to Optimole "
+msgstr "Ett oväntat fel inträffade när alla befintliga bilder skulle flyttas undan från din webbplats till Optimole"
+
+#: inc/admin.php:998
+msgid "Offload existing images"
+msgstr "Flytta undan befintliga bilder"
+
+#: inc/admin.php:980
+msgid "Only the images from the selected sites will be displayed on this site."
+msgstr "Endast bilder från valda webbplatser kommer att visas på denna webbplats."
+
+#: inc/admin.php:910
+msgid "Enable offloading images"
+msgstr "Aktivera undanflyttning av bilder"
+
+#: inc/cli/cli_media.php:41
+msgid "All images have been uploaded to your media library"
+msgstr "Alla bilder har laddats upp till ditt mediabibliotek"
+
+#: inc/media_offload.php:1001
+msgid "Push Image to Optimole"
+msgstr "Flytta över bilden till Optimole"
+
+#: inc/media_offload.php:737 inc/media_offload.php:738
+#: inc/media_offload.php:1002
+msgid "Restore image to media library"
+msgstr "Återställ bilden till mediabiblioteket"
+
+#: inc/media_offload.php:721 inc/media_offload.php:722
+msgid "Offload to Optimole"
+msgstr "Flytta undan till Optimole"
+
+#: inc/cli/cli_media.php:40
+msgid "Moving all images back to your media library"
+msgstr "Alla bilder flyttas tillbaka till mediabibliotetek"
+
+#: inc/admin.php:912
+msgid "Enable cloud library browsing"
+msgstr "Aktivera molnstödd bläddring i mediabiblioteket"
+
+#: inc/admin.php:973
+msgid "Site: "
+msgstr "Webbplats:"
+
+#: inc/admin.php:1010
+msgid "An unexpected error occured while pulling the offloaded back to your site"
+msgstr "Ett oväntat fel inträffade när de bortflyttade bilderna skulle återställas till webbplatsen"
+
+#: inc/admin.php:1018
+msgid "If you disable this option you will not be able to see the images in the media library without restoring the images first, do you want to restore the images to your site upon disabling the option ?"
+msgstr "Om du inaktiverar detta alternativ kommer du inte att kunna se bilderna i ditt mediabibliotek om du inte återställer dem först. Vill du återställa bilderna till din webbplats när alternativet inaktiveras?"
+
+#: inc/admin.php:913
+msgid "Allow access from this site to all images from your Optimole account. %1$s More details here%2$s"
+msgstr "Tillåt åtkomst från denna webbplats till alla bilder från ditt Optimole-konto. %1$s mer detaljer här%2$s"
+
+#: inc/admin.php:977
+msgid "Resize large images original source."
+msgstr "Storleksändra originalfilen för stora bilder."
+
+#: inc/admin.php:976
+msgid "We resize all images with sizes greater than the values defined here. Changing this option is not recommended unless large images are not being processed correctly. This does NOT affect the scaling of images on the frontend."
+msgstr "Vi storleksändrar alla bilder som är större än de mått som anges här. Vi rekommenderar inte att man ändrar denna inställning, utom omm stora bilder inte behandlas korrekt. Denna inställning påverkar INTE skalning av bilder i front-end."
+
+#: inc/rest.php:745
+msgid "The images from: %1$s are not optimized by Optimole. If you would like to do so, you can follow this: %2$sWhy Optimole does not optimize all the images from my site?%3$s."
+msgstr "Bilderna från %1$s optimeras inte av Optimole. Om du vill göra det kan du följa detta: %2$sVarför optimerar inte Optimole alla bilder på min webbplats?%3$s."
+
+#: inc/admin.php:903
+msgid "Lazyload iframes/videos"
+msgstr "Fördröjd inläsning av iframes/videoklipp"
+
+#: inc/admin.php:904
+msgid "Enable lazyload for embedded videos and iframes."
+msgstr "Aktivera fördröjd inläsning av inbäddade videoklipp och iframes."
+
+#: inc/admin.php:959
+msgid "Use browser native lazyload if supported, fallback to classic lazyload otherwise. When using browser native lazyload the auto scale feature is disabled"
+msgstr "Använd webbläsarens inbyggda ”lazyload” om stöd finns. Använd klassisk lazyload som reservlösning. När webbläsarens inbyggda lazyload används är funktionen för automatisk skalning inaktiverad"
+
+#: inc/admin.php:984
+msgid "Use native lazyload"
+msgstr "Använd inbyggt stöd för lazyload"
+
+#: inc/admin.php:312
+msgid "Optimole page analyzer"
+msgstr "Optimoles sidanalysator"
+
+#: inc/admin.php:93
+msgid "Troubleshoot this page"
+msgstr "Felsök den här sidan"
+
+#: inc/admin.php:87
+msgid "debugger"
+msgstr "felsökare"
+
+#: inc/admin.php:908
+msgid "Enable error diagnosis tool"
+msgstr "Aktivera verktyget för feldiagnosticering"
+
+#: inc/admin.php:311
+msgid "We are checking the current page for any issues with optimized images ..."
+msgstr "Vi kontrollerar om det finns några prolbem med optimerade bilder på den aktuella sidan …"
+
+#: inc/rest.php:730
+msgid "No images available on the current page."
+msgstr "Inga bilder finns tillgängliga på den aktuella sidan."
+
+#: inc/rest.php:757
+msgid "Your account is currently disabled due to exceeding quota and Optimole is no longer able to optimize the images. In order to fix this you will need to %1$supgrade%2$s."
+msgstr "Ditt konto är för närvarande inaktiverat eftersom du har överskridit din tillgängliga kapacitet och Optimole inte längre kan optimera dina bilder. För att korrigera detta behöver du %1$suppgradera%2$s."
+
+#: inc/rest.php:765
+msgid "The domain: %1$s is not allowed to optimize images using your Optimole account. You can add this to the allowed list %2$shere%3$s."
+msgstr "Domänen %1$s har inte tillstånd att optimera bilder via ditt konto hos Optimole. Du kan %2$slägga till den i listan över godkända domäner här%3$s."
+
+#: inc/rest.php:769
+msgid "We are not able to download the images from %1$s. Please check %2$sthis%3$s document for a more advanced guide on how to solve this. "
+msgstr "Vi kan inte ladda ned bilderna från %1$s. Läs %2$sdetta dokument som innehåller en mer avancerad guide över hur du kan lösa detta%3$s."
+
+#: inc/rest.php:777
+msgid "No issues detected, everything is running smoothly."
+msgstr "Inga problem hittades. Allt fungerar som det ska."
+
+#: inc/admin.php:909
+msgid "Provides a troubleshooting mechanism which should help you identify any possible issues with your site using Optimole."
+msgstr "Tillhandahåller en felsökningsmekanism som bör kunna hjälpa dig att hitta eventuella problem med att använda Optimole på din webbplats."
+
+#: inc/admin.php:986
+msgid "Off"
+msgstr "Av"
+
+#: inc/admin.php:985
+msgid "On"
+msgstr "På"
+
+#: inc/admin.php:983
+msgid "Scale Images"
+msgstr "Skala bilder"
+
+#: inc/admin.php:994
+msgid "Minify CSS files"
+msgstr "Minifera CSS-filer"
+
+#: inc/admin.php:996
+msgid "Minify JS files"
+msgstr "Minifera JS-filer"
+
+#: inc/admin.php:889
+msgid "Clear cached resources"
+msgstr "Rensa cachelagrade resurser"
+
+#: inc/admin.php:997
+msgid "Once Optimole will serve your JS files, it will also minify the files and serve them via CDN."
+msgstr "När dina JS-filer kommer att hämtas från Optimole kommer de samtidigt att komprimeras och levereras via ett CDN."
+
+#: inc/admin.php:995
+msgid "Once Optimole will serve your CSS files, it will also minify the files and serve them via CDN."
+msgstr "När dina CSS-filer kommer att hämtas från Optimole kommer de samtidigt att komprimeras och levereras via ett CDN."
+
+#: inc/admin.php:993
+msgid "Useful when you have images into CSS/JS files. Optimole will optimize the images from them and serve the CSS/JS through the CDN."
+msgstr "Användbart när du länkar till bilder i CSS/JS-filer. Optimole kommer att optimera bilderna som nämns i dem och leverera CSS/JS-koden via ett CDN."
+
+#: inc/admin.php:992
+msgid "Serve CSS & JS through Optimole"
+msgstr "Leverera CSS och JS via Optimole"
+
+#: inc/admin.php:888
+msgid "Clear all cached resources(images,js,css) by Optimole from this site. Useful if you updated them and Optimole shows the old version."
+msgstr "Rensa alla resurser (bilder,js,css) från denna webbplats som cachelagrats av Optimole. Detta är användbart om du har uppdaterat dem och Optimole visar den äldre versionen."
+
+#: inc/admin.php:955
+msgid "When this option is off, we disable the automatic scaling of images on lazyload."
+msgstr "När detta alternativ är avstängt inaktiverar vi automatisk skalning av bilder vid senarelagd inläsning (lazyload)."
+
+#: inc/rest.php:250
+msgid "Can not get new token from Optimole service"
+msgstr "Lyckades inte hämta en ny token från Optimole-tjänsten"
+
+#: inc/api.php:105
+msgid "You can clear cache only once per 5 minutes."
+msgstr "Du kan inte rensa cacheminnet oftare än var femte minut."
+
+#: inc/admin.php:892
+msgid "Clear cached images"
+msgstr "Rensa cachade bilder"
+
+#: inc/admin.php:871
+msgid "Site audit"
+msgstr "Webbplatsgranskning"
+
+#: inc/admin.php:869
+msgid "Extend visits limit"
+msgstr "Utöka besöksgräns"
+
+#: inc/admin.php:868
+msgid "Priority & Live Chat support"
+msgstr "Prioritet och support via livechat"
+
+#: inc/cli/cli_setting.php:126
+msgid "No setting to update"
+msgstr "Ingen inställning att uppdatera"
+
+#: inc/admin.php:826
+msgid "Here’s %1$show%2$s to install Optimole on your WordPress site in 3 steps."
+msgstr "Här %1$svisar vi hur%2$s du installerar Optimole på din WordPress-webbplats i tre steg."
+
+#: inc/admin.php:938
+msgid "Image class"
+msgstr "Bildklass"
+
+#: inc/admin.php:907
+msgid "Enable Gif to Video conversion"
+msgstr "Aktivera konvertering från Gif till video"
+
+#: inc/admin.php:945
+msgid "Automatically convert GIF images to Video files(MP4 and WebM)"
+msgstr "Konvertera automatiskt GIF-bilder till videofiler (MP4 och WebM)"
+
+#: inc/admin.php:988
+msgid "You can add each CSS selector on a new line or separated by comma(,)."
+msgstr "Du kan lägga till varje CSS-väljare på en ny rad eller åtskilda med komma (,)."
+
+#: inc/admin.php:902
+msgid "Enable lazyload for background images"
+msgstr "Aktivera uppskjuten inläsning för bakgrundsbilder"
+
+#: inc/admin.php:922
+msgid "Enable Retina images"
+msgstr "Aktivera retina-bilder"
+
+#: inc/admin.php:915
+msgid "Enabling this might affect the user experience in some cases, however it will reduce the number of total requests and page weight. Try it out and see how works best for you!"
+msgstr "Om du aktiverar detta kan det i vissa fall påverka användarupplevelsen, men det minskar antalet totala förfrågningar och sidans storlek. Testa det för att se om det fungerar i ditt fall!"
+
+#: inc/admin.php:853
+msgid "General"
+msgstr "Allmänt"
+
+#: inc/admin.php:852
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: inc/admin.php:870
+msgid "Custom domain"
+msgstr "Anpassad domän"
+
+#: inc/admin.php:943
+msgid "is"
+msgstr "är"
+
+#: inc/admin.php:941
+msgid "contains"
+msgstr "innehåller"
+
+#: inc/admin.php:944
+msgid "Page URL"
+msgstr "Sid-URL"
+
+#: inc/admin.php:857
+msgid "Watermark"
+msgstr "Vattenstämpel"
+
+#: inc/admin.php:963
+msgid "Selected value"
+msgstr "Valt värde"
+
+#: inc/admin.php:884
+msgid "Add filter"
+msgstr "Lägg till filter"
+
+#: inc/admin.php:920
+msgid "Enable Smart Cropping"
+msgstr "Aktivera smart beskärning"
+
+#: inc/admin.php:939
+msgid "Image extension"
+msgstr "Bildtillägg"
+
+#: inc/admin.php:940
+msgid "Image filename"
+msgstr "Bildfilnamn"
+
+#: inc/admin.php:851
+msgid "Compression"
+msgstr "Komprimering"
+
+#: inc/admin.php:850
+msgid "Resize"
+msgstr "Ändra storlek"
+
+#: inc/admin.php:849
+msgid "Exclusions"
+msgstr "Exkluderingar"
+
+#: inc/admin.php:987
+msgid "View sample image"
+msgstr "Visa exempelbild"
+
+#: inc/admin.php:929
+msgid "Don't optimize images if"
+msgstr "Optimera inte bilder om"
+
+#: inc/admin.php:855
+msgid "Lazyload"
+msgstr "Uppskjuten inläsning"
+
+#: inc/admin.php:896
+msgid "Inspecting the images from your site."
+msgstr "Inspekterar bilderna från din webbplats."
+
+#: inc/admin.php:894
+msgid "Connecting your site to the Optimole service."
+msgstr "Ansluter din webbplats till Optimole-tjänsten."
+
+#: inc/admin.php:918
+msgid "Enable network based optimizations"
+msgstr "Aktivera nätverksbaserade optimeringar"
+
+#: inc/admin.php:1067
+msgid "We are currently optimizing your images. Meanwhile you can visit your %1$shomepage%2$s and check how our plugin performs. "
+msgstr "Vi håller på att optimera dina bilder. Under tiden kan du besöka din %1$sstartsida%2$s och kolla hur vårt tillägg fungerar."
+
+#: inc/admin.php:919
+msgid "Detects the most interesting section of the image and considers it as the center of the resulting image."
+msgstr "Upptäcker bildens intressantaste del och använder detta som centrum för bilden som skapas."
+
+#: inc/admin.php:917
+msgid "Optimole provides an option to automatically downgrade the image quality when it detects a slower network."
+msgstr "Optimole erbjuder ett alternativ som kan nedgradera bildkvaliteten automatiskt om systemet detekterar ett långsamt nätverk."
+
+#: inc/admin.php:897
+msgid "All done, Optimole is currently optimizing your site."
+msgstr "Allt är klart. Optimole håller på att optimera webbplatsen."
+
+#: inc/admin.php:895
+msgid "Checking for possible conflicts."
+msgstr "Söker efter eventuella konflikter."
+
+#: inc/admin.php:861
+msgid "Details"
+msgstr "Detaljer"
+
+#: inc/admin.php:858
+msgid "Possible issues"
+msgstr "Möjliga problem"
+
+#: inc/admin.php:862
+msgid "I've done this."
+msgstr "Jag har gjort det här."
+
+#: inc/cli/cli_setting.php:40 inc/rest.php:248 inc/rest.php:285
+#: inc/rest.php:317
+msgid ". ERROR details: %s"
+msgstr ". FEL-detaljer: %s"
+
+#: inc/admin.php:863
+msgid "No conflicts found. We are all peachy now. 🍑"
+msgstr "Vi hittade inga konflikter. Allt är fröjd och solsken. 🌞"
+
+#: inc/admin.php:872
+msgid "View plans"
+msgstr "Visa paket"
+
+#: inc/admin.php:387
+msgid "Check upgrade plans"
+msgstr "Kolla uppgraderingspaket"
+
+#: inc/admin.php:1060
+msgid "Scale"
+msgstr "Skala"
+
+#: inc/admin.php:1057
+msgid "Offset Y"
+msgstr "Förskjutning Y"
+
+#: inc/admin.php:1056
+msgid "Offset X"
+msgstr "Förskjutning X"
+
+#: inc/admin.php:1055
+msgid "South-East"
+msgstr "Sydöst"
+
+#: inc/admin.php:1054
+msgid "South"
+msgstr "Söder"
+
+#: inc/admin.php:1053
+msgid "South-West"
+msgstr "Sydväst"
+
+#: inc/admin.php:1052
+msgid "East"
+msgstr "Öster"
+
+#: inc/admin.php:1051
+msgid "Center"
+msgstr "Centrerat"
+
+#: inc/admin.php:1050
+msgid "West"
+msgstr "Väst"
+
+#: inc/admin.php:1049
+msgid "North-East"
+msgstr "Nordost"
+
+#: inc/admin.php:1048
+msgid "North"
+msgstr "Norr"
+
+#: inc/admin.php:1047
+msgid "North-West"
+msgstr "Nordväst"
+
+#: inc/admin.php:1040
+msgid "Active watermark"
+msgstr "Aktivt vattenstämpel"
+
+#: inc/admin.php:1039
+msgid "Add new watermark"
+msgstr "Lägg till ny vattenstämpel"
+
+#: inc/admin.php:1038
+msgid "Upload"
+msgstr "Ladda upp"
+
+#: inc/admin.php:1037
+msgid "Action"
+msgstr "Åtgärd"
+
+#: inc/admin.php:1036
+msgid "Type"
+msgstr "Typ"
+
+#: inc/admin.php:1035
+msgid "Name"
+msgstr "Namn"
+
+#: inc/admin.php:1034
+msgid "ID"
+msgstr "ID"
+
+#: inc/admin.php:1033
+msgid "No images available for watermark. Please upload one."
+msgstr "Inga bilder tillgängliga för vattenstämpel. Ladda upp en."
+
+#: inc/admin.php:1031
+msgid "Possible watermarks"
+msgstr "Möjliga vattenstämplar"
+
+#: inc/admin.php:1046
+msgid "The place relative to the image where the watermark should be placed."
+msgstr "Platsen i förhållande till bilden där vattenstämpeln ska placeras."
+
+#: inc/rest.php:626
+msgid "Watermark image uploaded succesfully ! "
+msgstr "Vattenstämpelbild uppladdad utan problem!"
+
+#: inc/rest.php:623
+msgid "Error uploading image. Please try again."
+msgstr "Fel vid uppladdning av bild. Försök igen."
+
+#: inc/admin.php:1030
+msgid "You are allowed to save maximum 5 images."
+msgstr "Du har tillåtelse att spara maximalt 5 bilder."
+
+#: inc/admin.php:1029
+msgid "Removing watermark resource ..."
+msgstr "Tar bort vattenstämpelresurs…"
+
+#: optimole-wp.php:58
+msgid "%1$s You're using a PHP version lower than 5.4! %2$sOptimole%3$s requires at least %4$sPHP 5.4%5$s to function properly. Plugin has been deactivated. %6$sLearn more here%5$s. %7$s"
+msgstr "%1$s Du använder en PHP-version lägre än 5.4! %2$sOptimole%3$s kräver minst %4$sPHP 5.4%5$s för att fungera korrekt. Tillägget har avaktiverats. %6$sLär dig mer här%5$s. %7$s"
+
+#: inc/rest.php:360
+msgid "Error creating account."
+msgstr "Fel vid skapande av konto"
+
+#: inc/admin.php:1032
+msgid "Watermarks position settings"
+msgstr "Positionsinställningar för vattenstämplar"
+
+#: inc/admin.php:1045
+msgid "Watermark position"
+msgstr "Vattenstämpelns position"
+
+#: inc/admin.php:1041
+msgid "The active watermark to use from the list of uploaded watermarks."
+msgstr "Den aktiva vattenstämpeln som ska användas från listan över uppladdade vattenstämplar."
+
+#: inc/admin.php:1058
+msgid "Watermark offset"
+msgstr "Vattenstämpelförskjutning"
+
+#: inc/admin.php:1059
+msgid "Offset the watermark from set position on X and Y axis. Values can be positive or negative."
+msgstr "Förskjut vattenstämpeln från inställd position på X- och Y-axeln. Värdena kan vara positiva eller negativa."
+
+#: inc/admin.php:1042
+msgid "Opacity"
+msgstr "Opacitet"
+
+#: inc/admin.php:1061
+msgid "Watermark scale"
+msgstr "Skala vattenstämpel"
+
+#: inc/admin.php:1043
+msgid "Watermark opacity"
+msgstr "Opacitet för vattenstämpel"
+
+#: inc/admin.php:1044
+msgid "A value between 0 and 100 for the opacity level. If set to 0 it will disable the watermark."
+msgstr "Ett värde för opacitetsnivån, mellan 0 och 100. Om 0 är angivet kommer vattenstämpeln inte att visas."
+
+#: inc/admin.php:495
+msgid "I will do it later"
+msgstr "Jag gör det senare"
+
+#: inc/admin.php:492
+msgid "Connect to OptiMole"
+msgstr "Anslut till OptiMole"
+
+#: inc/admin.php:489
+msgid "Welcome to %1$sOptiMole%2$s, the easiest way to optimize your website images. Your users will enjoy a %3$sfaster%4$s website after you connect it with our service."
+msgstr "Välkommen till %1$sOptiMole%2$s, det enklaste sättet att optimera dina webbplatsbilder. Dina användare kommer att njuta av en %3$ssnabbare%4$s webbplats efter att du har anslutit den till vår tjänst."
+
+#: inc/admin.php:970 inc/admin.php:1063
+msgid "Save changes"
+msgstr "Spara ändringar"
+
+#: inc/admin.php:946
+msgid "Height"
+msgstr "Höjd"
+
+#: inc/admin.php:990
+msgid "Width"
+msgstr "Bredd"
+
+#: inc/admin.php:953
+msgid "Optimized"
+msgstr "Optimerad"
+
+#: inc/admin.php:952
+msgid "Original"
+msgstr "Original"
+
+#: inc/admin.php:960
+msgid "Option saved."
+msgstr "Alternativ sparat."
+
+#: inc/admin.php:887
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/admin.php:956
+msgid "Low"
+msgstr "Låg"
+
+#: inc/admin.php:957
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/admin.php:951
+msgid "High"
+msgstr "Hög"
+
+#: inc/admin.php:332 inc/admin.php:848
+msgid "Settings"
+msgstr "Inställningar"
+
+#: inc/admin.php:847
+msgid "Dashboard"
+msgstr "Adminpanel"
+
+#: inc/admin.php:801
+msgid "Register account"
+msgstr "Registrera konto"
+
+#: inc/admin.php:800
+msgid "I already have an API key."
+msgstr "Jag har redan en API-nyckel."
+
+#: inc/admin.php:797
+msgid "Enter your API key."
+msgstr "Ange din API-nyckel."
+
+#: inc/admin.php:794
+msgid "Your email address"
+msgstr "Din e-postadress"
+
+#: inc/admin.php:785
+msgid "Sign-up for API key"
+msgstr "Registrera för API-nyckel"
+
+#: inc/admin.php:774
+msgid "Image optimization service"
+msgstr "Bildoptimeringstjänst"
+
+#: inc/admin.php:773
+msgid "Test Optimole"
+msgstr "Testa Optimole"
+
+#: inc/admin.php:772
+msgid "Privacy"
+msgstr "Integritet"
+
+#: inc/admin.php:771
+msgid "Terms"
+msgstr "Termer"
+
+#: inc/admin.php:813
+msgid "In order to get access to free image optimization service you will need an API key from %s."
+msgstr "För att få åtkomst till gratis bildoptimeringstjänst behöver du en API-nyckel från %s."
+
+#: inc/admin.php:803
+msgid "Error registering account. You can try again %1$shere%2$s "
+msgstr "Fel vid registrering av konto. Du kan försöka igen %1$shär%2$s"
+
+#: inc/admin.php:886
+msgid "Show in the WordPress admin bar the available quota from Optimole service."
+msgstr "Visa i WordPress-adminmenyn den tillgängliga kvoten från Optimole-tjänsten."
+
+#: inc/admin.php:969
+msgid "Loading a sample image. "
+msgstr "Laddar in en provbild."
+
+#: inc/admin.php:964
+msgid "See one sample image which will help you choose the right quality of the compression."
+msgstr "Se en provbild som hjälper dig att välja rätt kompressionskvalitet."
+
+#: inc/admin.php:775
+msgid "Connect to Optimole"
+msgstr "Anslut till Optimole"
+
+#: inc/admin.php:1069
+msgid "Loading your optimized images..."
+msgstr "Laddar dina optimerade bilder…"
+
+#. Plugin Name of the plugin
+msgid "Image optimization service by Optimole"
+msgstr "Bildoptimeringstjänst av Optimole"
+
+#. Author URI of the plugin
+msgid "https://optimole.com"
+msgstr "https://optimole.com"
+
+#. Description of the plugin
+msgid "Complete handling of your website images."
+msgstr "Fullständig hantering av dina webbplatsbilder."
+
+#: inc/admin.php:1072
+msgid "🙉 We couldn't do better, this image is already optimized at maximum. "
+msgstr "🙉 Vi kunde inte göra det bättre, denna bild är redan optimerad maximalt. "
+
+#: inc/admin.php:1071
+msgid "optimized images"
+msgstr "optimerade bilder"
+
+#: inc/admin.php:1070
+msgid "Last"
+msgstr "Sista"
+
+#: inc/admin.php:1068
+msgid "Optimization"
+msgstr "Optimering"
+
+#: inc/admin.php:1028 inc/admin.php:1066
+msgid "Image"
+msgstr "Bild"
+
+#: inc/admin.php:898
+msgid "Disabled"
+msgstr "Inaktiverad"
+
+#: inc/admin.php:924
+msgid "Enabled"
+msgstr "Aktiverad"
+
+#: inc/admin.php:950
+msgid "Hide"
+msgstr "Dölj"
+
+#: inc/admin.php:971
+msgid "Show"
+msgstr "Visa"
+
+#: inc/admin.php:806
+msgid "Monthly Usage"
+msgstr "Månatlig användning"
+
+#: inc/admin.php:786
+msgid "Invalid API Key"
+msgstr "Ogiltig API-nyckel"
+
+#: inc/admin.php:784
+msgid "API Key"
+msgstr "API-nyckel"
+
+#: inc/admin.php:776
+msgid "Disconnect"
+msgstr "Koppla från"
+
+#. Author of the plugin
+msgid "Optimole"
+msgstr "Optimole"
+
+#: inc/api.php:467 inc/api.php:479 inc/lazyload_replacer.php:543
+#: inc/lazyload_replacer.php:556 inc/main.php:233 inc/main.php:243
+#: inc/manager.php:610 inc/manager.php:623 inc/tag_replacer.php:514
+#: inc/tag_replacer.php:527 inc/url_replacer.php:280 inc/url_replacer.php:293
+msgid "Cheatin&#8217; huh?"
+msgstr "Fuskar du, va?"
+
+#: inc/admin.php:914
+msgid "Enable image replacement"
+msgstr "Aktivera bildersättning"
+
+#: inc/admin.php:1073
+msgid "😬 Not that much, just <strong>{ratio}</strong> smaller."
+msgstr "😬 Inte så mycket, bara <strong>{ratio}</strong> mindre."
+
+#: inc/cli/cli_setting.php:43 inc/rest.php:287 inc/rest.php:319
+msgid "Can not connect to Optimole service"
+msgstr "Kan inte ansluta till Optimole-tjänsten"
+
+#: inc/admin.php:981
+msgid "Admin bar status"
+msgstr "Status i adminmenyn"
+
+#: inc/admin.php:1075
+msgid "❤️❤️❤️ Our moles just nailed it, this one is <strong>{ratio}</strong> smaller.  "
+msgstr "❤️❤️❤️ Våra flitiga mullvadar har just fixat det. Den här är <strong>{ratio}</strong> mindre."
+
+#: inc/admin.php:1074
+msgid "🤓 We are on the right track, <strong>{ratio}</strong> squeezed."
+msgstr "🤓 Vi är på rätt väg, <strong>{ratio}</strong> har komprimerats."

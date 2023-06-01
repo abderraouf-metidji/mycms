@@ -1,0 +1,825 @@
+# Translation of Plugins - Otter &#8211; Gutenberg Blocks – Page Builder for Gutenberg Editor &amp; FSE - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - Otter &#8211; Gutenberg Blocks – Page Builder for Gutenberg Editor &amp; FSE - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-07 08:58:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Otter &#8211; Gutenberg Blocks – Page Builder for Gutenberg Editor &amp; FSE - Development (trunk)\n"
+
+#: inc/integrations/api/form-response-data.php:323
+msgid "The email address is invalid."
+msgstr "E-postadressen är ogiltig."
+
+#: inc/integrations/api/form-response-data.php:319
+msgid "API Key is missing."
+msgstr "API-nyckel saknas."
+
+#: inc/integrations/api/form-response-data.php:321
+msgid "The API key format is invalid."
+msgstr "Format på API-nyckeln är ogiltig."
+
+#: inc/integrations/api/form-response-data.php:320
+msgid "The reCaptcha token is invalid."
+msgstr "reCaptcha-token är ogiltig."
+
+#: inc/integrations/api/form-response-data.php:312
+msgid "Form ID is invalid."
+msgstr "Formulär-ID är ogiltigt."
+
+#: inc/integrations/api/form-response-data.php:308
+msgid "Captcha token is missing."
+msgstr "Captcha-token saknas."
+
+#: build/blocks/stripe-checkout/block.json
+msgctxt "block keyword"
+msgid "payment"
+msgstr "betalning"
+
+#: inc/render/class-posts-grid-block.php:210
+msgid "Updated on"
+msgstr "Uppdaterad den"
+
+#: build/blocks/stripe-checkout/block.json
+msgctxt "block keyword"
+msgid "checkout"
+msgstr "kassa"
+
+#: inc/server/class-stripe-server.php:78
+msgid "ID of the Product."
+msgstr "ID för produkten."
+
+#: inc/render/class-stripe-checkout-block.php:112 build/blocks/blocks.js:16
+msgid "Checkout"
+msgstr "Kassa"
+
+#: inc/patterns/team-members.php:9
+msgid "Team Members"
+msgstr "Teammedlemmar"
+
+#: inc/patterns/large-quote.php:9
+msgid "Large Quote"
+msgstr "Stort citat"
+
+#: inc/patterns/image-and-text-over-dark-background.php:9
+msgid "Image and Text over Dark Background"
+msgstr "Bild och text över mörk bakgrund"
+
+#: inc/patterns/icons-and-text.php:9
+msgid "Icons and Text"
+msgstr "Ikoner och text"
+
+#: inc/patterns/gallery.php:9
+msgid "Gallery"
+msgstr "Galleri"
+
+#: inc/patterns/author-box.php:9
+msgid "Author Box"
+msgstr "Författarruta"
+
+#: inc/patterns/text-with-image-columns.php:9
+msgid "Text with Image Columns"
+msgstr "Text med bildkolumner"
+
+#. translators: Overall rating from 1 to 10.
+#: inc/render/class-review-block.php:84 inc/render/class-review-block.php:129
+msgid "%1$g out of %2$g"
+msgstr "%1$g av %2$g"
+
+#: inc/server/class-dynamic-content-server.php:118
+msgid "Meta key."
+msgstr "Metanyckel."
+
+#: inc/server/class-dynamic-content-server.php:107
+msgid "Fallback image."
+msgstr "Reservbild."
+
+#: inc/server/class-dynamic-content-server.php:74
+msgid "Unique ID."
+msgstr "Unikt ID."
+
+#: inc/server/class-dynamic-content-server.php:62
+msgid "Image Type."
+msgstr "Bildtyp."
+
+#: inc/class-pro.php:322
+msgid "Dismiss notice"
+msgstr "Avfärda notis"
+
+#: inc/class-pro.php:321 build/blocks/blocks.js:16
+msgid "Learn more"
+msgstr "Lär dig mer"
+
+#: inc/class-pro.php:309
+msgid "You're using Otter!"
+msgstr "Du använder Otter!"
+
+#: inc/class-pro.php:236 build/dashboard/index.js:1
+msgid "Priority Support"
+msgstr "Prioriterad support"
+
+#: inc/class-pro.php:240
+msgid "Discover Otter Pro"
+msgstr "Utforska Otter Pro"
+
+#: inc/class-pro.php:358
+msgid "Monthly"
+msgstr "En gång i månaden"
+
+#: inc/integrations/class-form-email.php:248
+msgid "Error: "
+msgstr "Fel: "
+
+#: inc/class-registration.php:505
+msgid "The email address is invalid!"
+msgstr "E-postadressen är ogiltig!"
+
+#: inc/class-pro.php:273
+msgid "Update"
+msgstr "Uppdatera"
+
+#: inc/class-pro.php:252
+msgid "Activate License"
+msgstr "Aktivera licens"
+
+#: inc/class-pro.php:404 build/blocks/blocks.js:16
+msgid "Get Otter Pro"
+msgstr "Skaffa Otter Pro"
+
+#: inc/class-registration.php:442 build/blocks/blocks.js:1
+msgid "Second"
+msgstr "Sekund"
+
+#: inc/class-registration.php:443 build/blocks/blocks.js:1
+msgid "Seconds"
+msgstr "Sekunder"
+
+#: inc/class-registration.php:444 build/blocks/blocks.js:1
+msgid "Minute"
+msgstr "Minut"
+
+#: inc/class-registration.php:446 build/blocks/blocks.js:1
+msgid "Hour"
+msgstr "Timme"
+
+#: inc/class-registration.php:449 build/blocks/blocks.js:1
+msgid "Days"
+msgstr "Dagar"
+
+#: build/blocks/testimonials/block.json
+msgctxt "block title"
+msgid "Testimonials"
+msgstr "Omdömen"
+
+#: build/blocks/form-multiple-choice/block.json build/blocks/tabs/block.json
+msgctxt "block keyword"
+msgid "select"
+msgstr "välj"
+
+#: build/blocks/tabs/block.json
+msgctxt "block title"
+msgid "Tabs"
+msgstr "Flikar"
+
+#: build/blocks/slider/block.json
+msgctxt "block keyword"
+msgid "carousel"
+msgstr "karusell"
+
+#: build/blocks/slider/block.json
+msgctxt "block keyword"
+msgid "gallery"
+msgstr "galleri"
+
+#: build/blocks/slider/block.json
+msgctxt "block keyword"
+msgid "slider"
+msgstr "bildspel"
+
+#: build/blocks/sharing-icons/block.json
+msgctxt "block style label"
+msgid "Icons Only"
+msgstr "Endast ikoner"
+
+#: build/blocks/sharing-icons/block.json
+msgctxt "block style label"
+msgid "Regular"
+msgstr "Normal"
+
+#: build/blocks/sharing-icons/block.json
+msgctxt "block keyword"
+msgid "social media"
+msgstr "sociala medier"
+
+#: build/blocks/sharing-icons/block.json
+msgctxt "block title"
+msgid "Sharing Icons"
+msgstr "Delningsikoner"
+
+#: build/blocks/service/block.json
+msgctxt "block keyword"
+msgid "features"
+msgstr "funktioner"
+
+#: build/blocks/service/block.json
+msgctxt "block keyword"
+msgid "services"
+msgstr "tjänster"
+
+#: build/blocks/service/block.json
+msgctxt "block title"
+msgid "Service"
+msgstr "Tjänst"
+
+#: build/blocks/review/block.json
+msgctxt "block keyword"
+msgid "stars"
+msgstr "stjärnor"
+
+#: build/blocks/review/block.json
+msgctxt "block title"
+msgid "Product Review"
+msgstr "Produktrecension"
+
+#: build/blocks/review/block.json
+msgctxt "block keyword"
+msgid "review"
+msgstr "recensera"
+
+#: build/blocks/review/block.json
+msgctxt "block keyword"
+msgid "product"
+msgstr "produkt"
+
+#: build/blocks/progress-bar/block.json
+msgctxt "block title"
+msgid "Progress Bar"
+msgstr "Förloppsindikator"
+
+#: build/blocks/tabs/block.json
+msgctxt "block keyword"
+msgid "tabs"
+msgstr "flikar"
+
+#: build/blocks/pricing/block.json
+msgctxt "block keyword"
+msgid "money"
+msgstr "pengar"
+
+#: build/blocks/pricing/block.json
+msgctxt "block keyword"
+msgid "table"
+msgstr "tabell"
+
+#: build/blocks/pricing/block.json
+msgctxt "block keyword"
+msgid "pricing"
+msgstr "priser"
+
+#: build/blocks/pricing/block.json
+msgctxt "block title"
+msgid "Pricing"
+msgstr "Priser"
+
+#: build/blocks/posts-grid/block.json
+msgctxt "block keyword"
+msgid "grid"
+msgstr "rutnät"
+
+#: build/blocks/posts-grid/block.json
+msgctxt "block keyword"
+msgid "posts"
+msgstr "inlägg"
+
+#: build/blocks/posts-grid/block.json
+msgctxt "block title"
+msgid "Posts"
+msgstr "Inlägg"
+
+#: build/blocks/popup/block.json
+msgctxt "block keyword"
+msgid "lightbox"
+msgstr "lightbox"
+
+#: build/blocks/popup/block.json
+msgctxt "block keyword"
+msgid "modal"
+msgstr "modal"
+
+#: build/blocks/popup/block.json
+msgctxt "block keyword"
+msgid "popup"
+msgstr "popup"
+
+#: build/blocks/popup/block.json
+msgctxt "block title"
+msgid "Popup"
+msgstr "Popup"
+
+#: build/blocks/plugin-cards/block.json
+msgctxt "block keyword"
+msgid "card"
+msgstr "kort"
+
+#: build/blocks/plugin-cards/block.json
+msgctxt "block keyword"
+msgid "plugin"
+msgstr "tillägg"
+
+#: build/blocks/lottie/block.json
+msgctxt "block keyword"
+msgid "lottie"
+msgstr "lottie"
+
+#: build/blocks/lottie/block.json build/blocks/tabs-item/block.json
+#: build/blocks/tabs/block.json
+msgctxt "block keyword"
+msgid "media"
+msgstr "media"
+
+#: build/blocks/leaflet-map/block.json
+msgctxt "block keyword"
+msgid "location"
+msgstr "plats"
+
+#: build/blocks/leaflet-map/block.json
+msgctxt "block keyword"
+msgid "opeenstreetmap"
+msgstr "opeenstreetmap"
+
+#: build/blocks/leaflet-map/block.json
+msgctxt "block title"
+msgid "Maps"
+msgstr "Kartor"
+
+#: build/blocks/icon-list/block.json
+msgctxt "block title"
+msgid "Icon List"
+msgstr "Ikonlista"
+
+#: build/blocks/icon-list-item/block.json build/blocks/icon-list/block.json
+msgctxt "block keyword"
+msgid "list"
+msgstr "lista"
+
+#: build/blocks/icon-list-item/block.json build/blocks/icon-list/block.json
+#: build/blocks/service/block.json
+msgctxt "block keyword"
+msgid "icon"
+msgstr "ikon"
+
+#: build/blocks/google-map/block.json build/blocks/plugin-cards/block.json
+msgctxt "block keyword"
+msgid "orbitfox"
+msgstr "orbitfox"
+
+#: build/blocks/google-map/block.json
+msgctxt "block keyword"
+msgid "google"
+msgstr "google"
+
+#: build/blocks/google-map/block.json build/blocks/leaflet-map/block.json
+msgctxt "block keyword"
+msgid "map"
+msgstr "karta"
+
+#: build/blocks/google-map/block.json
+msgctxt "block title"
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: build/blocks/form-multiple-choice/block.json build/blocks/form/block.json
+msgctxt "block keyword"
+msgid "form"
+msgstr "formulär"
+
+#: build/blocks/form/block.json
+msgctxt "block title"
+msgid "Form"
+msgstr "Formulär"
+
+#: build/blocks/form-textarea/block.json
+msgctxt "block keyword"
+msgid "message"
+msgstr "meddelande"
+
+#: build/blocks/form-textarea/block.json
+msgctxt "block keyword"
+msgid "textarea"
+msgstr "textområde"
+
+#: build/blocks/form-file/block.json build/blocks/form-nonce/block.json
+msgctxt "block keyword"
+msgid "field"
+msgstr "fält"
+
+#: build/blocks/form-nonce/block.json
+msgctxt "block keyword"
+msgid "csrf"
+msgstr "csrf"
+
+#: build/blocks/form-nonce/block.json
+msgctxt "block keyword"
+msgid "protection"
+msgstr "skydd"
+
+#: build/blocks/form-input/block.json build/blocks/form/block.json
+msgctxt "block keyword"
+msgid "email"
+msgstr "e-post"
+
+#: build/blocks/form-input/block.json
+msgctxt "block keyword"
+msgid "text"
+msgstr "text"
+
+#: build/blocks/form-input/block.json
+msgctxt "block title"
+msgid "Text Field"
+msgstr "Textfält"
+
+#: build/blocks/font-awesome-icons/block.json
+#: build/blocks/sharing-icons/block.json
+msgctxt "block keyword"
+msgid "icons"
+msgstr "ikoner"
+
+#: build/blocks/font-awesome-icons/block.json
+msgctxt "block keyword"
+msgid "dashicons"
+msgstr "dashicons"
+
+#: build/blocks/font-awesome-icons/block.json
+msgctxt "block keyword"
+msgid "font awesome"
+msgstr "font awesome"
+
+#: build/blocks/font-awesome-icons/block.json
+msgctxt "block title"
+msgid "Icon"
+msgstr "Ikon"
+
+#: build/blocks/flip/block.json
+msgctxt "block keyword"
+msgid "container"
+msgstr "behållare"
+
+#: build/blocks/countdown/block.json
+msgctxt "block keyword"
+msgid "countdown"
+msgstr "nedräkning"
+
+#: build/blocks/countdown/block.json
+msgctxt "block title"
+msgid "Countdown"
+msgstr "Nedräkning"
+
+#: build/blocks/circle-counter/block.json build/blocks/countdown/block.json
+msgctxt "block keyword"
+msgid "counter"
+msgstr "räknare"
+
+#: build/blocks/circle-counter/block.json
+msgctxt "block keyword"
+msgid "circle"
+msgstr "cirkel"
+
+#: build/blocks/circle-counter/block.json build/blocks/progress-bar/block.json
+msgctxt "block keyword"
+msgid "progress"
+msgstr "förlopp"
+
+#: build/blocks/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "Knapp"
+
+#: build/blocks/button-group/block.json build/blocks/button/block.json
+msgctxt "block keyword"
+msgid "button group"
+msgstr "knappgrupp"
+
+#: build/blocks/button-group/block.json build/blocks/button/block.json
+msgctxt "block keyword"
+msgid "buttons"
+msgstr "knappar"
+
+#: build/blocks/button-group/block.json build/blocks/button/block.json
+msgctxt "block keyword"
+msgid "button"
+msgstr "knapp"
+
+#: build/blocks/button-group/block.json
+msgctxt "block title"
+msgid "Button Group"
+msgstr "Knappgrupp"
+
+#: build/blocks/countdown/block.json
+msgctxt "block keyword"
+msgid "time"
+msgstr "tid"
+
+#: build/blocks/form/block.json build/blocks/testimonials/block.json
+msgctxt "block keyword"
+msgid "business"
+msgstr "företag"
+
+#: build/blocks/advanced-heading/block.json
+msgctxt "block keyword"
+msgid "title"
+msgstr "rubrik"
+
+#: build/blocks/advanced-heading/block.json
+msgctxt "block keyword"
+msgid "heading"
+msgstr "rubrik"
+
+#: build/blocks/advanced-columns/block.json
+msgctxt "block keyword"
+msgid "section"
+msgstr "sektion"
+
+#: build/blocks/advanced-columns/block.json
+msgctxt "block keyword"
+msgid "layout"
+msgstr "layout"
+
+#: build/blocks/advanced-columns/block.json
+msgctxt "block keyword"
+msgid "advanced columns"
+msgstr "avancerade kolumner"
+
+#: build/blocks/advanced-columns/block.json
+msgctxt "block title"
+msgid "Section"
+msgstr "Sektion"
+
+#: build/blocks/accordion/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr "Dragspel"
+
+#: build/blocks/accordion-item/block.json build/blocks/accordion/block.json
+msgctxt "block keyword"
+msgid "faq"
+msgstr "vanliga frågor"
+
+#: build/blocks/accordion-item/block.json build/blocks/accordion/block.json
+msgctxt "block keyword"
+msgid "collapse"
+msgstr "minimera"
+
+#: build/blocks/about-author/block.json
+msgctxt "block keyword"
+msgid "profile"
+msgstr "profil"
+
+#: build/blocks/about-author/block.json
+msgctxt "block keyword"
+msgid "author"
+msgstr "författare"
+
+#: build/blocks/about-author/block.json
+msgctxt "block keyword"
+msgid "about"
+msgstr "om"
+
+#: build/blocks/about-author/block.json
+msgctxt "block title"
+msgid "About Author"
+msgstr "Om författare"
+
+#: inc/render/class-posts-grid-block.php:278
+msgid "Read More"
+msgstr "Läs mer"
+
+#: inc/render/class-posts-grid-block.php:239 build/blocks/blocks.js:11
+msgid "comments"
+msgstr "kommentarer"
+
+#: inc/render/class-posts-grid-block.php:239
+msgid "comment"
+msgstr "kommentar"
+
+#: build/blocks/testimonials/block.json
+msgctxt "block keyword"
+msgid "quotes"
+msgstr "citat"
+
+#: build/blocks/testimonials/block.json
+msgctxt "block keyword"
+msgid "testimonials"
+msgstr "omdömen"
+
+#: build/blocks/tabs-item/block.json
+msgctxt "block keyword"
+msgid "tab"
+msgstr "flik"
+
+#: build/blocks/posts-grid/block.json
+msgctxt "block keyword"
+msgid "news"
+msgstr "nyheter"
+
+#: build/blocks/stripe-checkout/block.json
+msgctxt "block keyword"
+msgid "stripe"
+msgstr "stripe"
+
+#: inc/class-registration.php:448 build/blocks/blocks.js:1
+msgid "Day"
+msgstr "Dag"
+
+#: inc/class-registration.php:445 build/blocks/blocks.js:1
+msgid "Minutes"
+msgstr "Minuter"
+
+#: inc/class-registration.php:447 build/blocks/blocks.js:1
+msgid "Hours"
+msgstr "Timmar"
+
+#: inc/patterns/countdown.php:9 build/blocks/blocks.js:1
+msgid "Countdown"
+msgstr "Nedräkning"
+
+#: inc/integrations/class-form-email.php:89
+#: inc/integrations/class-form-email.php:196
+#: inc/integrations/class-form-email.php:282
+msgid "Mail From: "
+msgstr "E-post från: "
+
+#: inc/integrations/providers/class-mailchimp.php:222
+msgid "Invalid API Key format!"
+msgstr "Ogiltigt format på API-nyckel!"
+
+#: inc/integrations/providers/class-mailchimp.php:213
+#: inc/integrations/providers/class-sendinblue.php:194
+msgid "API Key is missing!"
+msgstr "API-nyckel saknas!"
+
+#: inc/class-registration.php:504
+msgid "Please check the captcha."
+msgstr "Kontrollera captcha."
+
+#: inc/class-patterns.php:41 build/blocks/blocks.js:16
+msgid "Pricing"
+msgstr "Priser"
+
+#: inc/class-patterns.php:39 inc/patterns/call-to-action.php:9
+msgid "Call to Action"
+msgstr "Uppmaning till åtgärd"
+
+#: inc/class-patterns.php:42 build/blocks/blocks.js:16
+msgid "Testimonials"
+msgstr "Omdömen"
+
+#: inc/class-patterns.php:40
+msgid "Team"
+msgstr "Team"
+
+#: inc/patterns/content-with-features.php:9
+msgid "Content with Features"
+msgstr "Innehåll med funktioner"
+
+#: inc/css/class-css-handler.php:127 inc/css/class-css-handler.php:214
+msgid "CSS updated."
+msgstr "CSS uppdaterad."
+
+#: inc/plugins/class-options-settings.php:152
+msgid "Anonymous data tracking object."
+msgstr "Anonyma dataspårningsobjekt."
+
+#: inc/server/class-dashboard-server.php:121
+msgid "Sorry, the directory doesn't exist."
+msgstr "Katalogen finns inte."
+
+#: inc/server/class-dashboard-server.php:102
+msgid "Sorry, the filesystem isn't writeable."
+msgstr "Filsystemet är inte skrivbart."
+
+#: inc/server/class-dashboard-server.php:137
+msgid "Styles deleted."
+msgstr "Stilar borttagna."
+
+#: inc/plugins/class-options-settings.php:142 build/dashboard/index.js:1
+msgid "Become a contributor by opting in to our anonymous data tracking. We guarantee no sensitive data is collected."
+msgstr "Bli bidragsgivare genom att tacka ja till vår anonyma dataspårning. Vi garanterar att inga känsliga uppgifter samlas in."
+
+#: inc/plugins/class-dashboard.php:55 inc/plugins/class-dashboard.php:56
+#: otter-blocks.php:69 build/blocks/blocks.js:1 build/blocks/blocks.js:5
+#: build/blocks/blocks.js:11 build/blocks/blocks.js:12
+#: build/blocks/blocks.js:16
+msgid "Settings"
+msgstr "Inställningar"
+
+#: inc/plugins/class-options-settings.php:76 build/dashboard/index.js:1
+msgid "Blocks Animation module allows to add CSS animations to each block in Block Editor."
+msgstr "Modul för blockanimering gör det möjligt att lägga till CSS-animeringar för varje block i blockredigeraren."
+
+#: inc/plugins/class-options-settings.php:43
+msgid "Redirect on new install."
+msgstr "Omdirigera efter nyinstallation."
+
+#: inc/plugins/class-options-settings.php:65 build/dashboard/index.js:1
+msgid "Custom CSS module allows to add custom CSS to each block in Block Editor."
+msgstr "Modulen för anpassad CSS låter dig lägga till anpassad CSS för varje block i blockredigeraren."
+
+#: inc/class-registration.php:113
+msgid "Otter"
+msgstr "Otter"
+
+#. Plugin URI of the plugin
+msgid "https://themeisle.com/plugins/otter-blocks"
+msgstr "https://themeisle.com/plugins/otter-blocks"
+
+#. Author of the plugin
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Author URI of the plugin
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#: inc/render/class-sharing-icons-block.php:69 build/blocks/blocks.js:16
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/render/class-sharing-icons-block.php:63 build/blocks/blocks.js:16
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/render/class-sharing-icons-block.php:57 build/blocks/blocks.js:16
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/render/class-sharing-icons-block.php:51 build/blocks/blocks.js:16
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/render/class-sharing-icons-block.php:45 build/blocks/blocks.js:16
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/render/class-sharing-icons-block.php:39 build/blocks/blocks.js:16
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/render/class-posts-grid-block.php:227
+msgid "by"
+msgstr "av"
+
+#: inc/render/class-plugin-card-block.php:109
+msgid "Something went wrong"
+msgstr "Något gick fel"
+
+#: inc/render/class-plugin-card-block.php:87
+msgid "Download"
+msgstr "Ladda ner"
+
+#: inc/render/class-plugin-card-block.php:81
+msgid "tested up to"
+msgstr "testad upp till"
+
+#: inc/render/class-plugin-card-block.php:77
+msgid "version"
+msgstr "version"
+
+#: inc/render/class-plugin-card-block.php:73
+msgid "active installs"
+msgstr "aktiva installationer"
+
+#: inc/class-registration.php:1029 inc/class-registration.php:1041
+#: inc/css/class-block-frontend.php:700 inc/css/class-block-frontend.php:712
+#: inc/css/class-css-handler.php:510 inc/css/class-css-handler.php:522
+#: inc/integrations/class-form-email.php:302
+#: inc/integrations/class-form-email.php:314
+#: inc/integrations/class-form-providers.php:141
+#: inc/integrations/class-form-providers.php:153
+#: inc/plugins/class-block-conditions.php:296
+#: inc/plugins/class-block-conditions.php:308
+#: inc/plugins/class-dashboard.php:301 inc/plugins/class-dashboard.php:313
+#: inc/plugins/class-dynamic-content.php:682
+#: inc/plugins/class-dynamic-content.php:694
+#: inc/plugins/class-options-settings.php:615
+#: inc/plugins/class-options-settings.php:627
+#: inc/render/amp/class-circle-counter-block.php:103
+#: inc/render/amp/class-circle-counter-block.php:115
+#: inc/render/amp/class-lottie.block.php:85
+#: inc/render/amp/class-lottie.block.php:97
+#: inc/render/amp/class-slider-block.php:87
+#: inc/render/amp/class-slider-block.php:99
+#: inc/render/class-masonry-variant.php:105
+#: inc/render/class-masonry-variant.php:117
+#: inc/server/class-dashboard-server.php:200
+#: inc/server/class-dashboard-server.php:212
+#: inc/server/class-dynamic-content-server.php:255
+#: inc/server/class-dynamic-content-server.php:267
+#: inc/server/class-form-server.php:940 inc/server/class-form-server.php:952
+#: inc/server/class-stripe-server.php:159
+#: inc/server/class-stripe-server.php:171
+msgid "Cheatin&#8217; huh?"
+msgstr "Fuskar du, va?"

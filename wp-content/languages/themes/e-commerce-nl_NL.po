@@ -1,0 +1,424 @@
+# Translation of Themes - E-Commerce in Dutch
+# This file is distributed under the same license as the Themes - E-Commerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-05 12:16:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - E-Commerce\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "E-Commerce is a Simple, Clean and Responsive eCommerce WordPress Theme by Catch Themes. It is designed especially to work with a popular eCommerce plugin \"WooCommerce\". It is based on responsive web design where each element has been carefully configured for perfect display on all devices and platforms. Theme provides a minimalist and modern look make your eCommerce store stand out. Create a beautiful, yet professional eCommerce WordPress store in no time! eCommerce WordPress theme is super easy to use with unconventional out-of-the-box features."
+msgstr "E-Commerce is een eenvoudig, schoon en responsive e-commerce WordPress thema van Catch Themes. Het is speciaal ontworpen om te werken met een populaire e-commerce plugin \"WooCommerce\". Het is gebaseerd op responsive webdesign waarbij elk element zorgvuldig is geconfigureerd voor een perfecte weergave op alle apparaten en platforms. Thema zorgt voor een minimalistische en moderne uitstraling waardoor je e-commerce store opvalt. Maak in een mum van tijd een prachtige, maar professionele e-commerce WordPress winkel! E-Commerce WordPress thema is supereenvoudig te gebruiken met onconventionele out-of-the-box functies."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "E-Commerce"
+msgstr "E-Commerce"
+
+#: functions.php:263
+msgid "Green"
+msgstr "Groen"
+
+#: functions.php:258
+msgid "Orange"
+msgstr "Oranje"
+
+#: functions.php:253
+msgid "Blue"
+msgstr "Blauw"
+
+#: functions.php:248
+msgid "Gray"
+msgstr "Grijs"
+
+#: functions.php:243
+msgid "Black"
+msgstr "Zwart"
+
+#: functions.php:238
+msgid "White"
+msgstr "Wit"
+
+#: functions.php:228
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:227
+msgid "Huge"
+msgstr "Enorm"
+
+#: functions.php:222
+msgid "L"
+msgstr "L"
+
+#: functions.php:221
+msgid "Large"
+msgstr "Groot"
+
+#: functions.php:216
+msgid "M"
+msgstr "M"
+
+#: functions.php:215
+msgid "Normal"
+msgstr "Normaal"
+
+#: functions.php:210
+msgid "S"
+msgstr "S"
+
+#: functions.php:209
+msgid "Small"
+msgstr "Klein"
+
+#: inc/template-tags.php:293
+msgctxt "1: Year, 2: Site Title with home URL 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s %3$s"
+msgstr "Copyright &copy; %1$s %2$s %3$s"
+
+#: inc/template-tags.php:293
+msgid "Y"
+msgstr "Y"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s antwoord op &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s antwoorden op &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "One Reply to &ldquo;%s&rdquo;"
+
+#: inc/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Nu upgraden"
+
+#: inc/upgrade-button/class-customize.php:76
+msgid "E-Commerce Pro"
+msgstr "E-Commerce Pro"
+
+#: sidebar.php:22
+msgid "By default it will load Search and Archives widgets as shown below. You can add widget to this area by visiting your <a href=\"%s\">Widgets Panel</a> which will replace default widgets."
+msgstr "Standaard laadt het zoek en archief widgets zoals hieronder weergegeven. Je kunt de widget aan dit gebied toevoegen door naar je <a href=\"%s\">Widgets panel</a> te gaan dat standaard widgets zal vervangen."
+
+#: sidebar.php:21
+msgid "This is the Primary Sidebar Widget Area."
+msgstr "Dit is het primaire zijbalk widget gebied."
+
+#: sidebar.php:18
+msgid "Primary Sidebar Widget Area"
+msgstr "Primaire zijbalk widget gebied"
+
+#: template-parts/content.php:25
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:30
+#: template-parts/content.php:32
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat wij niet kunnen vinden wat jij zoekt. Wellicht dat de zoekfunctie kan helpen."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Er kwam niets overeen met je zoektermen. Probeer het nog eens met wat andere keywords."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Ga hier aan de slag</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: inc/template-tags.php:295
+msgid "Theme: %1$s by %2$s."
+msgstr "Thema: %1$s door %2$s."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/woocommerce.php:48
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+msgstr[1] "%d items"
+
+#: inc/woocommerce.php:47
+msgid "View cart"
+msgstr "Bekijk winkelwagen"
+
+#: inc/template-tags.php:181 sidebar.php:35
+msgid "Archives"
+msgstr "Archieven"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:179
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:175
+msgid "Archives: %s"
+msgstr "Archieven: %s"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Gesprekken"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statussen"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citaten"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video's"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerijen"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Zijdelings"
+
+#: inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:153
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:151
+msgid "Month: %s"
+msgstr "Maand: %s"
+
+#: inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:149
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: inc/template-tags.php:147
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: inc/template-tags.php:145
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:143
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: inc/template-tags.php:126 template-parts/content-page.php:26
+msgid "Edit"
+msgstr "Bewerken"
+
+#: inc/template-tags.php:122
+msgid "% Comments"
+msgstr "% reacties"
+
+#: inc/template-tags.php:122
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr "Een reactie plaatsen"
+
+#: inc/template-tags.php:116
+msgid "Tagged %1$s"
+msgstr "Getagd %1$s"
+
+#: inc/template-tags.php:110
+msgid "Posted in %1$s"
+msgstr "Geplaatst in %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108 inc/template-tags.php:114
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "by %s"
+msgstr "door %s"
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Geplaatst op %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Berichtnavigatie"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Nieuwere berichten"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Oudere berichten"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Berichtnavigatie"
+
+#: inc/customizer.php:45
+msgid "Enter Custom CSS"
+msgstr "Aangepaste CSS invoeren"
+
+#: inc/customizer.php:36
+msgid "Custom CSS Options"
+msgstr "Aangepaste CSS-opties"
+
+#: inc/customizer.php:33
+msgid "Custom/Inline CSS"
+msgstr "Aangepaste/inline CSS"
+
+#: inc/customizer.php:23
+msgid "Theme Options"
+msgstr "Thema opties"
+
+#: inc/customizer.php:20
+msgid "Basic theme Options"
+msgstr "Basis thema opties"
+
+#: inc/structure.php:58
+msgid "Skip to content"
+msgstr "Naar de inhoud springen"
+
+#. Translators: If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:170
+msgctxt "Google fonts: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:156
+msgid "Comment"
+msgstr "Reactie"
+
+#: functions.php:155
+msgid "URL"
+msgstr "URL"
+
+#: functions.php:154
+msgid "Email"
+msgstr "E-mail"
+
+#: functions.php:153
+msgid "Name"
+msgstr "Naam"
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: functions.php:65
+msgid "Social Menu"
+msgstr "Sociaal menu"
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr "Hoofdmenu"
+
+#: comments.php:89
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:55 comments.php:77
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: comments.php:54 comments.php:76
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: comments.php:51 comments.php:73
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Wellicht kan je kijken in de maandelijkse archieven. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Meest gebruikte categorieën"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Het lijkt erop dat er niets is gevonden op deze locatie. Misschien een van de onderstaande links proberen of een zoekopdracht?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Deze pagina kon niet worden gevonden."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://catchthemes.com/"
+msgstr "https://catchthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://catchthemes.com/themes/e-commerce/"
+msgstr "https://catchthemes.com/themes/e-commerce/"
